@@ -57,6 +57,14 @@ export const resources: Resource[] = [
         keywords: ['saas', 'starter kit', 'boilerplate', 'next.js', 'shadcn', 'next-auth', 'prisma'],
     },
     {
+        name: 'Actvt',
+        description:
+            'macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server.',
+        categories: ['AI', 'Productivity', 'Tooling'],
+        url: 'https://actvt.io',
+        keywords: ['macos', 'menu bar', 'system monitor', 'claude code', 'codex', 'mcp', 'ai agents', 'cost tracking'],
+    },
+    {
         name: 'Ad Swipe File',
         description: 'Create top creatives: free access to 22,423+ proven ads!',
         categories: ['Marketing', 'AI', 'Inspiration'],
@@ -94,11 +102,27 @@ export const resources: Resource[] = [
         keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
     },
     {
+        name: 'Agent Island',
+        description:
+            'Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.',
+        categories: ['Open Source', 'Productivity', 'Tooling'],
+        url: 'https://agent-island.dev/',
+        keywords: ['claude code', 'codex', 'coding agents', 'session monitoring', 'developer tools'],
+    },
+    {
         name: 'Agent Security',
         description: 'Security for AI agents',
         categories: ['Security', 'AI', 'Newsletter'],
         url: 'https://agentsecurity.com',
         keywords: ['data', 'ai security', 'agent security', 'llm security'],
+    },
+    {
+        name: 'agent-qa',
+        description:
+            'Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.',
+        categories: ['AI', 'Testing', 'Tooling'],
+        url: 'https://github.com/vostride/agent-qa',
+        keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
     },
     {
         name: 'Ahrefs',

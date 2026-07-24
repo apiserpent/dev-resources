@@ -1,5 +1,5 @@
 {
-"count": 1180,
+"count": 1195,
 "data": [
     {
         "name": "1001 Fonts",
@@ -194,6 +194,26 @@
         ]
     },
     {
+        "name": "Actvt",
+        "description": "macOS menu bar app that monitors your Mac and your AI coding agents, with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server.",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://actvt.io",
+        "keywords": [
+            "macos",
+            "menu bar",
+            "system monitor",
+            "claude code",
+            "codex",
+            "mcp",
+            "ai agents",
+            "cost tracking"
+        ]
+    },
+    {
         "name": "Ad Swipe File",
         "description": "Create top creatives: free access to 22,423+ proven ads!",
         "categories": [
@@ -268,6 +288,23 @@
         ]
     },
     {
+        "name": "Agent Island",
+        "description": "Open-source local status companion for Claude Code and Codex sessions on macOS and Windows, with working, your-turn, stalled and attention states.",
+        "categories": [
+            "Open Source",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://agent-island.dev/",
+        "keywords": [
+            "claude code",
+            "codex",
+            "coding agents",
+            "session monitoring",
+            "developer tools"
+        ]
+    },
+    {
         "name": "Agent Security",
         "description": "Security for AI agents",
         "categories": [
@@ -281,6 +318,25 @@
             "ai security",
             "agent security",
             "llm security"
+        ]
+    },
+    {
+        "name": "agent-qa",
+        "description": "Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.",
+        "categories": [
+            "AI",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://github.com/vostride/agent-qa",
+        "keywords": [
+            "ai",
+            "testing",
+            "qa",
+            "web",
+            "mobile",
+            "regression testing",
+            "natural language tests"
         ]
     },
     {
@@ -4637,6 +4693,23 @@
         "url": "https://feathericons.com/"
     },
     {
+        "name": "Feedframer",
+        "description": "Instagram feed API that handles OAuth and automatic token refresh, serving posts as JSON, GraphQL, or RSS. Free tier available.",
+        "categories": [
+            "API Building",
+            "Social Media"
+        ],
+        "url": "https://feedframer.com",
+        "keywords": [
+            "instagram",
+            "api",
+            "feed",
+            "rss",
+            "json",
+            "graphql"
+        ]
+    },
+    {
         "name": "Figma",
         "description": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.",
         "categories": [
@@ -5066,6 +5139,24 @@
             "Code Snippet"
         ],
         "url": "https://formcn.dev/"
+    },
+    {
+        "name": "FoundRole",
+        "description": "AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.",
+        "categories": [
+            "Job",
+            "AI",
+            "Remote"
+        ],
+        "url": "https://www.foundrole.com/",
+        "keywords": [
+            "jobs",
+            "job search",
+            "developer jobs",
+            "remote",
+            "tracker",
+            "mcp"
+        ]
     },
     {
         "name": "Foundy",
@@ -6140,6 +6231,22 @@
             "Illustration"
         ],
         "url": "https://app.haikei.app"
+    },
+    {
+        "name": "Hanzilla Jobs",
+        "description": "Daily-updated Canadian student and recent-grad software engineering jobs board with internships, co-ops, new grad, junior, and entry-level developer roles.",
+        "categories": [
+            "Job",
+            "Programming"
+        ],
+        "url": "https://jobs.hanzilla.co/categories/software-engineering/",
+        "keywords": [
+            "canada",
+            "software engineering",
+            "internships",
+            "new grad",
+            "junior developer"
+        ]
     },
     {
         "name": "Happy Hues",
@@ -7297,6 +7404,22 @@
         ]
     },
     {
+        "name": "Kube-DC Cloud",
+        "description": "A Kubernetes-native cloud platform to manage VMs, Kubernetes clusters, databases, and networks via manifests, AI assistants, or a real-time web console — all running in a fixed-price resource pool starting at €19/mo, hosted in Amsterdam.",
+        "categories": [
+            "Hosting",
+            "Cloud Computing"
+        ],
+        "url": "https://kube-dc.cloud/",
+        "keywords": [
+            "kubernetes",
+            "cloud hosting",
+            "kubevirt",
+            "vps",
+            "devops"
+        ]
+    },
+    {
         "name": "Ladybug",
         "description": "We’re debugging the tech industry. Every Monday.",
         "categories": [
@@ -8198,6 +8321,25 @@
             "Personal Website"
         ],
         "url": "https://markodenic.com/"
+    },
+    {
+        "name": "Markstream",
+        "description": "Streaming Markdown renderers for AI chat interfaces across Vue, React, Svelte, Angular, Nuxt, and Next.js, with diagrams, math, code, and safe HTML.",
+        "categories": [
+            "Library",
+            "Open Source",
+            "UI"
+        ],
+        "url": "https://markstream.simonhe.me/",
+        "keywords": [
+            "streaming markdown",
+            "ai chat",
+            "frontend",
+            "vue",
+            "react",
+            "svelte",
+            "angular"
+        ]
     },
     {
         "name": "Mastery Games",
@@ -9713,6 +9855,24 @@
         "url": "https://polypane.app/"
     },
     {
+        "name": "PostalCodes.info",
+        "description": "Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.",
+        "categories": [
+            "API Building",
+            "Database",
+            "Open Source"
+        ],
+        "url": "https://postalcodes.info/api",
+        "keywords": [
+            "postal codes",
+            "postcodes",
+            "zip codes",
+            "geocoding",
+            "datasets",
+            "address validation"
+        ]
+    },
+    {
         "name": "PostgreSQL",
         "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
         "categories": [
@@ -9785,6 +9945,24 @@
         "keywords": [
             "cv",
             "LaTeX"
+        ]
+    },
+    {
+        "name": "PracHub",
+        "description": "Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.",
+        "categories": [
+            "Interview",
+            "Learn",
+            "Code Challenge"
+        ],
+        "url": "https://prachub.com",
+        "keywords": [
+            "interview",
+            "coding interview",
+            "leetcode alternative",
+            "system design",
+            "sql",
+            "machine learning"
         ]
     },
     {
@@ -10811,6 +10989,24 @@
         "url": "https://roadmap.sh/"
     },
     {
+        "name": "Roblox GUI Maker",
+        "description": "AI-assisted Roblox Studio interface planner for ScreenGui layouts, HUDs, menus, and Lua UI starter code.",
+        "categories": [
+            "AI",
+            "Programming",
+            "UI"
+        ],
+        "url": "https://robloxguimaker.dev/",
+        "keywords": [
+            "roblox",
+            "roblox studio",
+            "lua",
+            "ui",
+            "screen gui",
+            "game development"
+        ]
+    },
+    {
         "name": "Rocket Crew",
         "description": "The biggest list of Space jobs from New space companies.",
         "categories": [
@@ -10833,6 +11029,25 @@
             "voice",
             "audio",
             "phone"
+        ]
+    },
+    {
+        "name": "RouterBase",
+        "description": "RouterBase is an AI API gateway for developers and small teams. Through a single OpenAI-compatible endpoint, it provides access to 200+ AI models from providers like OpenAI, Anthropic, Google, and Meta, with smart routing, automatic failover, and unified usage and cost tracking.",
+        "categories": [
+            "AI",
+            "API Building",
+            "Tooling"
+        ],
+        "url": "https://routerbase.com",
+        "keywords": [
+            "ai",
+            "api",
+            "llm",
+            "openai-compatible",
+            "ai gateway",
+            "model routing",
+            "developer tools"
         ]
     },
     {
@@ -11237,6 +11452,20 @@
             "Scraping"
         ],
         "url": "https://serpapi.com/",
+        "keywords": [
+            "scraping",
+            "google",
+            "search",
+            "api"
+        ]
+    },
+    {
+        "name": "Serpent API",
+        "description": "The cheapest Google SERP API and AI rank tracking infrastructure. Deliver search engine results and direct AI model citation tracking as structured JSON.",
+        "categories": [
+            "Scraping"
+        ],
+        "url": "https://apiserpent.com",
         "keywords": [
             "scraping",
             "google",
@@ -13234,6 +13463,24 @@
         ]
     },
     {
+        "name": "Tura",
+        "description": "Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Terminal"
+        ],
+        "url": "https://turaai.net/",
+        "keywords": [
+            "coding agent",
+            "developer tool",
+            "rust",
+            "cli",
+            "tui",
+            "open source"
+        ]
+    },
+    {
         "name": "Tweet Detective",
         "description": "Discover the power of AI detection on Twitter. Our tool uses advanced algorithms to analyze and reveal AI-generated content",
         "categories": [
@@ -13511,6 +13758,25 @@
             "UI"
         ],
         "url": "https://uiverse.io/"
+    },
+    {
+        "name": "UIZZE",
+        "description": "Fix AI UI slop before it ships with a free-to-browse Web and iOS reference catalog plus full-access research tools for coding agents.",
+        "categories": [
+            "AI",
+            "Design",
+            "UI"
+        ],
+        "url": "https://uizze.com",
+        "keywords": [
+            "ai agents",
+            "coding agents",
+            "ui reference",
+            "web ui",
+            "ios ui",
+            "mcp",
+            "anti-slop"
+        ]
     },
     {
         "name": "Ultimate Web Speed",

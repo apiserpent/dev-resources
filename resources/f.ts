@@ -43,6 +43,14 @@ export const resources: Resource[] = [
         url: 'https://feathericons.com/',
     },
     {
+        name: 'Feedframer',
+        description:
+            'Instagram feed API that handles OAuth and automatic token refresh, serving posts as JSON, GraphQL, or RSS. Free tier available.',
+        categories: ['API Building', 'Social Media'],
+        url: 'https://feedframer.com',
+        keywords: ['instagram', 'api', 'feed', 'rss', 'json', 'graphql'],
+    },
+    {
         name: 'Figma',
         description:
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
@@ -365,6 +373,14 @@ export const resources: Resource[] = [
         description: 'Easily build single- and multi-step forms with auto-generated client- and server-side code.',
         categories: ['Code Snippet'],
         url: 'https://formcn.dev/',
+    },
+    {
+        name: 'FoundRole',
+        description:
+            'AI-powered job search platform for developers: an AI job search engine, a built-in Kanban application tracker, and an open-source MCP server to search live listings from Claude and ChatGPT.',
+        categories: ['Job', 'AI', 'Remote'],
+        url: 'https://www.foundrole.com/',
+        keywords: ['jobs', 'job search', 'developer jobs', 'remote', 'tracker', 'mcp'],
     },
     {
         name: 'Foundy',
