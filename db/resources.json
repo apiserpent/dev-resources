@@ -1,5 +1,5 @@
 {
-"count": 1197,
+"count": 1201,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3753,6 +3753,26 @@
             "github docs automation",
             "llm documentation update",
             "ai technical writer"
+        ]
+    },
+    {
+        "name": "DepthFeed",
+        "description": "Historical and live prediction-market order-book data APIs and MCP for backtesting Polymarket, Kalshi, Limitless, and Predict.fun.",
+        "categories": [
+            "Analytics",
+            "AI",
+            "Web3"
+        ],
+        "url": "https://depthfeed.com",
+        "keywords": [
+            "prediction markets",
+            "order book",
+            "backtesting",
+            "market data",
+            "api",
+            "mcp",
+            "polymarket",
+            "kalshi"
         ]
     },
     {
@@ -9599,6 +9619,24 @@
         ]
     },
     {
+        "name": "Payload Components",
+        "description": "An MIT registry and CLI that installs typed Payload CMS blocks into Payload v3 and Next.js projects with automated collection, renderer, type, and admin import-map wiring.",
+        "categories": [
+            "CMS",
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://www.payload-components.xyz/",
+        "keywords": [
+            "payload cms",
+            "next.js",
+            "typescript",
+            "shadcn",
+            "component registry",
+            "open source"
+        ]
+    },
+    {
         "name": "pCloudy",
         "description": "Continuous testing platform that helps to speed up the app testing by enabling end to end continuous testing for enterprises.",
         "categories": [
@@ -9810,6 +9848,26 @@
             "vector icons",
             "iOS icons",
             "Android icons"
+        ]
+    },
+    {
+        "name": "Planomy Tax Data",
+        "description": "2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source",
+        "categories": [
+            "Library",
+            "Open Source"
+        ],
+        "url": "https://github.com/demorphed6-lgtm/planomy-tax-data",
+        "keywords": [
+            "tax",
+            "irs",
+            "tax brackets",
+            "dataset",
+            "open data",
+            "retirement",
+            "401k",
+            "ira",
+            "hsa"
         ]
     },
     {
@@ -14579,6 +14637,23 @@
             "Remote"
         ],
         "url": "https://weworkremotely.com/"
+    },
+    {
+        "name": "WealthVille",
+        "description": "Scores DeFi liquidity pools so you can tell whether one is worth providing liquidity to. Covers Solana and EVM pools, returning a 0-100 score and an Enter/Hold/Exit verdict, with a public track record that includes the misses. Free keyless REST API and an MCP server for AI agents.",
+        "categories": [
+            "Web3",
+            "Analytics"
+        ],
+        "url": "https://wealthville.net/developers",
+        "keywords": [
+            "DeFi",
+            "liquidity pools",
+            "Solana",
+            "EVM",
+            "API",
+            "MCP"
+        ]
     },
     {
         "name": "Web Code Tools",
