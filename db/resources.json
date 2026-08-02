@@ -1,5 +1,5 @@
 {
-"count": 1201,
+"count": 1200,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5559,7 +5559,7 @@
             "Learn",
             "Programming"
         ],
-        "url": "https://frontendatlas.com/coding",
+        "url": "https://frontendatlas.com",
         "keywords": [
             "frontend",
             "javascript",
@@ -7457,6 +7457,21 @@
             "kubevirt",
             "vps",
             "devops"
+        ]
+    },
+    {
+        "name": "Lacuna",
+        "description": "AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.",
+        "categories": [
+            "Audio",
+            "AI"
+        ],
+        "url": "https://lacuna.fm",
+        "keywords": [
+            "music",
+            "audio",
+            "generation",
+            "api"
         ]
     },
     {
@@ -9933,24 +9948,6 @@
         "url": "https://polypane.app/"
     },
     {
-        "name": "PostalCodes.info",
-        "description": "Global postal code dataset and API for developers, with country coverage, downloadable CSV/JSON data, API documentation, and a citable Zenodo release.",
-        "categories": [
-            "API Building",
-            "Database",
-            "Open Source"
-        ],
-        "url": "https://postalcodes.info/api",
-        "keywords": [
-            "postal codes",
-            "postcodes",
-            "zip codes",
-            "geocoding",
-            "datasets",
-            "address validation"
-        ]
-    },
-    {
         "name": "PostgreSQL",
         "description": "PostgreSQL is an enterprise-class open source database management system. It supports both SQL for relational and JSON for non-relational queries.",
         "categories": [
@@ -11065,24 +11062,6 @@
             "Programming"
         ],
         "url": "https://roadmap.sh/"
-    },
-    {
-        "name": "Roblox GUI Maker",
-        "description": "AI-assisted Roblox Studio interface planner for ScreenGui layouts, HUDs, menus, and Lua UI starter code.",
-        "categories": [
-            "AI",
-            "Programming",
-            "UI"
-        ],
-        "url": "https://robloxguimaker.dev/",
-        "keywords": [
-            "roblox",
-            "roblox studio",
-            "lua",
-            "ui",
-            "screen gui",
-            "game development"
-        ]
     },
     {
         "name": "Rocket Crew",
