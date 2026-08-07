@@ -391,6 +391,13 @@ export const resources: Resource[] = [
         url: 'https://www.toptal.com/',
     },
     {
+        name: 'TrackingCoder',
+        description: 'Set up website tracking in 2 minutes, not 2 hours.',
+        categories: ['Analytics', 'Marketing', 'Tooling'],
+        url: 'https://trackingcoder.com/',
+        keywords: ['website tracking', 'conversion tracking', 'ads tracking', 'google analytics'],
+    },
+    {
         name: 'Trails',
         description: 'The easiest way to document your process',
         categories: ['Documentation', 'Productivity', 'AI'],
@@ -400,6 +407,27 @@ export const resources: Resource[] = [
             'process documentation software',
             'training documentation tool',
             'workflow documentation software',
+        ],
+    },
+    {
+        name: 'TranscriptFetch',
+        description:
+            'Transcript API for YouTube, TikTok, Instagram and podcasts. Clean, timestamped JSON from one call, with AI fallback when there are no captions.',
+        categories: ['Video'],
+        url: 'https://transcriptfetch.com',
+        keywords: [
+            'transcript',
+            'youtube',
+            'tiktok',
+            'instagram',
+            'podcast',
+            'spotify',
+            'captions',
+            'subtitles',
+            'speech-to-text',
+            'video',
+            'llm',
+            'rag',
         ],
     },
     {

@@ -225,6 +225,14 @@ export const resources: Resource[] = [
         keywords: ['icons', 'line icons', 'vector icons', 'iOS icons', 'Android icons'],
     },
     {
+        name: 'PixelVault',
+        description:
+            'Agent-first image hosting on the Cloudflare edge. Uploads return a raw image URL that AI coding agents can fetch, plus on-the-fly transforms. Free tier.',
+        categories: ['Image', 'Hosting', 'AI'],
+        url: 'https://pixelvault.dev',
+        keywords: ['image hosting', 'AI agents', 'screenshot hosting', 'image CDN', 'image transforms'],
+    },
+    {
         name: 'Planomy Tax Data',
         description:
             '2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source',
@@ -316,6 +324,14 @@ export const resources: Resource[] = [
         keywords: ['cv', 'LaTeX'],
     },
     {
+        name: 'PR Radar',
+        description:
+            'Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts.',
+        categories: ['Extension', 'Open Source', 'Tooling'],
+        url: 'https://github.com/deployhq/pr-radar',
+        keywords: ['pull requests', 'code review', 'CI', 'GitHub', 'GitLab', 'Bitbucket'],
+    },
+    {
         name: 'PracHub',
         description:
             'Practice 8,500+ real tech-interview questions from 400+ top companies — coding, SQL, ML, and system design — in an in-browser console with AI-assisted hints.',
@@ -396,6 +412,13 @@ export const resources: Resource[] = [
         categories: ['Productivity', 'AI', 'Library'],
         url: 'https://searchpromptly.com/',
         keywords: ['community', 'social network', 'social', 'prompt generator'],
+    },
+    {
+        name: 'PromptPlanner',
+        description: 'Prompt manager for Mac to organize, schedule, and copy reusable AI prompts',
+        categories: ['Productivity', 'AI', 'Library'],
+        url: 'https://promptplanner.app/',
+        keywords: ['prompt library', 'prompt manager', 'prompt management', 'prompt engineering'],
     },
     {
         name: 'Proxed.AI',

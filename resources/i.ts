@@ -39,6 +39,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'IconKing',
+        description:
+            'Free browser-based Lottie animation previewer, color editor, and .json ↔ .lottie format converter. 100% client-side — no upload, no account needed.',
+        categories: ['Animation', 'Design'],
+        url: 'https://iconking.net',
+        keywords: ['lottie', 'lottie animation', 'dotlottie', 'animation preview', 'lottie converter', 'lottie editor'],
+    },
+    {
         name: 'iconmonstr',
         description: 'Free simple icons for your next project.',
         categories: ['Icon'],
@@ -220,6 +228,22 @@ export const resources: Resource[] = [
             'Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.',
         categories: ['Job'],
         url: 'https://iosdevjobs.com/',
+    },
+    {
+        name: 'IPASIS',
+        description:
+            'Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy detection, and email validation in a single call. Free tier: 100 requests/day.',
+        categories: ['Security', 'API Building'],
+        url: 'https://ipasis.com',
+        keywords: [
+            'bot detection',
+            'fraud prevention',
+            'ip reputation',
+            'email validation',
+            'vpn detection',
+            'proxy detection',
+            'api security',
+        ],
     },
     {
         name: 'IPWho IP Geolocation API',

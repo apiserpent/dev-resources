@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'Cactal',
+        description:
+            'Cactal is the website platform for AI agents. Connect Claude, Cursor, or your own agent and build, host, and operate production websites from one API.',
+        categories: ['Website Builder', 'AI', 'Tooling'],
+        url: 'https://cactal.ai',
+        keywords: ['AI agents', 'MCP', 'website builder', 'AI website builder', 'developer tools', 'headless CMS'],
+    },
+    {
         name: 'Cactro',
         description: 'India’s Fairest Technical Test | Trusted by 300+ Companies',
         categories: ['Job', 'Interview', 'Code Challenge'],
@@ -93,6 +101,14 @@ export const resources: Resource[] = [
             'wayback',
             'domainer',
         ],
+    },
+    {
+        name: 'Causeway',
+        description:
+            'Give your AI a real Chromium browser: Causeway exposes 52 MCP tools to navigate, read, click, type, screenshot, and run JavaScript through CDP.',
+        categories: ['Browser', 'Tooling', 'AI'],
+        url: 'https://wildernessinteractive.com/causeway',
+        keywords: ['mcp', 'browser automation', 'chromium', 'chrome devtools protocol', 'rust', 'ai agents'],
     },
     {
         name: 'Cert Decoder',
@@ -1086,6 +1102,13 @@ export const resources: Resource[] = [
         categories: ['Font', 'Icon', 'Illustration'],
         url: 'https://craftwork.design',
         keywords: ['ui', 'ux', 'vector', 'graphics', '3d'],
+    },
+    {
+        name: 'CrawlRaven',
+        description: 'Professional SEO audits with 200+ checks and prioritized fixes',
+        categories: ['SEO', 'Marketing', 'Scraping'],
+        url: 'https://www.crawlraven.com/',
+        keywords: ['marketing', 'seo audit', 'technical seo', 'site crawler'],
     },
     {
         name: 'CreativesFeed',
