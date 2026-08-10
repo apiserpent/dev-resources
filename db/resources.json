@@ -1,5 +1,5 @@
 {
-"count": 1220,
+"count": 1222,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7622,6 +7622,22 @@
         ]
     },
     {
+        "name": "LabEx",
+        "description": "Hands-on online learning platform for Linux, DevOps, cybersecurity, programming, data science, and more through interactive labs.",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://labex.io",
+        "keywords": [
+            "hands-on labs",
+            "linux",
+            "devops",
+            "cybersecurity",
+            "programming"
+        ]
+    },
+    {
         "name": "Lacuna",
         "description": "AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.",
         "categories": [
@@ -14464,6 +14480,28 @@
             "Illustration"
         ],
         "url": "https://www.artify.co/vector-illustrations"
+    },
+    {
+        "name": "VectorElements",
+        "description": "VectorElements offers free and premium vector illustrations, icons, UI kits, textures, and design assets for websites, apps, print, and digital projects.",
+        "categories": [
+            "Illustration"
+        ],
+        "url": "https://vectorelements.net/",
+        "keywords": [
+            "vector illustrations",
+            "free vectors",
+            "SVG graphics",
+            "design resources",
+            "web graphics",
+            "SVG illustrations",
+            "icons",
+            "graphic assets",
+            "web design",
+            "icons pack",
+            "creative resources",
+            "vector graphics"
+        ]
     },
     {
         "name": "Vectr",
