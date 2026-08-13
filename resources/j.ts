@@ -15,12 +15,6 @@ export const resources: Resource[] = [
         url: 'https://www.heavybit.com/library/podcasts/jamstack-radio/',
     },
     {
-        name: 'JAMstacked',
-        description: 'An email update on the evolving JAMstack ecosystem.',
-        categories: ['Newsletter', 'Programming'],
-        url: 'https://jamstack.email/',
-    },
-    {
         name: 'JavaScript Developer Jobs',
         description:
             'Find specific JavaScript Developer Jobs, including Remote Jobs. You are looking for JavaScript Developers? Submit your position for free.',
@@ -79,6 +73,14 @@ export const resources: Resource[] = [
         description: 'We analyze over 10 million jobs per month to identify trends.',
         categories: ['Job'],
         url: 'https://job.zip',
+    },
+    {
+        name: 'JobBoardSearch 🔎',
+        categories: ['Job'],
+        description:
+            'Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates',
+        url: 'https://jobboardsearch.com/',
+        keywords: ['jobs', 'job boards'],
     },
     {
         name: 'Jobicy',
@@ -162,13 +164,5 @@ export const resources: Resource[] = [
             'Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.',
         categories: ['Job', 'Remote'],
         url: 'https://justremote.co/',
-    },
-    {
-        name: 'JobBoardSearch 🔎',
-        categories: ['Job'],
-        description:
-            'Meta directory of job boards with filters. Helping: Job seekers to find jobs, Job boards to promote, Recruiters to find the best candidates',
-        url: 'https://jobboardsearch.com/',
-        keywords: ['jobs', 'job boards'],
     },
 ]

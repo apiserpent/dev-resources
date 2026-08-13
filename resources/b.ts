@@ -45,6 +45,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Base Converter',
+        description:
+            'Convert numbers between binary, octal, decimal and hexadecimal instantly, with input validation and prefix support. 100% client-side, no signup required.',
+        categories: ['Programming', 'Tooling'],
+        url: 'https://nutilz.com/base-converter',
+        keywords: ['base converter', 'binary to decimal', 'hex converter', 'octal converter', 'number base conversion'],
+    },
+    {
         name: 'Bazzly',
         description: 'Get Customers From Reddit on Autopilot',
         categories: ['Marketing', 'AI', 'Social Media'],
@@ -143,13 +151,6 @@ export const resources: Resource[] = [
         categories: ['Programming', 'YouTube Channel'],
         url: 'https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA',
         keywords: ['programming web development javascript react node.js'],
-    },
-    {
-        name: 'Big Heads',
-        description:
-            'Combine expressions, clothing, hair styles and colors into billions of different unique characters.',
-        categories: ['Illustration'],
-        url: 'https://bigheads.io/',
     },
     {
         name: 'BigDevSoon',

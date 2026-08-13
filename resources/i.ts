@@ -69,7 +69,7 @@ export const resources: Resource[] = [
     {
         name: 'Iconshock',
         description:
-            'Free icons and premium icon packs.  Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.',
+            'Free icons and premium icon packs. Flat icons, Material icons, Glyph icons, iOS icons, Font icons, and more design styles. Vector files, including PNG and SVG icons. Ready for apps, web or social media projects.',
         categories: ['Icon'],
         url: 'https://www.iconshock.com/',
         keywords: [
@@ -77,7 +77,7 @@ export const resources: Resource[] = [
             'web icon set',
             'web icon',
             'professional icons',
-            'software  web icons',
+            'software web icons',
             'web icons vista',
             'xp web icons',
             'windows vista icons',
@@ -285,5 +285,12 @@ export const resources: Resource[] = [
         description: 'Carefully crafted isometric icons.',
         categories: ['Icon'],
         url: 'https://www.isocons.app',
+    },
+    {
+        name: 'ItsPaint',
+        description:
+            'Free, open-source native macOS paint app for marking up screenshots and bug reports, with numbered step badges, pixelate, and 8 export formats.',
+        categories: ['Screenshot', 'Image', 'Design'],
+        url: 'https://itspaintmac.com',
     },
 ]

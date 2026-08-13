@@ -15,7 +15,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'Namekit',
-        description: 'AI-powered domain search - find available, standard-price names instantly. ',
+        description: 'AI-powered domain search - find available, standard-price names instantly.',
         categories: ['Domain'],
         url: 'https://namekit.app',
         keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
@@ -49,6 +49,14 @@ export const resources: Resource[] = [
         categories: ['Database', 'Hosting', 'Cloud Computing'],
         url: 'https://nearbase.dev/',
         keywords: ['database', 'postgreSQL', 'dbaaS', 'postgres hosting'],
+    },
+    {
+        name: 'Neenja AI',
+        description:
+            'Neenja AI is a real-time AI platform that provides assistance during live interviews and assessments.',
+        categories: ['Interview'],
+        url: 'https://www.neenja.ai/',
+        keywords: ['AI Interview Assistance', 'Assessments', 'AI'],
     },
     {
         name: 'Netlify',
@@ -131,7 +139,7 @@ export const resources: Resource[] = [
         description:
             'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
         categories: ['SEO', 'Marketing'],
-        url: ' https://nichetools.net',
+        url: 'https://nichetools.net',
         keywords: ['SEO', 'Marketing'],
     },
     {
@@ -204,5 +212,13 @@ export const resources: Resource[] = [
         categories: ['Resume'],
         url: 'https://novoresume.com/',
         keywords: ['professional resume builder'],
+    },
+    {
+        name: 'Nutilz',
+        description:
+            'Free browser-based developer tools including regex tester, JSON formatter, converters, and calculators. No sign-up required.',
+        categories: ['Tooling', 'Productivity', 'Code Generator'],
+        url: 'https://nutilz.com',
+        keywords: ['regex', 'json', 'developer tools', 'converters', 'calculators'],
     },
 ]

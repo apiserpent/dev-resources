@@ -187,13 +187,6 @@ export const resources: Resource[] = [
         keywords: ['database', 'redis', 'serverless', 'durable storage', 'low latency'],
     },
     {
-        name: 'Upto.Site',
-        description: 'Upto.Site is the ultimate url shortener which can be used to create instant FREE short urls.',
-        categories: ['Tooling'],
-        url: 'https://upto.site',
-        keywords: ['url shortener', 'link', 'link shortener', 'link shortener api'],
-    },
-    {
         name: 'Upwork',
         description:
             'Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs. Scale your workforce dynamically as business needs change.',
@@ -204,8 +197,8 @@ export const resources: Resource[] = [
         name: 'Url Opener',
         description: 'Open multiple urls with one click',
         categories: ['Extension', 'Productivity', 'Browser'],
-        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en',
-        keywords: ['url opener', 'open multiple urls', 'multiple url opener​', 'link opener'],
+        url: 'https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee',
+        keywords: ['url opener', 'open multiple urls', 'multiple url opener', 'link opener'],
     },
     {
         name: 'Use The Keyboard',

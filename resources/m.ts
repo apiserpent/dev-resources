@@ -51,7 +51,7 @@ export const resources: Resource[] = [
     {
         name: 'Mailgun',
         description:
-            'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind. ',
+            'Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind.',
         categories: ['Email', 'Marketing'],
         url: 'https://www.mailgun.com/',
     },
@@ -99,9 +99,17 @@ export const resources: Resource[] = [
     },
     {
         name: 'Markdown Guide',
-        description: ' A free and open-source reference guide that explains how to use Markdown.',
+        description: 'A free and open-source reference guide that explains how to use Markdown.',
         categories: ['Cheatsheet'],
         url: 'https://markdownguide.org',
+    },
+    {
+        name: 'Markdown Tools Online',
+        description:
+            'Free online document converter. Convert Markdown to PDF, HTML to Markdown, and more. No signup required, no data stored.',
+        categories: ['Tool'],
+        url: 'https://markdowntoolsonline.com',
+        keywords: ['markdown to pdf', 'markdown editor'],
     },
     {
         name: 'Marketing Auditor',
@@ -187,7 +195,7 @@ export const resources: Resource[] = [
     },
     {
         name: 'MeetMoji',
-        description: 'Live Polls for Google Slides with an AI Assistant ',
+        description: 'Live Polls for Google Slides with an AI Assistant',
         categories: ['AI', 'Productivity', 'Writing'],
         url: 'https://meetmoji.com',
     },
@@ -390,13 +398,6 @@ export const resources: Resource[] = [
         description: 'Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It',
         categories: ['Library', 'Programming'],
         url: 'https://morrisjs.github.io/morris.js/',
-    },
-    {
-        name: 'MuckBrass',
-        description: 'Find & Validate Startup Ideas using AI',
-        categories: ['SEO', 'Productivity', 'Startup'],
-        url: 'https://www.muckbrass.com',
-        keywords: ['data', 'research', 'startupidea', 'idea', 'ai'],
     },
     {
         name: 'MyChatbots AI',

@@ -258,16 +258,16 @@ export const resources: Resource[] = [
         keywords: ['Performance', 'Uptime', 'Monitoring', 'Status Page', 'Web Vitals', 'SSL', 'HTTP(s)', 'DNS'],
     },
     {
-        name: 'Shadcnblocks',
-        categories: ['Template', 'UI', 'Design'],
-        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
-        url: 'https://shadcnblocks.com',
-    },
-    {
         name: 'Shadcn Templates',
         categories: ['Template', 'UI', 'Design'],
         description: 'A collection of Shadcn UI templates, components, boilerplates, and more.',
         url: 'https://shadcntemplates.com',
+    },
+    {
+        name: 'Shadcnblocks',
+        categories: ['Template', 'UI', 'Design'],
+        description: 'Hundreds of extra blocks and components for shadcn/ui, Tailwind & React.',
+        url: 'https://shadcnblocks.com',
     },
     {
         name: 'Shape',
@@ -327,7 +327,7 @@ export const resources: Resource[] = [
     {
         name: 'Shipped.club',
         description:
-            'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
+            'The #1 Next.js SaaS Kit for busy founders. Build and ship your startup in days, not months, and make money online.',
         categories: ['Productivity', 'Template', 'Website Builder'],
         url: 'https://shipped.club',
     },
@@ -794,7 +794,7 @@ export const resources: Resource[] = [
     {
         name: 'Stack Overflow',
         description:
-            'Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.',
+            'Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.',
         categories: ['Programming'],
         url: 'http://stackoverflow.com/',
     },
