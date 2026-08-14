@@ -206,6 +206,25 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'SEO Site Checkup',
+        description:
+            'Analyze websites with automated SEO audits, technical checks, and actionable recommendations to improve search engine performance.',
+        categories: ['SEO', 'Performance'],
+        url: 'https://seositecheckup.com/',
+        keywords: [
+            'seo',
+            'technical seo',
+            'seo audit',
+            'website audit',
+            'site analysis',
+            'search engine optimization',
+            'page speed',
+            'meta tags',
+            'schema',
+            'performance',
+        ],
+    },
+    {
         name: 'Seotisfy',
         description:
             'Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.',
@@ -373,7 +392,7 @@ export const resources: Resource[] = [
         description:
             'Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.',
         categories: ['Library', 'Programming'],
-        url: 'http://sigmajs.org/',
+        url: 'https://sigmajs.org/',
     },
     {
         name: 'Simple Analytics',
@@ -386,7 +405,7 @@ export const resources: Resource[] = [
         name: 'Simple Icons',
         description: '1493 Free SVG icons for popular brands.',
         categories: ['Icon'],
-        url: 'http://simpleicons.org/',
+        url: 'https://simpleicons.org/',
     },
     {
         name: 'SinglebaseCloud',
@@ -796,7 +815,7 @@ export const resources: Resource[] = [
         description:
             'Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.',
         categories: ['Programming'],
-        url: 'http://stackoverflow.com/',
+        url: 'https://stackoverflow.com/',
     },
     {
         name: 'Staclo.host',
