@@ -1,5 +1,5 @@
 {
-"count": 1222,
+"count": 1225,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5891,6 +5891,27 @@
         "url": "https://getterms.io/"
     },
     {
+        "name": "GIF Master",
+        "description": "GIF tools for compression, speed control, background removal, GIF-to-WebP, GIF-to-PNG, GIF-to-video, PNG-to-GIF, video-to-GIF, and screen recording.",
+        "categories": [
+            "Image",
+            "Video",
+            "Tooling"
+        ],
+        "url": "https://gif-master.com",
+        "keywords": [
+            "gif compressor",
+            "gif speed changer",
+            "remove gif background",
+            "gif to webp",
+            "gif to png",
+            "gif to video",
+            "png to gif",
+            "video to gif",
+            "screen recorder"
+        ]
+    },
+    {
         "name": "Git Cheat Sheets",
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "categories": [
@@ -8176,6 +8197,23 @@
             "SaaS",
             "AI-driven solutions",
             "cloud platforms"
+        ]
+    },
+    {
+        "name": "Live Tennis API",
+        "description": "Tennis data API with live scores (serving and break-point state), player rankings, fixtures, and match history; free keyed tier available.",
+        "categories": [
+            "Analytics",
+            "Tooling"
+        ],
+        "url": "https://livetennisapi.com",
+        "keywords": [
+            "tennis",
+            "live scores",
+            "sports data",
+            "rankings",
+            "fixtures",
+            "api"
         ]
     },
     {
@@ -12245,6 +12283,25 @@
             "UI"
         ],
         "url": "https://www.sketch.com/"
+    },
+    {
+        "name": "Skills Board",
+        "description": "A shared library for the AI skills a team recommends. Collect skills in one searchable place and let every teammate use them through GitHub source, an install command, a ZIP download, or an authenticated MCP endpoint. Free forever and open source.",
+        "categories": [
+            "AI",
+            "Open Source"
+        ],
+        "url": "https://www.skillsboard.sh",
+        "keywords": [
+            "ai skills",
+            "claude skills",
+            "agent skills",
+            "mcp",
+            "claude code",
+            "codex",
+            "cursor",
+            "team library"
+        ]
     },
     {
         "name": "SkimAI",
