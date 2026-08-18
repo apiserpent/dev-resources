@@ -277,13 +277,6 @@ export const resources: Resource[] = [
         url: 'https://allyjs.io/',
     },
     {
-        name: 'Alteropen',
-        description:
-            'Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie',
-        categories: ['Marketing', 'SEO', 'Open Source'],
-        url: 'https://alteropen.com/',
-    },
-    {
         name: 'Angular DevTools',
         description:
             'Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.',
@@ -358,12 +351,6 @@ export const resources: Resource[] = [
             'Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.',
         categories: ['API Building'],
         url: 'https://apiverve.com/',
-    },
-    {
-        name: 'App Icon Generator',
-        description: 'Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.',
-        categories: ['Code Generator', 'Programming'],
-        url: 'https://launchyourapp.dev/tools/app-icon-generator',
     },
     {
         name: 'ApparenceKit',
@@ -469,20 +456,6 @@ export const resources: Resource[] = [
         categories: ['Productivity', 'Tooling', 'Marketing'],
         url: 'https://www.automationtools.directory/',
         keywords: ['marketing', 'tools', 'workflow automation', 'business'],
-    },
-    {
-        name: 'Avodocs',
-        description: "Free legal documents for startups. Get your company's legal documents in minutes.",
-        categories: ['Legal'],
-        url: 'https://www.avodocs.com',
-        keywords: [
-            'legal',
-            'legal documents',
-            'legal templates',
-            'privacy policy',
-            'terms of service',
-            'terms and conditions',
-        ],
     },
     {
         name: 'Awesome a11y',

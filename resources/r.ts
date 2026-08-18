@@ -200,14 +200,6 @@ export const resources: Resource[] = [
         url: 'https://www.reddit.com/r/forhire/',
     },
     {
-        name: 'ReelProof',
-        description:
-            'ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.',
-        categories: ['Video', 'Marketing', 'Productivity'],
-        url: 'https://reelproof.io/',
-        keywords: ['video testimonials', 'ai interviewing', 'video automation', 'social proof'],
-    },
-    {
         name: 'Refactoring UI',
         description:
             'Tired of relying on Bootstrap? Learn how to design awesome UIs by yourself using specific tactics explained from a developer',
@@ -507,12 +499,5 @@ export const resources: Resource[] = [
         categories: ['Design', 'Image', 'Productivity'],
         url: 'https://www.getrupert.com/',
         keywords: ['ai', 'image generation', 'photography', 'advertising'],
-    },
-    {
-        name: 'Rysa AI',
-        description: 'AI GTM Automation Agent',
-        categories: ['AI', 'Marketing', 'Productivity'],
-        url: 'https://www.rysa.ai',
-        keywords: ['assistant', 'automation', 'nocode', 'ai agent,'],
     },
 ]

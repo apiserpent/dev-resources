@@ -1,5 +1,5 @@
 {
-"count": 1225,
+"count": 1220,
 "data": [
     {
         "name": "1001 Fonts",
@@ -624,16 +624,6 @@
         "url": "https://allyjs.io/"
     },
     {
-        "name": "Alteropen",
-        "description": "Alternative Directory to popular SaaS products (Free/ OpenSource or with Great Deals) for Developer, Indie",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "Open Source"
-        ],
-        "url": "https://alteropen.com/"
-    },
-    {
         "name": "Angular DevTools",
         "description": "Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. You can use Angular DevTools to understand the structure of your application and preview the state of the directive and the component instances. To get insights into the execution of the application, you can use the profiler tab, which shows you the individual change detection cycles, what triggered them, and how much time Angular spent in them.",
         "categories": [
@@ -744,15 +734,6 @@
             "API Building"
         ],
         "url": "https://apiverve.com/"
-    },
-    {
-        "name": "App Icon Generator",
-        "description": "Create beautiful app icons for iOS and Android. Generate all required sizes with just one click.",
-        "categories": [
-            "Code Generator",
-            "Programming"
-        ],
-        "url": "https://launchyourapp.dev/tools/app-icon-generator"
     },
     {
         "name": "ApparenceKit",
@@ -923,22 +904,6 @@
             "tools",
             "workflow automation",
             "business"
-        ]
-    },
-    {
-        "name": "Avodocs",
-        "description": "Free legal documents for startups. Get your company's legal documents in minutes.",
-        "categories": [
-            "Legal"
-        ],
-        "url": "https://www.avodocs.com",
-        "keywords": [
-            "legal",
-            "legal documents",
-            "legal templates",
-            "privacy policy",
-            "terms of service",
-            "terms and conditions"
         ]
     },
     {
@@ -5027,6 +4992,15 @@
         ]
     },
     {
+        "name": "flow-chart.io",
+        "description": "AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and ERD diagrams as a live scene graph. Every node, connector, and label stays editable after generation.",
+        "categories": [
+            "AI",
+            "Design"
+        ],
+        "url": "https://flow-chart.io"
+    },
+    {
         "name": "Flowbite",
         "description": "Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.",
         "categories": [
@@ -7304,14 +7278,6 @@
         "url": "https://jestjs.io/"
     },
     {
-        "name": "Job.zip",
-        "description": "We analyze over 10 million jobs per month to identify trends.",
-        "categories": [
-            "Job"
-        ],
-        "url": "https://job.zip"
-    },
-    {
         "name": "JobBoardSearch 🔎",
         "categories": [
             "Job"
@@ -8174,6 +8140,14 @@
             "Cloud Computing"
         ],
         "url": "https://www.linode.com/"
+    },
+    {
+        "name": "Linxalium",
+        "description": "Linxalium is a curated discovery platform for useful software, online services, and independent products.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://linxalium.com"
     },
     {
         "name": "Lite Analytics",
@@ -10609,6 +10583,22 @@
         "url": "https://pythonium.net/"
     },
     {
+        "name": "Pythonlings",
+        "description": "Learn Python by fixing small programs in a terminal-based, Rustlings-style exercise suite with automated checks and guided progression.",
+        "categories": [
+            "Learn",
+            "Programming",
+            "Code Challenge"
+        ],
+        "url": "https://pythonlings.abhik.ai/",
+        "keywords": [
+            "python",
+            "exercises",
+            "terminal",
+            "tui"
+        ]
+    },
+    {
         "name": "Qoddi.com",
         "description": "Hosting Qoddi.com is a PaaS service similar to Heroku with a developer-centric approach and a free tier for developers and micro-services.",
         "categories": [
@@ -10974,22 +10964,6 @@
             "Freelance"
         ],
         "url": "https://www.reddit.com/r/forhire/"
-    },
-    {
-        "name": "ReelProof",
-        "description": "ReelProof makes it easy to gather authentic customer testimonials using AI-powered interviews and instantly generates shareable video reels.",
-        "categories": [
-            "Video",
-            "Marketing",
-            "Productivity"
-        ],
-        "url": "https://reelproof.io/",
-        "keywords": [
-            "video testimonials",
-            "ai interviewing",
-            "video automation",
-            "social proof"
-        ]
     },
     {
         "name": "Refactoring UI",
@@ -11490,22 +11464,6 @@
         ]
     },
     {
-        "name": "Rysa AI",
-        "description": "AI GTM Automation Agent",
-        "categories": [
-            "AI",
-            "Marketing",
-            "Productivity"
-        ],
-        "url": "https://www.rysa.ai",
-        "keywords": [
-            "assistant",
-            "automation",
-            "nocode",
-            "ai agent,"
-        ]
-    },
-    {
         "name": "SaaS Boilerplates",
         "description": "SaaSBoilerplates.dev is a curated directory that showcases a wide range of SaaS boilerplates, starter kits, and frameworks to help developers quickly launch their SaaS projects.",
         "categories": [
@@ -11700,23 +11658,6 @@
             "screenshot api",
             "screenshot automation",
             "screenshot service"
-        ]
-    },
-    {
-        "name": "Screenshot to Code",
-        "description": "Tool for converting screenshots and UI mockups into frontend code to accelerate prototyping workflows.",
-        "categories": [
-            "AI",
-            "Programming"
-        ],
-        "url": "https://screenshottocode.net/",
-        "keywords": [
-            "screenshot",
-            "ui",
-            "frontend",
-            "prototyping",
-            "react",
-            "tailwind"
         ]
     },
     {
@@ -12924,23 +12865,6 @@
             "Professional icons",
             "icon pack",
             "iOs icons"
-        ]
-    },
-    {
-        "name": "Stride Bootstrap Landingpage Template",
-        "description": "Made with an startup or tech company in mind. Bootstrap 5.2 based and developed with and for modern web standards.",
-        "categories": [
-            "Template"
-        ],
-        "url": "https://templatedeck.com/stride-html-template.html",
-        "keywords": [
-            "HTML",
-            "Bootstrap",
-            "Landingpage",
-            "Template",
-            "CSS",
-            "Open Source Template",
-            "Free Template"
         ]
     },
     {
@@ -14583,6 +14507,14 @@
         "url": "https://www.artify.co/vector-illustrations"
     },
     {
+        "name": "Vectoralix",
+        "description": "Vectoralix is a managed platform for building and operating Model Context Protocol servers without creating the infrastructure from scratch.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://vectoralix.com"
+    },
+    {
         "name": "VectorElements",
         "description": "VectorElements offers free and premium vector illustrations, icons, UI kits, textures, and design assets for websites, apps, print, and digital projects.",
         "categories": [
@@ -15513,23 +15445,6 @@
             "web",
             "developer tools",
             "tools"
-        ]
-    },
-    {
-        "name": "ZapKit",
-        "description": "ZapKit is a Laravel boilerplate powered by AI that helps you build a Laravel application within minutes.",
-        "categories": [
-            "Productivity",
-            "AI",
-            "Startup"
-        ],
-        "url": "https://zapkit.dev/",
-        "keywords": [
-            "boilerplate",
-            "startup",
-            "starter kit",
-            "ai",
-            "sass"
         ]
     },
     {
