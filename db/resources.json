@@ -1,5 +1,5 @@
 {
-"count": 1189,
+"count": 1197,
 "data": [
     {
         "name": "1001 Fonts",
@@ -720,6 +720,23 @@
         ]
     },
     {
+        "name": "ApexVerify",
+        "description": "Verify emails, phone numbers, and addresses with real-time accuracy. Keep your contact data clean, compliant, and reliable with our all-in-one suite.",
+        "categories": [
+            "Marketing"
+        ],
+        "url": "https://apexverify.com/",
+        "keywords": [
+            "email verification",
+            "phone verification",
+            "data verification",
+            "email",
+            "telephony",
+            "contact",
+            "lead"
+        ]
+    },
+    {
         "name": "Apigee",
         "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
         "categories": [
@@ -843,6 +860,24 @@
         "url": "https://aptakube.com",
         "keywords": [
             "kubernetes"
+        ]
+    },
+    {
+        "name": "ArtboardLab",
+        "description": "Free browser-based tools that convert Adobe Illustrator .ai files to SVG, PNG or PDF and compress images. Files are processed locally, never uploaded.",
+        "categories": [
+            "Design",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://artboardlab.com",
+        "keywords": [
+            "illustrator",
+            "ai to svg",
+            "svg",
+            "image compression",
+            "webassembly",
+            "converter"
         ]
     },
     {
@@ -3101,6 +3136,21 @@
         ]
     },
     {
+        "name": "Convertyard",
+        "description": "ConvertYard converts images, PDFs, audio, and video files locally using WebAssembly — your files never leave your device.",
+        "categories": [
+            "Image"
+        ],
+        "url": "https://convertyard.com/",
+        "keywords": [
+            "JPG to WebP",
+            "JPG to AVIF",
+            "Image Compressor",
+            "Image Resizer",
+            "Image Cropper"
+        ]
+    },
+    {
         "name": "CookieYes",
         "description": "CookieYes is a cookie consent solution that helps your website achieve GDPR and CCPA compliance easily. Create a lifetime free account!",
         "categories": [
@@ -4910,6 +4960,24 @@
             "ui components",
             "ui kits",
             "icon"
+        ]
+    },
+    {
+        "name": "FluentEDI",
+        "description": "Deterministic tools for AI agents over HTTP and MCP, with no API key or signup. Parse, generate and validate X12 EDI (850, 856, 810, 997), compute GS1 and IBAN check digits, do timezone and delivery-window arithmetic, resolve cron schedules, repair malformed JSON with the line and column where it broke, verify Ed25519 signatures, and scan text for leaked credentials.",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Programming"
+        ],
+        "url": "https://fluentedi.com",
+        "keywords": [
+            "edi",
+            "x12",
+            "ai agents",
+            "mcp",
+            "api",
+            "developer tools"
         ]
     },
     {
@@ -8277,6 +8345,28 @@
         ]
     },
     {
+        "name": "Markleyo",
+        "description": "Markleyo helps businesses automate customer support, capture leads, and engage customers with AI chatbots across websites and messaging channels.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://markleyo.com/",
+        "keywords": [
+            "AI chatbot",
+            "customer support",
+            "lead generation",
+            "business automation",
+            "conversational AI",
+            "live chat",
+            "AI agents",
+            "SaaS",
+            "WhatsApp",
+            "ecommerce",
+            "chatbot builder",
+            "productivity"
+        ]
+    },
+    {
         "name": "Marko Denic",
         "description": "Web Developer, Public speaker, IT trainer and consultant.",
         "categories": [
@@ -10040,6 +10130,23 @@
         "url": "https://www.primefaces.org/"
     },
     {
+        "name": "Prismix",
+        "description": "Real-time status for 75+ AI services, curated news from 70+ sources, and a directory of 500+ MCP servers. Free REST API for status data.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://prismix.dev",
+        "keywords": [
+            "ai status",
+            "mcp servers",
+            "ai news",
+            "uptime monitoring",
+            "openai status",
+            "anthropic status"
+        ]
+    },
+    {
         "name": "Privacyboard",
         "description": "Privacyboard helps you comply with GDPR in minutes so you can focus on what",
         "categories": [
@@ -10867,6 +10974,21 @@
             "Marketing"
         ],
         "url": "https://resend.com/"
+    },
+    {
+        "name": "Reserp",
+        "description": "Send a Google Search URL and receive visible result blocks as structured JSON.",
+        "categories": [
+            "Scraping"
+        ],
+        "url": "https://reserp.ai",
+        "keywords": [
+            "google",
+            "search",
+            "serp",
+            "api",
+            "json"
+        ]
     },
     {
         "name": "Reshot",
@@ -13146,6 +13268,14 @@
             "YouTube Channel"
         ],
         "url": "https://www.youtube.com/channel/UCDQTzZ871T7uJpx9yeMPhAw"
+    },
+    {
+        "name": "Thridy",
+        "description": "Free library of 13,000+ 3D icons rendered in one consistent style. Icons download as HD transparent PNGs, free for personal and commercial use with no attribution or signup.",
+        "categories": [
+            "Icon"
+        ],
+        "url": "https://thridy.com"
     },
     {
         "name": "TinyPNG",

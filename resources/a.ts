@@ -339,6 +339,22 @@ export const resources: Resource[] = [
         keywords: ['dns', 'domain', 'redirect', 'apex domain', 'naked domain', '301 redirect', 'www'],
     },
     {
+        name: 'ApexVerify',
+        description:
+            'Verify emails, phone numbers, and addresses with real-time accuracy. Keep your contact data clean, compliant, and reliable with our all-in-one suite.',
+        categories: ['Marketing'],
+        url: 'https://apexverify.com/',
+        keywords: [
+            'email verification',
+            'phone verification',
+            'data verification',
+            'email',
+            'telephony',
+            'contact',
+            'lead',
+        ],
+    },
+    {
         name: 'Apigee',
         description:
             'Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.',
@@ -422,6 +438,14 @@ export const resources: Resource[] = [
         categories: ['Cloud Computing', 'Productivity'],
         url: 'https://aptakube.com',
         keywords: ['kubernetes'],
+    },
+    {
+        name: 'ArtboardLab',
+        description:
+            'Free browser-based tools that convert Adobe Illustrator .ai files to SVG, PNG or PDF and compress images. Files are processed locally, never uploaded.',
+        categories: ['Design', 'Image', 'Tooling'],
+        url: 'https://artboardlab.com',
+        keywords: ['illustrator', 'ai to svg', 'svg', 'image compression', 'webassembly', 'converter'],
     },
     {
         name: 'Artify',
