@@ -1,5 +1,5 @@
 {
-"count": 1197,
+"count": 1200,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9938,6 +9938,22 @@
         ]
     },
     {
+        "name": "Planet Cert",
+        "description": "PlanetCert offers professional certification training and exam preparation. Get certified in IT, Project Management, and more with our comprehensive courses.",
+        "categories": [
+            "Writing"
+        ],
+        "url": "https://planetcert.com/",
+        "keywords": [
+            "Cisco 200-301",
+            "AZ-900 practice test",
+            "AWS cloud practitioner",
+            "IT certifications",
+            "AI exam prep",
+            "network associate"
+        ]
+    },
+    {
         "name": "Planomy Tax Data",
         "description": "2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source",
         "categories": [
@@ -12314,6 +12330,17 @@
         ]
     },
     {
+        "name": "Sparqo AI",
+        "description": "Sparqo is an AI CMO platform that helps founders and small teams grow through content, SEO, and Reddit.",
+        "categories": [
+            "Marketing"
+        ],
+        "url": "https://sparqo.ai/",
+        "keywords": [
+            "marketing"
+        ]
+    },
+    {
         "name": "SpeedUp AI",
         "description": "End-to-End AI Circuit Schematic Design",
         "categories": [
@@ -13760,6 +13787,22 @@
             "free touch typing tutorial",
             "touch typing",
             "typing game"
+        ]
+    },
+    {
+        "name": "Typre",
+        "description": "Typing practice for programmers: real code in 14 languages, live races, and a drill for brackets and operators. Works offline, no account needed.",
+        "categories": [
+            "Learn",
+            "Typing"
+        ],
+        "url": "https://www.typre.dev",
+        "keywords": [
+            "typing",
+            "code typing",
+            "programming",
+            "wpm",
+            "touch typing"
         ]
     },
     {
