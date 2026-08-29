@@ -1,5 +1,5 @@
 {
-"count": 1201,
+"count": 1203,
 "data": [
     {
         "name": "1001 Fonts",
@@ -9418,6 +9418,21 @@
         "url": "https://openvim.com/"
     },
     {
+        "name": "open-banking.io",
+        "description": "Unified REST API for European bank accounts. PSD2 open-banking data — connect to thousands of EU banks without your own banking certificates.",
+        "categories": [
+            "API Building"
+        ],
+        "url": "https://open-banking.io",
+        "keywords": [
+            "open banking",
+            "psd2",
+            "bank api",
+            "fintech",
+            "payments"
+        ]
+    },
+    {
         "name": "OpenChakra",
         "description": "React JSX visual editor for Chakra UI.",
         "categories": [
@@ -15120,6 +15135,24 @@
             "Blog"
         ],
         "url": "https://www.xda-developers.com/"
+    },
+    {
+        "name": "XiuRouter",
+        "description": "One API for GPT, Claude, and Gemini with native protocol routes, scoped keys, usage records, and transparent usage-based pricing.",
+        "categories": [
+            "AI",
+            "API Building",
+            "Tooling"
+        ],
+        "url": "https://router.xiu.ai",
+        "keywords": [
+            "llm api",
+            "ai gateway",
+            "openai",
+            "anthropic",
+            "gemini",
+            "model routing"
+        ]
     },
     {
         "name": "Xquik",
