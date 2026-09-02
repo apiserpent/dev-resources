@@ -1,5 +1,5 @@
 {
-"count": 1204,
+"count": 1206,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2154,7 +2154,7 @@
             "Learn",
             "Programming"
         ],
-        "url": "https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet",
+        "url": "https://cheatgrid.com",
         "keywords": [
             "react",
             "cheat sheet",
@@ -7286,25 +7286,6 @@
         ]
     },
     {
-        "name": "Juno",
-        "description": "Juno is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.",
-        "categories": [
-            "Serverless",
-            "Productivity",
-            "Cloud Computing"
-        ],
-        "url": "https://juno.build/",
-        "keywords": [
-            "authentication",
-            "database",
-            "hosting",
-            "storage",
-            "analytics",
-            "serverless",
-            "development"
-        ]
-    },
-    {
         "name": "JustRemote",
         "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
         "categories": [
@@ -11966,6 +11947,23 @@
         ]
     },
     {
+        "name": "Site Punchlist",
+        "description": "Crawls a whole site with axe-core, groups repeated findings by the component causing them, and returns a prioritised fix list as HTML, PDF and CSV.",
+        "categories": [
+            "Accessibility",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://sitepunchlist.com",
+        "keywords": [
+            "accessibility",
+            "a11y",
+            "wcag",
+            "axe-core",
+            "accessibility testing"
+        ]
+    },
+    {
         "name": "Site123",
         "description": "Create a free website with SITE123. No design or coding skills required. SITE123 is by far the easiest free website builder. Create your website now!",
         "categories": [
@@ -12554,6 +12552,21 @@
         "url": "https://startups.gallery/"
     },
     {
+        "name": "Statable",
+        "description": "Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.",
+        "categories": [
+            "Analytics"
+        ],
+        "url": "https://statable.com",
+        "keywords": [
+            "web analytics",
+            "cookieless",
+            "privacy",
+            "eu hosted",
+            "api"
+        ]
+    },
+    {
         "name": "Stormkit",
         "description": "Stormkit integrates perfectly with your git flow. It builds, deploys and scales your javascript apps seamlessly.",
         "categories": [
@@ -12966,6 +12979,22 @@
             "Productivity"
         ],
         "url": "https://tatask.com/"
+    },
+    {
+        "name": "TeamBrain",
+        "description": "Shared workspace for AI teams",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Startup"
+        ],
+        "url": "https://teambrain.co/",
+        "keywords": [
+            "team collaboration",
+            "productivity tool",
+            "project management",
+            "knowledge base"
+        ]
     },
     {
         "name": "Tech Blogs",
@@ -14797,10 +14826,9 @@
         "name": "WealthVille",
         "description": "Scores DeFi liquidity pools so you can tell whether one is worth providing liquidity to. Covers Solana and EVM pools, returning a 0-100 score and an Enter/Hold/Exit verdict, with a public track record that includes the misses. Free keyless REST API and an MCP server for AI agents.",
         "categories": [
-            "Web3",
-            "Analytics"
+            "Web3"
         ],
-        "url": "https://wealthville.net/developers",
+        "url": "https://wealthville.net",
         "keywords": [
             "DeFi",
             "liquidity pools",

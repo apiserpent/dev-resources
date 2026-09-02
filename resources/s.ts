@@ -418,6 +418,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Site Punchlist',
+        description:
+            'Crawls a whole site with axe-core, groups repeated findings by the component causing them, and returns a prioritised fix list as HTML, PDF and CSV.',
+        categories: ['Accessibility', 'Testing', 'Tooling'],
+        url: 'https://sitepunchlist.com',
+        keywords: ['accessibility', 'a11y', 'wcag', 'axe-core', 'accessibility testing'],
+    },
+    {
         name: 'Site123',
         description:
             'Create a free website with SITE123. No design or coding skills required. SITE123 is by far the easiest free website builder. Create your website now!',
@@ -831,6 +839,14 @@ export const resources: Resource[] = [
             'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
         categories: ['Learn', 'Job', 'Remote'],
         url: 'https://startups.gallery/',
+    },
+    {
+        name: 'Statable',
+        description:
+            'Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.',
+        categories: ['Analytics'],
+        url: 'https://statable.com',
+        keywords: ['web analytics', 'cookieless', 'privacy', 'eu hosted', 'api'],
     },
     {
         name: 'Stormkit',
