@@ -21,6 +21,14 @@ export const resources: Resource[] = [
         keywords: ['domain name', 'dev tools', 'AI', 'CLI'],
     },
     {
+        name: 'Naratake',
+        description:
+            'Drag-and-drop website builder for local businesses. 111 components, 15 design styles, publishes a real Next.js app with full source-code export.',
+        categories: ['Website Builder', 'CMS', 'Template'],
+        url: 'https://naratake.com',
+        keywords: ['website builder', 'no-code', 'next.js', 'small business', 'source code export'],
+    },
+    {
         name: 'Narrow AI',
         description:
             'Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model',
@@ -156,13 +164,6 @@ export const resources: Resource[] = [
         categories: ['Design', 'Template', 'Website Builder'],
         url: 'https://nocodewebsitebuilder.com',
         keywords: ['no-code', 'templates', 'webflow', 'framer', 'bubble'],
-    },
-    {
-        name: 'No-Code Scraper',
-        description: 'Seamlessly extract data from any website with just a few simple inputs.',
-        categories: ['Scraping', 'AI'],
-        url: 'https://www.nocodescraper.com',
-        keywords: ['scraper', 'no code', 'ai web scraper', 'web scraper', 'visual web scraper', 'web scraping'],
     },
     {
         name: 'Nomad List',

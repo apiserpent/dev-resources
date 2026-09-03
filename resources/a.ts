@@ -154,13 +154,6 @@ export const resources: Resource[] = [
         keywords: ['ai', 'artificial intelligence', 'developer', 'ai agent', 'marketplace', 'store', 'news', 'blogs'],
     },
     {
-        name: 'AI Alternative',
-        description: 'Discover the best AI tools and their alternatives',
-        categories: ['AI', 'Tooling', 'Productivity'],
-        url: 'https://aialternative.co/',
-        keywords: ['ai directory', 'ai alternatives', 'ai tools directory', 'startup tools'],
-    },
-    {
         name: 'AI Best Tools',
         description: 'Discover the best AI tools in AIBest.tools',
         categories: ['AI', 'Tooling'],
@@ -218,13 +211,6 @@ export const resources: Resource[] = [
         categories: ['Marketing', 'Design', 'AI'],
         url: 'https://venngage.com/ai-tools/one-pager-generator',
         keywords: ['one pager generator', 'ai one pager generator', 'create one pager', 'one pager template'],
-    },
-    {
-        name: 'AI SEO Tools',
-        description: 'Discover the Best AI SEO Tools in One Place',
-        categories: ['Marketing', 'SEO', 'AI'],
-        url: 'https://www.ai-seo.tools',
-        keywords: ['automation', 'ai', 'marketing', 'aggregators'],
     },
     {
         name: 'AI-Text-Humanizer',
@@ -337,6 +323,14 @@ export const resources: Resource[] = [
         categories: ['AI'],
         url: 'https://anvevoice.app',
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
+    },
+    {
+        name: 'AnyGradient',
+        description:
+            'NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports',
+        categories: ['Design'],
+        url: 'https://anygradient.com/',
+        keywords: ['gradient', 'css', 'design tool', 'developer tool', 'background'],
     },
     {
         name: 'ApexToWWW',

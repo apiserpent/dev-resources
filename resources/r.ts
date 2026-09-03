@@ -271,7 +271,7 @@ export const resources: Resource[] = [
         description:
             'Looking for a remote job? Remote OK® has 43,534+ remote jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Find a career where you can work remotely from anywhere.',
         categories: ['Job', 'Remote'],
-        url: 'https://remoteok.io/',
+        url: 'https://remoteok.com/',
     },
     {
         name: 'Remotive',
@@ -340,13 +340,6 @@ export const resources: Resource[] = [
         categories: ['Scraping'],
         url: 'https://reserp.ai',
         keywords: ['google', 'search', 'serp', 'api', 'json'],
-    },
-    {
-        name: 'Reshot',
-        description:
-            'Find tons of curated, non-stocky images for you to use in your next creative project, for free! Free for commercial use. No attribution required.',
-        categories: ['Image'],
-        url: 'https://www.reshot.com/',
     },
     {
         name: 'Resmume',
@@ -428,13 +421,6 @@ export const resources: Resource[] = [
         description: 'Replay the steps of your changes at ease. A diff based typing simulator.',
         categories: ['Typing'],
         url: 'https://github.com/antfu/retypewriter',
-    },
-    {
-        name: 'Revyou',
-        description: 'Turn your reviews into a lead magnet',
-        categories: ['AI', 'Marketing'],
-        url: 'https://www.revyou.me/',
-        keywords: ['ai', 'marketing', 'lead magnet', 'reviews'],
     },
     {
         name: 'Rider',

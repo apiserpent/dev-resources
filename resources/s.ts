@@ -127,7 +127,7 @@ export const resources: Resource[] = [
         url: 'https://scrimba.com/',
     },
     {
-        name: 'SeachAtlas',
+        name: 'Search Atlas',
         description:
             'Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.',
         categories: ['SEO', 'Marketing'],
@@ -888,7 +888,7 @@ export const resources: Resource[] = [
         description:
             'Download 30,000 free PNG icons for website, web app, software, web design. Buy our SVG vector icon pack, the world’s largest icon library for professionals.',
         categories: ['Icon'],
-        url: 'https://streamlineicons.com/',
+        url: 'https://streamlinehq.com/',
         keywords: [
             'Free icons',
             'Download icons',
@@ -940,13 +940,6 @@ export const resources: Resource[] = [
         url: 'https://www.sublimetext.com/',
     },
     {
-        name: 'Summara',
-        description: 'YouTube AI Summary and Transcript widget',
-        categories: ['AI', 'Extension', 'Learn'],
-        url: 'https://summara.io/',
-        keywords: ['youtube ai summary', 'youtube summarizer', 'youtube transcript', 'youtube captions'],
-    },
-    {
         name: 'Supabase',
         description:
             'Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.',
@@ -958,13 +951,6 @@ export const resources: Resource[] = [
         description: 'An open-source UI component library inspired by Tailwind and AntDesign.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://ui.supabase.io/',
-    },
-    {
-        name: 'Supaboost',
-        description:
-            'Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..',
-        categories: ['Startup', 'Template'],
-        url: 'https://www.supaboost.dev',
     },
     {
         name: 'supastarter',

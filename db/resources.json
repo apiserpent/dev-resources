@@ -1,5 +1,5 @@
 {
-"count": 1206,
+"count": 1194,
 "data": [
     {
         "name": "1001 Fonts",
@@ -389,22 +389,6 @@
         ]
     },
     {
-        "name": "AI Alternative",
-        "description": "Discover the best AI tools and their alternatives",
-        "categories": [
-            "AI",
-            "Tooling",
-            "Productivity"
-        ],
-        "url": "https://aialternative.co/",
-        "keywords": [
-            "ai directory",
-            "ai alternatives",
-            "ai tools directory",
-            "startup tools"
-        ]
-    },
-    {
         "name": "AI Best Tools",
         "description": "Discover the best AI tools in AIBest.tools",
         "categories": [
@@ -535,22 +519,6 @@
             "ai one pager generator",
             "create one pager",
             "one pager template"
-        ]
-    },
-    {
-        "name": "AI SEO Tools",
-        "description": "Discover the Best AI SEO Tools in One Place",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "AI"
-        ],
-        "url": "https://www.ai-seo.tools",
-        "keywords": [
-            "automation",
-            "ai",
-            "marketing",
-            "aggregators"
         ]
     },
     {
@@ -718,6 +686,21 @@
             "chatbot",
             "voice assistant",
             "website widget"
+        ]
+    },
+    {
+        "name": "AnyGradient",
+        "description": "NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports",
+        "categories": [
+            "Design"
+        ],
+        "url": "https://anygradient.com/",
+        "keywords": [
+            "gradient",
+            "css",
+            "design tool",
+            "developer tool",
+            "background"
         ]
     },
     {
@@ -1744,25 +1727,6 @@
             "Testing"
         ],
         "url": "https://www.browserstack.com/"
-    },
-    {
-        "name": "BuddAIr",
-        "description": "Unlock your AI companion now",
-        "categories": [
-            "AI",
-            "Productivity"
-        ],
-        "url": "https://buddair.com/",
-        "keywords": [
-            "AI companion",
-            "virtual buddy",
-            "AI tools navigation",
-            "emotional support AI",
-            "find AI friend",
-            "best AI companion apps",
-            "personalized AI interactions",
-            "BuddAIr"
-        ]
     },
     {
         "name": "Build you SaaS",
@@ -4608,15 +4572,6 @@
         "url": "https://elements.envato.com/"
     },
     {
-        "name": "Enveloop",
-        "description": "Design, host, and send emails and texts. All from one place - with a simple API.",
-        "categories": [
-            "Email",
-            "Design"
-        ],
-        "url": "https://enveloop.com/"
-    },
-    {
         "name": "Epic React",
         "description": "Strap in and take your React applications to the next level.",
         "categories": [
@@ -4723,16 +4678,6 @@
             "Marketing"
         ],
         "url": "https://famewall.io/"
-    },
-    {
-        "name": "Fast Articles AI",
-        "description": "Fast Articles AI is an advanced AI writing tool for SEO. Generate perfect SEO articles and blog posts in seconds.",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "Writing"
-        ],
-        "url": "https://fastarticles.ai/"
     },
     {
         "name": "Fathom",
@@ -5926,16 +5871,6 @@
         ]
     },
     {
-        "name": "Gliesess 90 marketing strategy breakdowns",
-        "description": "Browse the most comprehensive list of online marketing strategies on the internet. Find the Social Media and Search Engine strategies of each company.",
-        "categories": [
-            "SEO",
-            "Learn",
-            "Marketing"
-        ],
-        "url": "https://www.gliesess.com/online-marketing-strategies"
-    },
-    {
         "name": "GoatCounter",
         "description": "GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.",
         "categories": [
@@ -6063,24 +5998,6 @@
             "how to write a resume",
             "how to make a resume",
             "sample resumes"
-        ]
-    },
-    {
-        "name": "GPT4oMini",
-        "description": "GPT4oMini.app: Free GPT4oMini Access - Advanced AI Conversation Generator",
-        "categories": [
-            "AI"
-        ],
-        "url": "https://gpt4omini.app/",
-        "keywords": [
-            "GPT4oMini",
-            "GPT4o",
-            "Free GPT-4",
-            "ChatGPT",
-            "ChatGPT4oMini",
-            "chatbot",
-            "Free ChatGPT Access",
-            "AI Conversation Generator"
         ]
     },
     {
@@ -6579,6 +6496,14 @@
         ]
     },
     {
+        "name": "Hostinger Website Builder",
+        "description": "Create a website or an online store easily with Hostinger Website Builder (formerly Zyro). Choose from hundreds of designer-made templates and launch your website in minutes.",
+        "categories": [
+            "Website Builder"
+        ],
+        "url": "https://www.hostinger.com/website-builder"
+    },
+    {
         "name": "Hostman",
         "description": "Cloud hosting for startups and developers.",
         "categories": [
@@ -6723,15 +6648,6 @@
             "Icon"
         ],
         "url": "https://iconbuddy.app"
-    },
-    {
-        "name": "Iconfinder",
-        "description": "Millions of graphics for your design projects. Created by independent designers.",
-        "categories": [
-            "Icon",
-            "Illustration"
-        ],
-        "url": "https://www.iconfinder.com"
     },
     {
         "name": "Iconic",
@@ -8017,6 +7933,22 @@
         ]
     },
     {
+        "name": "Loggd",
+        "description": "Habit tracker and planner that helps you actually stick with it",
+        "categories": [
+            "Productivity",
+            "Tooling",
+            "Startup"
+        ],
+        "url": "https://loggd.life/",
+        "keywords": [
+            "habit tracker",
+            "planner",
+            "task management",
+            "goal tracking"
+        ]
+    },
+    {
         "name": "LogoInspo",
         "description": "The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.",
         "categories": [
@@ -8317,7 +8249,7 @@
         "name": "Markdown Tools Online",
         "description": "Free online document converter. Convert Markdown to PDF, HTML to Markdown, and more. No signup required, no data stored.",
         "categories": [
-            "Tool"
+            "Tooling"
         ],
         "url": "https://markdowntoolsonline.com",
         "keywords": [
@@ -8617,35 +8549,20 @@
             "Inspiration",
             "UI"
         ],
-        "url": "https://mobbin.design/",
+        "url": "https://mobbin.com/",
         "keywords": [
             "apps",
             "mobbin",
             "ios",
-            "ios ui inspiration",
-            "ios11",
             "iphone",
-            "iphone X",
             "ui",
             "design",
-            "retina",
             "screenshots",
             "inspiration",
             "mobile",
             "ipad",
             "android",
-            "apple watch",
-            "visual design",
-            "patterns",
-            "resources",
-            "framerjs",
-            "swift",
-            "sketch",
-            "framer",
-            "invision",
-            "photoshop",
-            "xcode",
-            "resources"
+            "patterns"
         ]
     },
     {
@@ -8815,6 +8732,23 @@
             "dev tools",
             "AI",
             "CLI"
+        ]
+    },
+    {
+        "name": "Naratake",
+        "description": "Drag-and-drop website builder for local businesses. 111 components, 15 design styles, publishes a real Next.js app with full source-code export.",
+        "categories": [
+            "Website Builder",
+            "CMS",
+            "Template"
+        ],
+        "url": "https://naratake.com",
+        "keywords": [
+            "website builder",
+            "no-code",
+            "next.js",
+            "small business",
+            "source code export"
         ]
     },
     {
@@ -9085,23 +9019,6 @@
         ]
     },
     {
-        "name": "No-Code Scraper",
-        "description": "Seamlessly extract data from any website with just a few simple inputs.",
-        "categories": [
-            "Scraping",
-            "AI"
-        ],
-        "url": "https://www.nocodescraper.com",
-        "keywords": [
-            "scraper",
-            "no code",
-            "ai web scraper",
-            "web scraper",
-            "visual web scraper",
-            "web scraping"
-        ]
-    },
-    {
         "name": "Nomad List",
         "description": "Best places to live for a digital nomad",
         "categories": [
@@ -9229,19 +9146,6 @@
             "Analytics"
         ],
         "url": "https://www.offen.dev/"
-    },
-    {
-        "name": "OkJob",
-        "description": "4 day Week Job Board",
-        "categories": [
-            "Job"
-        ],
-        "url": "https://okjob.io/",
-        "keywords": [
-            "Flexible work schedule",
-            "Work-life balance",
-            "Remote work options"
-        ]
     },
     {
         "name": "Omnara",
@@ -10177,19 +10081,6 @@
         ]
     },
     {
-        "name": "Privacyboard",
-        "description": "Privacyboard helps you comply with GDPR in minutes so you can focus on what",
-        "categories": [
-            "Legal"
-        ],
-        "url": "https://www.privacyboard.co",
-        "keywords": [
-            "privacy",
-            "gdpr",
-            "compliance"
-        ]
-    },
-    {
         "name": "Product Hunt",
         "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone",
         "categories": [
@@ -10918,7 +10809,7 @@
             "Job",
             "Remote"
         ],
-        "url": "https://remoteok.io/"
+        "url": "https://remoteok.com/"
     },
     {
         "name": "Remotive",
@@ -11019,14 +10910,6 @@
             "api",
             "json"
         ]
-    },
-    {
-        "name": "Reshot",
-        "description": "Find tons of curated, non-stocky images for you to use in your next creative project, for free! Free for commercial use. No attribution required.",
-        "categories": [
-            "Image"
-        ],
-        "url": "https://www.reshot.com/"
     },
     {
         "name": "Resmume",
@@ -11158,21 +11041,6 @@
             "Typing"
         ],
         "url": "https://github.com/antfu/retypewriter"
-    },
-    {
-        "name": "Revyou",
-        "description": "Turn your reviews into a lead magnet",
-        "categories": [
-            "AI",
-            "Marketing"
-        ],
-        "url": "https://www.revyou.me/",
-        "keywords": [
-            "ai",
-            "marketing",
-            "lead magnet",
-            "reviews"
-        ]
     },
     {
         "name": "Rider",
@@ -11494,7 +11362,7 @@
         "url": "https://scrimba.com/"
     },
     {
-        "name": "SeachAtlas",
+        "name": "Search Atlas",
         "description": "Drive more traffic and revenue with the SearchAtlas SEO Software platform! Get better results from your SEO campaigns with cutting-edge marketing and SEO tools.",
         "categories": [
             "SEO",
@@ -12621,7 +12489,7 @@
         "categories": [
             "Icon"
         ],
-        "url": "https://streamlineicons.com/",
+        "url": "https://streamlinehq.com/",
         "keywords": [
             "Free icons",
             "Download icons",
@@ -12686,22 +12554,6 @@
         "url": "https://www.sublimetext.com/"
     },
     {
-        "name": "Summara",
-        "description": "YouTube AI Summary and Transcript widget",
-        "categories": [
-            "AI",
-            "Extension",
-            "Learn"
-        ],
-        "url": "https://summara.io/",
-        "keywords": [
-            "youtube ai summary",
-            "youtube summarizer",
-            "youtube transcript",
-            "youtube captions"
-        ]
-    },
-    {
         "name": "Supabase",
         "description": "Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.",
         "categories": [
@@ -12719,15 +12571,6 @@
             "UI"
         ],
         "url": "https://ui.supabase.io/"
-    },
-    {
-        "name": "Supaboost",
-        "description": "Supaboost is an all-in-one SaaS Starter Kit, aiming to provide developers with the right tools to save hours of setting up their new application. Supaboost comes readily available with user management, roles and access based on roles, billing/subscriptions, frontend layout and SQL statements to create your a new backend with security today..",
-        "categories": [
-            "Startup",
-            "Template"
-        ],
-        "url": "https://www.supaboost.dev"
     },
     {
         "name": "supastarter",
@@ -13838,6 +13681,19 @@
         ]
     },
     {
+        "name": "Typing Words GIF",
+        "description": "Free online typing text GIF maker — type words and export animated GIF, no login.",
+        "categories": [
+            "Image"
+        ],
+        "url": "https://typingwordsgif.com/",
+        "keywords": [
+            "typing gif",
+            "text gif",
+            "animation"
+        ]
+    },
+    {
         "name": "TypingBeast",
         "description": "Practice touch typing on various modes including zen mode, maintain streak and compete in leaderboards.",
         "categories": [
@@ -13891,14 +13747,6 @@
             "SEO"
         ],
         "url": "https://neilpatel.com/ubersuggest"
-    },
-    {
-        "name": "Ucraft",
-        "description": "Logo maker by Ucraft is the #1 free online logo creator, trusted by hundreds of thousands. Design a cool, professional logo and download it in a high resolution format.",
-        "categories": [
-            "Logo"
-        ],
-        "url": "https://www.ucraft.com/free-logo-maker"
     },
     {
         "name": "Udemy",
@@ -15310,13 +15158,5 @@
             "testing",
             "qa"
         ]
-    },
-    {
-        "name": "Zyro",
-        "description": "Create a website or an online store easily with Zyro website builder. Choose from hundreds of designer-made templates. Launch your website in minutes.",
-        "categories": [
-            "Website Builder"
-        ],
-        "url": "https://zyro.com//"
     }
 ]}
