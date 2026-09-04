@@ -1,5 +1,5 @@
 {
-"count": 1194,
+"count": 1196,
 "data": [
     {
         "name": "1001 Fonts",
@@ -686,6 +686,24 @@
             "chatbot",
             "voice assistant",
             "website widget"
+        ]
+    },
+    {
+        "name": "AnyAPI",
+        "description": "Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD with no subscription.",
+        "categories": [
+            "Scraping",
+            "Social Media",
+            "Tooling"
+        ],
+        "url": "https://getanyapi.com",
+        "keywords": [
+            "scraping",
+            "data api",
+            "serp",
+            "social media data",
+            "api marketplace",
+            "mcp"
         ]
     },
     {
@@ -7224,6 +7242,22 @@
             "netlinking",
             "online reputation",
             "off page seo"
+        ]
+    },
+    {
+        "name": "Keeping",
+        "description": "Turns Google Workspace Into Your Team’s Help Desk",
+        "categories": [
+            "Email",
+            "Productivity",
+            "Tooling"
+        ],
+        "url": "https://www.keeping.com/",
+        "keywords": [
+            "help desk",
+            "shared inbox for gmail",
+            "team email management",
+            "collaborative Email platform"
         ]
     },
     {
