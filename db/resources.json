@@ -1,5 +1,5 @@
 {
-"count": 1196,
+"count": 1202,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1134,6 +1134,22 @@
             "Funding Application Tool",
             "Automated Document Generation",
             "Tender Consulting Services"
+        ]
+    },
+    {
+        "name": "Barra",
+        "description": "Website Toolbar Built to Improve Conversion rate by simplifying UX",
+        "categories": [
+            "Marketing",
+            "UX",
+            "Analytics"
+        ],
+        "url": "https://www.barra.ai/",
+        "keywords": [
+            "navigation bar",
+            "action bar",
+            "offer bar",
+            "floating action bar"
         ]
     },
     {
@@ -6926,6 +6942,21 @@
         ]
     },
     {
+        "name": "Interview Man",
+        "description": "AI-powered mock interviews with realistic questions, voice interaction, and actionable feedback to help candidates prepare.",
+        "categories": [
+            "Interview"
+        ],
+        "url": "https://interviewman.com",
+        "keywords": [
+            "interview",
+            "AI",
+            "career",
+            "mock interview",
+            "job search"
+        ]
+    },
+    {
         "name": "Interview Solver",
         "description": "Ace your live coding interviews with our AI Copilot",
         "categories": [
@@ -7145,6 +7176,22 @@
             "remote work",
             "jobs",
             "employment"
+        ]
+    },
+    {
+        "name": "JobsPipe",
+        "description": "Job postings from 30+ ATS and job boards, deduplicated into one JSON schema with salary, seniority and tech stack fields. REST API, CLI and Python/Go SDKs.",
+        "categories": [
+            "Job",
+            "Scraping"
+        ],
+        "url": "https://jobspipe.dev",
+        "keywords": [
+            "jobs api",
+            "job postings",
+            "job data",
+            "ats",
+            "tech stack"
         ]
     },
     {
@@ -9553,6 +9600,21 @@
             "conversion rate optimization",
             "landing pages",
             "cro audit"
+        ]
+    },
+    {
+        "name": "ParlayAPI",
+        "description": "Sports odds REST API for private research tools. Each user supplies their own API key. Free tier: 1,000 credits/month. No public data redistribution.",
+        "categories": [
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://parlay-api.com",
+        "keywords": [
+            "sports odds",
+            "REST API",
+            "Python",
+            "private research"
         ]
     },
     {
@@ -13098,6 +13160,22 @@
         ]
     },
     {
+        "name": "Text Differ",
+        "description": "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
+        "categories": [
+            "Tool"
+        ],
+        "url": "https://text-differ.com/",
+        "keywords": [
+            "text compare",
+            "text differ",
+            "compare",
+            "productivity",
+            "devtool",
+            "json formatter"
+        ]
+    },
+    {
         "name": "The A11Y Project",
         "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
         "categories": [
@@ -15105,6 +15183,21 @@
             "Testing"
         ],
         "url": "https://www.getxray.app/"
+    },
+    {
+        "name": "YAML Preflight",
+        "description": "Validate strict YAML, duplicate keys, and common GitHub Actions permission mistakes locally in your browser.",
+        "categories": [
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://yaml.aevumere.com/yaml-preflight",
+        "keywords": [
+            "yaml",
+            "github actions",
+            "validator",
+            "permissions"
+        ]
     },
     {
         "name": "YAMLine",
