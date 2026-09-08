@@ -1,5 +1,5 @@
 {
-"count": 1202,
+"count": 1205,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7108,6 +7108,21 @@
         "url": "https://iq.js.org/"
     },
     {
+        "name": "JavaScript Tools",
+        "description": "JSTools.Space is a growing collection of privacy-first online developer tools for everyday programming, testing, debugging, writing, and data work.",
+        "categories": [
+            "Productivity"
+        ],
+        "url": "https://www.jstools.space/",
+        "keywords": [
+            "javascript",
+            "tool",
+            "json",
+            "jwt",
+            "security"
+        ]
+    },
+    {
         "name": "JavaScript Tutorial",
         "categories": [
             "Learn"
@@ -8758,6 +8773,23 @@
             "Programming"
         ],
         "url": "https://morrisjs.github.io/morris.js/"
+    },
+    {
+        "name": "Motomarks",
+        "description": "Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder.",
+        "categories": [
+            "CDN",
+            "Logo",
+            "Image"
+        ],
+        "url": "https://motomarks.io",
+        "keywords": [
+            "automotive",
+            "car",
+            "manufacturer",
+            "logo",
+            "cdn"
+        ]
     },
     {
         "name": "MyPerfectResume",
@@ -13859,6 +13891,22 @@
             "SEO"
         ],
         "url": "https://neilpatel.com/ubersuggest"
+    },
+    {
+        "name": "uChecker",
+        "description": "Email list verification (Good/Bad/Unknown) plus free SPF/DKIM/DMARC DNS checkers. No signup on the DNS tools.",
+        "categories": [
+            "Email",
+            "Domain",
+            "Tooling"
+        ],
+        "url": "https://uchecker.net",
+        "keywords": [
+            "email verification",
+            "dkim",
+            "spf",
+            "dmarc"
+        ]
     },
     {
         "name": "Udemy",
