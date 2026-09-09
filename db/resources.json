@@ -6972,6 +6972,21 @@
         ]
     },
     {
+        "name": "Interview VIP",
+        "description": "AI interview coach with realistic practice sessions, voice interaction, and actionable feedback for job candidates.",
+        "categories": [
+            "Interview"
+        ],
+        "url": "https://interviewvip.com",
+        "keywords": [
+            "interview",
+            "AI",
+            "career",
+            "interview coach",
+            "job search"
+        ]
+    },
+    {
         "name": "InterviewPal",
         "description": "InterviewPal is an AI-powered platform that helps developers and career changers prepare for interviews with personalized simulations and feedback.",
         "categories": [
@@ -10460,20 +10475,6 @@
             "UX"
         ],
         "url": "https://qoqo.ai/"
-    },
-    {
-        "name": "Quicklisting",
-        "description": "Done-for-you growth marketing for tech startups. From content and SEO to backlinks and design, Quicklisting helps you scale without hiring full-time.",
-        "categories": [
-            "Marketing",
-            "SEO",
-            "Design"
-        ],
-        "url": "https://quicklist.ing",
-        "keywords": [
-            "fractional marketing",
-            "directory submissions"
-        ]
     },
     {
         "name": "Quokka.js",
