@@ -1,5 +1,5 @@
 {
-"count": 1209,
+"count": 1212,
 "data": [
     {
         "name": "1001 Fonts",
@@ -5905,6 +5905,22 @@
         ]
     },
     {
+        "name": "GlobalEntity",
+        "description": "One REST API for official company data from 50+ European business registers, returning status, legal form, address, VAT and LEI as normalized JSON.",
+        "categories": [
+            "Database",
+            "Security"
+        ],
+        "url": "https://www.globalentityapi.com",
+        "keywords": [
+            "company data",
+            "kyc",
+            "business registry",
+            "lei",
+            "vat"
+        ]
+    },
+    {
         "name": "GoatCounter",
         "description": "GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.",
         "categories": [
@@ -9701,6 +9717,22 @@
         ]
     },
     {
+        "name": "PastAGI",
+        "description": "Practical AI engineering publication: LLM inference cost audits, serving math, eval methodology, and tool reviews with verifiable numbers.",
+        "categories": [
+            "Blog",
+            "AI"
+        ],
+        "url": "https://pastagi.com",
+        "keywords": [
+            "ai engineering",
+            "llm",
+            "inference cost",
+            "evals",
+            "tutorials"
+        ]
+    },
+    {
         "name": "Patterninja",
         "description": "Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.",
         "categories": [
@@ -11142,6 +11174,21 @@
             "Resume"
         ],
         "url": "https://resume.io"
+    },
+    {
+        "name": "ResumeAI",
+        "description": "Free ATS resume checker (3/day anonymous, 10/day free account) plus the open State of ATS 2026 employer dataset.",
+        "categories": [
+            "Resume",
+            "Job"
+        ],
+        "url": "https://withresumeai.com/",
+        "keywords": [
+            "ats",
+            "resume checker",
+            "job search",
+            "ats score"
+        ]
     },
     {
         "name": "ResumeBoostAI",
