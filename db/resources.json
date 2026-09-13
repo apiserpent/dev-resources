@@ -1,5 +1,5 @@
 {
-"count": 1212,
+"count": 1214,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6822,6 +6822,24 @@
             "Illustration"
         ],
         "url": "https://www.artify.co/illustrations-figma"
+    },
+    {
+        "name": "Image to ASCII",
+        "description": "Convert images locally into ASCII art for READMEs and terminals. Copy text or Markdown; export TXT, PNG, SVG, HTML, or ANSI. Free, no signup.",
+        "categories": [
+            "Image",
+            "Terminal",
+            "Tooling"
+        ],
+        "url": "https://imagetoascii.art/",
+        "keywords": [
+            "ascii art",
+            "image to ascii",
+            "readme",
+            "ansi",
+            "markdown",
+            "local processing"
+        ]
     },
     {
         "name": "Img.Upscaler",
@@ -14357,6 +14375,24 @@
             "tools",
             "development",
             "seo"
+        ]
+    },
+    {
+        "name": "Uwarp",
+        "description": "Free browser UI design tools for developers and designers—SVG, color, icons, mockups, image and audio converters. No signup required.",
+        "categories": [
+            "Design",
+            "UI",
+            "Tooling"
+        ],
+        "url": "https://www.uwarp.design/",
+        "keywords": [
+            "design tools",
+            "svg",
+            "color",
+            "icons",
+            "mockups",
+            "ui tools"
         ]
     },
     {
