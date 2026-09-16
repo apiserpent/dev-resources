@@ -207,7 +207,7 @@ export const resources: Resource[] = [
         name: 'Text Differ',
         description:
             "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
-        categories: ['Tool'],
+        categories: ['Tooling'],
         url: 'https://text-differ.com/',
         keywords: ['text compare', 'text differ', 'compare', 'productivity', 'devtool', 'json formatter'],
     },
@@ -447,7 +447,7 @@ export const resources: Resource[] = [
     {
         name: 'TranscriptFetch',
         description:
-            'Transcript API for YouTube, TikTok, Instagram and podcasts. Clean, timestamped JSON from one call, with AI fallback when there are no captions.',
+            'Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.',
         categories: ['Video'],
         url: 'https://transcriptfetch.com',
         keywords: [

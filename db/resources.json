@@ -1,5 +1,5 @@
 {
-"count": 1216,
+"count": 1212,
 "data": [
     {
         "name": "1001 Fonts",
@@ -3843,26 +3843,6 @@
         ]
     },
     {
-        "name": "DepthFeed",
-        "description": "Historical and live prediction-market order-book data APIs and MCP for backtesting Polymarket, Kalshi, Limitless, and Predict.fun.",
-        "categories": [
-            "Analytics",
-            "AI",
-            "Web3"
-        ],
-        "url": "https://depthfeed.com",
-        "keywords": [
-            "prediction markets",
-            "order book",
-            "backtesting",
-            "market data",
-            "api",
-            "mcp",
-            "polymarket",
-            "kalshi"
-        ]
-    },
-    {
         "name": "Design Resources",
         "description": "A curated list of the best design resources handpicked from around the web.",
         "categories": [
@@ -5125,9 +5105,7 @@
             "webfont",
             "icon font",
             "font generator",
-            "SVG to WOFF2",
             "color glyphs",
-            "monochrome icons",
             "custom icons"
         ]
     },
@@ -7548,21 +7526,6 @@
             "devops",
             "cybersecurity",
             "programming"
-        ]
-    },
-    {
-        "name": "Lacuna",
-        "description": "AI music platform with a developer API: generate full songs with vocals and lyrics, or instrumentals, plus stem separation and mastering. Official TypeScript SDK, CLI, and MCP server on npm.",
-        "categories": [
-            "Audio",
-            "AI"
-        ],
-        "url": "https://lacuna.fm",
-        "keywords": [
-            "music",
-            "audio",
-            "generation",
-            "api"
         ]
     },
     {
@@ -10115,26 +10078,6 @@
         ]
     },
     {
-        "name": "Planomy Tax Data",
-        "description": "2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source",
-        "categories": [
-            "Library",
-            "Open Source"
-        ],
-        "url": "https://github.com/demorphed6-lgtm/planomy-tax-data",
-        "keywords": [
-            "tax",
-            "irs",
-            "tax brackets",
-            "dataset",
-            "open data",
-            "retirement",
-            "401k",
-            "ira",
-            "hsa"
-        ]
-    },
-    {
         "name": "Plausible",
         "description": "Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of your visitors is respected.",
         "categories": [
@@ -11987,21 +11930,6 @@
         ]
     },
     {
-        "name": "ShotLab",
-        "description": "Make your screenshots stand out with stunning backgrounds, frames, cool stickers, emojis, and more. No design skills required.",
-        "categories": [
-            "Prototyping",
-            "Screenshot"
-        ],
-        "url": "https://shotlab.pro/",
-        "keywords": [
-            "mockup",
-            "design",
-            "social",
-            "marketing"
-        ]
-    },
-    {
         "name": "Shots",
         "description": "Create amazing mockups with an image, from a website to a product, personalize any aspect of the outcome.",
         "categories": [
@@ -13324,7 +13252,7 @@
         "name": "Text Differ",
         "description": "Whether you're revising an article, checking document updates, or reviewing code, Text Differ helps you spot every change quickly and confidently.",
         "categories": [
-            "Tool"
+            "Tooling"
         ],
         "url": "https://text-differ.com/",
         "keywords": [
@@ -13686,7 +13614,7 @@
     },
     {
         "name": "TranscriptFetch",
-        "description": "Transcript API for YouTube, TikTok, Instagram and podcasts. Clean, timestamped JSON from one call, with AI fallback when there are no captions.",
+        "description": "Transcript data from any YouTube, TikTok or Instagram video, or a whole channel or playlist, inside your assistant. Analyze a video, a creator, or a whole topic.",
         "categories": [
             "Video"
         ],
