@@ -1,5 +1,5 @@
 {
-"count": 1215,
+"count": 1219,
 "data": [
     {
         "name": "1001 Fonts",
@@ -343,6 +343,25 @@
             "mobile",
             "regression testing",
             "natural language tests"
+        ]
+    },
+    {
+        "name": "AgileHero",
+        "description": "Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.",
+        "categories": [
+            "Productivity",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://agilehero.io",
+        "keywords": [
+            "project management",
+            "agile",
+            "kanban",
+            "scrum",
+            "tasks tracking",
+            "mcp",
+            "ai agents"
         ]
     },
     {
@@ -2910,6 +2929,23 @@
             "Extension"
         ],
         "url": "https://www.colorzilla.com/"
+    },
+    {
+        "name": "CommentKeyword",
+        "description": "CommentKeyword turns Instagram comments into qualified leads: auto-replies to keyword comments, sends an instant DM with your offer, and can continue the conversation with an AI agent. Billed per DM, not per contact.",
+        "categories": [
+            "Marketing",
+            "Social Media",
+            "AI"
+        ],
+        "url": "https://commentkeyword.com/",
+        "keywords": [
+            "instagram",
+            "instagram marketing",
+            "comment automation",
+            "dm automation",
+            "lead generation"
+        ]
     },
     {
         "name": "Commit Your Code!",
@@ -9737,6 +9773,21 @@
         ]
     },
     {
+        "name": "Patronus Protect",
+        "description": "Hosted API to detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines. Free tier available.",
+        "categories": [
+            "AI",
+            "Security"
+        ],
+        "url": "https://api.patronus.studio",
+        "keywords": [
+            "prompt injection",
+            "agent security",
+            "RAG",
+            "API"
+        ]
+    },
+    {
         "name": "Patterninja",
         "description": "Combine images from our free library or use your own. Produced patterns can be downloaded in high resolution and used for printing and the web.",
         "categories": [
@@ -15203,6 +15254,17 @@
             "Extension"
         ],
         "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm"
+    },
+    {
+        "name": "wheretosubmit",
+        "description": "A curated directory of 500+ launch platforms and backlink sites, tagged with pricing, DR, traffic, and first-hand submission tips.track what you submitted",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://wheretosubmit.org",
+        "keywords": [
+            "seo"
+        ]
     },
     {
         "name": "Widget.video",
