@@ -1,5 +1,5 @@
 {
-"count": 1226,
+"count": 1230,
 "data": [
     {
         "name": "1001 Fonts",
@@ -538,6 +538,23 @@
             "ai one pager generator",
             "create one pager",
             "one pager template"
+        ]
+    },
+    {
+        "name": "AI Website Prompt Generator",
+        "description": "AI Website Prompt Generator is an all-in-one AI platform that helps designers, developers, agencies, and businesses create  professional, SEO-friendly  websites",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://aiwebsitepromptgenerator.com/",
+        "keywords": [
+            "AI web design",
+            "Web design prompt",
+            "website to prompt",
+            "prompt generator",
+            "AI prompt maker",
+            "AI Logo Maker",
+            "AI thumbnail generator"
         ]
     },
     {
@@ -4855,6 +4872,22 @@
         "url": "https://www.figmacrush.com/"
     },
     {
+        "name": "FileOnTap HEIC to PNG",
+        "description": "Free browser-based HEIC to PNG converter. All conversion runs locally in the browser, files are never uploaded, no account required.",
+        "categories": [
+            "Image",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://fileontap.com/heic-to-png/",
+        "keywords": [
+            "heic to png",
+            "image converter",
+            "browser-based",
+            "privacy"
+        ]
+    },
+    {
         "name": "FinetuneFast",
         "description": "Finetune ML models in days, not weeks",
         "categories": [
@@ -5292,6 +5325,27 @@
             "Code Snippet"
         ],
         "url": "https://formcn.dev/"
+    },
+    {
+        "name": "Formfeed",
+        "description": "PDF and image generation API. HTML templates in Jinja2, Liquid or Handlebars, or your own Word files, rendered by one API call. EU-hosted, free plan.",
+        "categories": [
+            "Tooling",
+            "Template",
+            "Image"
+        ],
+        "url": "https://formfeed.dev",
+        "keywords": [
+            "pdf",
+            "html to pdf",
+            "pdf api",
+            "document generation",
+            "invoice",
+            "jinja2",
+            "liquid",
+            "handlebars",
+            "mcp"
+        ]
     },
     {
         "name": "FoundRole",
@@ -14732,6 +14786,22 @@
             "Hosting"
         ],
         "url": "https://vercel.com/"
+    },
+    {
+        "name": "Verva",
+        "description": "Verva humanizes AI-generated text into natural writing that bypasses AI detectors while preserving its meaning. For writers, marketers, and creators.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://verva.com/",
+        "keywords": [
+            "AI humanizer",
+            "humanize AI text",
+            "AI detector",
+            "AI writing",
+            "content creation",
+            "rewriting"
+        ]
     },
     {
         "name": "Vesta",

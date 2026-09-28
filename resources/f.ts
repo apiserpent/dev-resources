@@ -72,6 +72,14 @@ export const resources: Resource[] = [
         url: 'https://www.figmacrush.com/',
     },
     {
+        name: 'FileOnTap HEIC to PNG',
+        description:
+            'Free browser-based HEIC to PNG converter. All conversion runs locally in the browser, files are never uploaded, no account required.',
+        categories: ['Image', 'Tooling', 'Productivity'],
+        url: 'https://fileontap.com/heic-to-png/',
+        keywords: ['heic to png', 'image converter', 'browser-based', 'privacy'],
+    },
+    {
         name: 'FinetuneFast',
         description: 'Finetune ML models in days, not weeks',
         categories: ['AI', 'Productivity', 'Programming'],
@@ -395,6 +403,24 @@ export const resources: Resource[] = [
         description: 'Easily build single- and multi-step forms with auto-generated client- and server-side code.',
         categories: ['Code Snippet'],
         url: 'https://formcn.dev/',
+    },
+    {
+        name: 'Formfeed',
+        description:
+            'PDF and image generation API. HTML templates in Jinja2, Liquid or Handlebars, or your own Word files, rendered by one API call. EU-hosted, free plan.',
+        categories: ['Tooling', 'Template', 'Image'],
+        url: 'https://formfeed.dev',
+        keywords: [
+            'pdf',
+            'html to pdf',
+            'pdf api',
+            'document generation',
+            'invoice',
+            'jinja2',
+            'liquid',
+            'handlebars',
+            'mcp',
+        ],
     },
     {
         name: 'FoundRole',
