@@ -171,6 +171,14 @@ export const resources: Resource[] = [
         keywords: ['image generation', 'professional photos'],
     },
     {
+        name: 'PhotonConsole',
+        description:
+            'PhotonConsole is a cloud-based SMTP Relay and Email API platform built for developers, startups, SaaS businesses, and enterprises.',
+        categories: ['Blog'],
+        url: 'https://www.photonconsole.com/',
+        keywords: ['email relay'],
+    },
+    {
         name: 'Photopea',
         description:
             'Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.',
@@ -220,6 +228,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Programming', 'Productivity'],
         url: 'https://pieces.app/',
         keywords: ['Productivity', 'Copilot', 'easy snippet search'],
+    },
+    {
+        name: 'Pilot Protocol',
+        description:
+            'Overlay network for AI agents: permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and a trust model — plus an app store of agent-native apps.',
+        categories: ['AI'],
+        url: 'https://pilotprotocol.network',
+        keywords: ['agent networking', 'overlay network', 'NAT traversal', 'p2p', 'app store'],
     },
     {
         name: 'PimpMySnap',
@@ -323,6 +339,24 @@ export const resources: Resource[] = [
             'Build your IT toolkit with the skills you need to excel in your job, including security best practices, server infrastructure and virtualization. Explore our IT courses now.',
         categories: ['Learn', 'Programming'],
         url: 'https://www.pluralsight.com/',
+    },
+    {
+        name: 'Poket Dev',
+        description:
+            'Software development on a subscription: submit as many requests as you need each month for one flat fee. Work happens one request at a time in a private GitHub repo, with a 72-hour turnaround on delivery. Python-first scope covering AI/ML, backends, automation, data engineering, and cloud/DevOps.',
+        categories: ['Startup', 'Freelance'],
+        url: 'https://www.poketdev.com',
+        keywords: [
+            'productized service',
+            'subscription development',
+            'python development',
+            'django',
+            'fastapi',
+            'devops',
+            'aws',
+            'etl',
+            'web scraping',
+        ],
     },
     {
         name: 'Polypane',
