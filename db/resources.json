@@ -1,5 +1,5 @@
 {
-"count": 1230,
+"count": 1234,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6999,6 +6999,22 @@
         "url": "https://inclusive-components.design/"
     },
     {
+        "name": "Indexed",
+        "description": "REST API for private company data: look up companies by name or domain and get funding rounds, investors and tech stacks for CRM and pipeline enrichment.",
+        "categories": [
+            "Database",
+            "Startup"
+        ],
+        "url": "https://indexed.vc",
+        "keywords": [
+            "company data",
+            "funding data",
+            "investors",
+            "enrichment",
+            "openapi"
+        ]
+    },
+    {
         "name": "Indie Hackers",
         "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
         "categories": [
@@ -8896,6 +8912,22 @@
         "url": "https://mockae.com/"
     },
     {
+        "name": "Modellix",
+        "description": "All leading AI models. One API. Zero hassle.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://www.modellix.ai/",
+        "keywords": [
+            "marketing",
+            "developer Tools",
+            "api",
+            "ai image generator"
+        ]
+    },
+    {
         "name": "MongoDB",
         "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
         "categories": [
@@ -9291,6 +9323,26 @@
         "keywords": [
             "SEO",
             "Marketing"
+        ]
+    },
+    {
+        "name": "Nick Launches",
+        "description": "Launch your product to thousands of builders and earn a permanent dofollow backlink. A no-fluff launch platform for builders and AI startups.",
+        "categories": [
+            "Startup"
+        ],
+        "url": "https://nicklaunches.com/",
+        "keywords": [
+            "launch-platform",
+            "product-discovery",
+            "indie-hackers",
+            "saas",
+            "ai-tools",
+            "developer-tools",
+            "backlinks",
+            "seo",
+            "startup-marketing",
+            "builders"
         ]
     },
     {
@@ -15663,6 +15715,25 @@
             "web",
             "developer tools",
             "tools"
+        ]
+    },
+    {
+        "name": "YunCMS",
+        "description": "Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools.",
+        "categories": [
+            "CMS",
+            "API Building",
+            "Open Source"
+        ],
+        "url": "https://yunsoft.com/case-study/yuncms-programmable-cms-backend",
+        "keywords": [
+            "mysql",
+            "headless cms",
+            "node.js",
+            "react",
+            "rest api",
+            "mcp",
+            "self-hosted"
         ]
     },
     {
