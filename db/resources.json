@@ -1,5 +1,5 @@
 {
-"count": 1242,
+"count": 1244,
 "data": [
     {
         "name": "1001 Fonts",
@@ -68,6 +68,24 @@
             "Job"
         ],
         "url": "https://4dayweek.io/"
+    },
+    {
+        "name": "5dive",
+        "description": "Open-source runtime that runs Claude Code, Codex and other coding CLIs as persistent agents on your own server, with a shared task queue and an org chart.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://5dive.ai",
+        "keywords": [
+            "ai agents",
+            "claude code",
+            "codex",
+            "multi-agent",
+            "self-hosted",
+            "agent orchestration"
+        ]
     },
     {
         "name": "99designs",
@@ -12668,6 +12686,16 @@
             "Code Snippet"
         ],
         "url": "https://snappify.io/"
+    },
+    {
+        "name": "SnappyKit",
+        "description": "40+ free browser-based image tools with a developer focus: favicon/ICO generation, image-to-Base64, image-to-PDF, plus 40+ conversion pairs (incl. HEIC), compression, resizing and EXIF cleanup. All processing runs client-side; files never leave the device.",
+        "categories": [
+            "Image",
+            "Design",
+            "Productivity"
+        ],
+        "url": "https://snappykit.site"
     },
     {
         "name": "Snipit",
