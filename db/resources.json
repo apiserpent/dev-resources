@@ -1,5 +1,5 @@
 {
-"count": 1244,
+"count": 1263,
 "data": [
     {
         "name": "1001 Fonts",
@@ -249,6 +249,22 @@
             "advertising",
             "ai",
             "design"
+        ]
+    },
+    {
+        "name": "Adeli",
+        "description": "Unified API to publish to Instagram, TikTok, X, YouTube, and Facebook, with comments, DMs, analytics, and an MCP server for AI agents.",
+        "categories": [
+            "Social Media"
+        ],
+        "url": "https://www.tryadeli.com",
+        "keywords": [
+            "social media api",
+            "instagram api",
+            "tiktok api",
+            "x api",
+            "youtube api",
+            "mcp"
         ]
     },
     {
@@ -810,6 +826,23 @@
         ]
     },
     {
+        "name": "APIClaw",
+        "description": "OpenAI-compatible API gateway for coding agents: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM on flat monthly plans, no per-token billing.",
+        "categories": [
+            "AI",
+            "API Building"
+        ],
+        "url": "https://apiclaw.biz",
+        "keywords": [
+            "openai compatible",
+            "llm gateway",
+            "ai api",
+            "claude",
+            "coding agents",
+            "flat rate"
+        ]
+    },
+    {
         "name": "Apigee",
         "description": "Apigee, part of Google Cloud, helps leading companies design, secure, and scale application programming interfaces (APIs). Try Apigee Edge for free.",
         "categories": [
@@ -1208,6 +1241,25 @@
             "Funding Application Tool",
             "Automated Document Generation",
             "Tender Consulting Services"
+        ]
+    },
+    {
+        "name": "barcodegen.net",
+        "description": "Free online barcode generator and image API for 35 symbologies: Code 128, EAN-13, UPC-A, QR Code, Data Matrix, PDF417. No API key, signup or watermark.",
+        "categories": [
+            "API Building",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://www.barcodegen.net/",
+        "keywords": [
+            "barcode",
+            "qr code",
+            "ean-13",
+            "upc-a",
+            "code 128",
+            "image api",
+            "svg"
         ]
     },
     {
@@ -3868,6 +3920,24 @@
         "url": "https://learnui.design/tools/data-color-picker.html"
     },
     {
+        "name": "Datacircle",
+        "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.",
+        "categories": [
+            "Programming",
+            "AI",
+            "Marketing"
+        ],
+        "url": "https://datacircle.dev/",
+        "keywords": [
+            "b2b data",
+            "data enrichment",
+            "linkedin profile api",
+            "lead generation",
+            "mcp server",
+            "api"
+        ]
+    },
+    {
         "name": "DataGrip",
         "description": "A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.",
         "categories": [
@@ -3927,6 +3997,23 @@
             "Tooling"
         ],
         "url": "https://www.debugbear.com/test/website-speed"
+    },
+    {
+        "name": "Decisions API",
+        "description": "Hosted decision models in one playground and API: classify, score, and route text through structured Choice, Score, and Noul workflows.",
+        "categories": [
+            "AI",
+            "API Building",
+            "Programming"
+        ],
+        "url": "https://decisions-api.dev/",
+        "keywords": [
+            "decision models",
+            "text classification",
+            "decision api",
+            "model playground",
+            "llm routing"
+        ]
     },
     {
         "name": "Decoded Frontend",
@@ -4248,6 +4335,23 @@
         ]
     },
     {
+        "name": "dif",
+        "description": "Feature flags and A/B tests as Markdown files in your git repo. A CLI validates them and compiles a typed TypeScript client. Open source, no signup.",
+        "categories": [
+            "Open Source",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://www.dif.sh",
+        "keywords": [
+            "feature flags",
+            "ab testing",
+            "experimentation",
+            "cli",
+            "typescript"
+        ]
+    },
+    {
         "name": "Diploi",
         "description": "Bootstrap full-stack apps + databases and deploy online in seconds, while skipping all DevOps or server config, with integrated support for remote development to start coding without running anything locally.",
         "categories": [
@@ -4513,6 +4617,23 @@
         ]
     },
     {
+        "name": "DSH Plugins",
+        "description": "An independent, human-reviewed directory for discovering DeepSeek Harness plugins, comparing installation paths, and inspecting public source and README notes.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Programming"
+        ],
+        "url": "https://dshplugins.com/",
+        "keywords": [
+            "DeepSeek Harness",
+            "plugins",
+            "plugin directory",
+            "AI agents",
+            "developer tools"
+        ]
+    },
+    {
         "name": "dygraphs",
         "description": "dygraphs is a fast, flexible open source JavaScript charting library. It allows users to explore and interpret dense data sets.",
         "categories": [
@@ -4763,6 +4884,28 @@
             "Programming"
         ],
         "url": "https://epicreact.dev/"
+    },
+    {
+        "name": "EveryInfra",
+        "description": "One API key for structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon and more), web search and CAPTCHA solving via REST, MCP or SDK.",
+        "categories": [
+            "Scraping",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://everyinfra.com/en",
+        "keywords": [
+            "scraper api",
+            "mcp server",
+            "xiaohongshu",
+            "rednote",
+            "douyin",
+            "tiktok",
+            "amazon",
+            "captcha",
+            "web search",
+            "ai agents"
+        ]
     },
     {
         "name": "Everyone Hates Marketers",
@@ -5364,6 +5507,22 @@
             "Font"
         ],
         "url": "https://fontspark.com/"
+    },
+    {
+        "name": "ForgeSprite",
+        "description": "AI game art workspace for static 2D sprites, props and icons, with reference-image editing and browser tools to pack, cut and resize sprite sheets.",
+        "categories": [
+            "AI",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://forgesprite.com/",
+        "keywords": [
+            "game development",
+            "2d sprites",
+            "game assets",
+            "sprite sheets"
+        ]
     },
     {
         "name": "Forgex",
@@ -8408,6 +8567,21 @@
         ]
     },
     {
+        "name": "MacMD Viewer",
+        "description": "Read-only Markdown viewer for macOS 14+ for READMEs, docs and agent-written plans, with Mermaid, syntax highlighting, live reload and Quick Look.",
+        "categories": [
+            "Documentation"
+        ],
+        "url": "https://macmdviewer.com",
+        "keywords": [
+            "markdown",
+            "markdown viewer",
+            "mermaid",
+            "macos",
+            "quick look"
+        ]
+    },
+    {
         "name": "Madza Quizzes",
         "description": "A great resource with 500 free interview questions",
         "categories": [
@@ -8729,6 +8903,23 @@
             "Template"
         ],
         "url": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free"
+    },
+    {
+        "name": "Materix",
+        "description": "Curated directory of AI tools for game developers, organized by task, asset type and engine, with guides and practical workflows.",
+        "categories": [
+            "AI",
+            "Learn",
+            "Tooling"
+        ],
+        "url": "https://materix.org/",
+        "keywords": [
+            "game development",
+            "ai tools directory",
+            "unity",
+            "godot",
+            "unreal"
+        ]
     },
     {
         "name": "Matomo",
@@ -10267,6 +10458,22 @@
         "url": "https://www.jetbrains.com/phpstorm/"
     },
     {
+        "name": "pic2svg",
+        "description": "Hosted raster-to-vector converter that turns PNG/JPG images into editable SVG paths and exports PDF, EPS, AI, and DXF for design and CNC workflows.",
+        "categories": [
+            "Image",
+            "Design",
+            "Logo"
+        ],
+        "url": "https://pic2svg.com",
+        "keywords": [
+            "image to svg",
+            "raster to vector",
+            "png to svg",
+            "DXF export"
+        ]
+    },
+    {
         "name": "PicPrepper",
         "description": "Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.",
         "categories": [
@@ -10648,6 +10855,26 @@
             "receipt printer",
             "label printer",
             "rest api"
+        ]
+    },
+    {
+        "name": "Prisma",
+        "description": "Prisma ORM, Prisma Postgres (managed PostgreSQL with a free plan, no credit card, zero cold starts) and Prisma Compute hosting for TypeScript apps.",
+        "categories": [
+            "Database",
+            "Hosting",
+            "Serverless"
+        ],
+        "url": "https://www.prisma.io",
+        "keywords": [
+            "orm",
+            "postgres",
+            "postgresql",
+            "database",
+            "hosting",
+            "typescript",
+            "serverless",
+            "free tier"
         ]
     },
     {
@@ -11066,6 +11293,23 @@
             "Productivity"
         ],
         "url": "https://www.raycast.com"
+    },
+    {
+        "name": "REA",
+        "description": "Local CLI and MCP tools for agents to inspect binaries and JavaScript/Electron apps with evidence. Deep native analysis needs Hopper, Ghidra, or IDA.",
+        "categories": [
+            "AI",
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://rea.tools",
+        "keywords": [
+            "reverse engineering",
+            "binary analysis",
+            "electron",
+            "mcp",
+            "cli"
+        ]
     },
     {
         "name": "React Bits",
@@ -12298,6 +12542,23 @@
         ]
     },
     {
+        "name": "ShareScan",
+        "description": "Check Open Graph tags and image URLs across up to 10 pages at once, for free and without an account. Optional monitoring and paid plans are available.",
+        "categories": [
+            "SEO",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://sharescan.io/",
+        "keywords": [
+            "open graph",
+            "meta tags",
+            "link previews",
+            "social sharing",
+            "website testing"
+        ]
+    },
+    {
         "name": "Sheets 2 API",
         "description": "Convert Google Sheets to JSON API - Speed up your prototyping by skipping API development and using Google Sheets instead.",
         "categories": [
@@ -13481,6 +13742,23 @@
         "url": "https://tailwindcomponents.com/"
     },
     {
+        "name": "Tale",
+        "description": "Self-hosted team workspace for coordinating coding agents, project tasks, shared knowledge and reviewed deliverables.",
+        "categories": [
+            "AI",
+            "Programming",
+            "Tooling"
+        ],
+        "url": "https://tale.dev",
+        "keywords": [
+            "coding agents",
+            "agent orchestration",
+            "project management",
+            "self-hosted",
+            "open source"
+        ]
+    },
+    {
         "name": "Tatask",
         "description": "Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.",
         "categories": [
@@ -13973,6 +14251,25 @@
             "base64",
             "timestamp",
             "sha256"
+        ]
+    },
+    {
+        "name": "ToolStack",
+        "description": "32 free browser-based developer tools: JSON formatter and validator, Base64, image compressor, color and unit converters, calculators, QR codes. No sign-up.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://tools.mindutil.com/",
+        "keywords": [
+            "json",
+            "base64",
+            "image compressor",
+            "color converter",
+            "unit converter",
+            "calculator",
+            "qr code",
+            "no signup"
         ]
     },
     {
@@ -14673,6 +14970,24 @@
             "Illustration"
         ],
         "url": "https://undraw.co/"
+    },
+    {
+        "name": "Universal Modder Field Guide",
+        "description": "Free, independent documentation for Universal Modder: coding-agent setup, game modding routes, and installation troubleshooting.",
+        "categories": [
+            "Documentation",
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://universalmodder.dev/",
+        "keywords": [
+            "universal modder",
+            "game modding",
+            "claude code",
+            "codex",
+            "installation",
+            "troubleshooting"
+        ]
     },
     {
         "name": "unlearn.dev",
@@ -15819,6 +16134,22 @@
             "anthropic",
             "gemini",
             "model routing"
+        ]
+    },
+    {
+        "name": "Xora",
+        "description": "Cloud FFmpeg API for media jobs",
+        "categories": [
+            "Video",
+            "Cloud Computing",
+            "Tooling"
+        ],
+        "url": "https://xora.sh/",
+        "keywords": [
+            "developer tool",
+            "ffmpeg",
+            "video api",
+            "media processing"
         ]
     },
     {

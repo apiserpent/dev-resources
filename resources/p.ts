@@ -208,6 +208,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/phpstorm/',
     },
     {
+        name: 'pic2svg',
+        description:
+            'Hosted raster-to-vector converter that turns PNG/JPG images into editable SVG paths and exports PDF, EPS, AI, and DXF for design and CNC workflows.',
+        categories: ['Image', 'Design', 'Logo'],
+        url: 'https://pic2svg.com',
+        keywords: ['image to svg', 'raster to vector', 'png to svg', 'DXF export'],
+    },
+    {
         name: 'PicPrepper',
         description:
             'Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.',
@@ -437,6 +445,14 @@ export const resources: Resource[] = [
         categories: ['API Building'],
         url: 'https://www.printsocket.com',
         keywords: ['printing', 'cloud printing', 'escpos', 'zpl', 'receipt printer', 'label printer', 'rest api'],
+    },
+    {
+        name: 'Prisma',
+        description:
+            'Prisma ORM, Prisma Postgres (managed PostgreSQL with a free plan, no credit card, zero cold starts) and Prisma Compute hosting for TypeScript apps.',
+        categories: ['Database', 'Hosting', 'Serverless'],
+        url: 'https://www.prisma.io',
+        keywords: ['orm', 'postgres', 'postgresql', 'database', 'hosting', 'typescript', 'serverless', 'free tier'],
     },
     {
         name: 'Prismix',

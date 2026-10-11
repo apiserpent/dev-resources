@@ -2,6 +2,14 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
+        name: 'MacMD Viewer',
+        description:
+            'Read-only Markdown viewer for macOS 14+ for READMEs, docs and agent-written plans, with Mermaid, syntax highlighting, live reload and Quick Look.',
+        categories: ['Documentation'],
+        url: 'https://macmdviewer.com',
+        keywords: ['markdown', 'markdown viewer', 'mermaid', 'macos', 'quick look'],
+    },
+    {
         name: 'Madza Quizzes',
         description: 'A great resource with 500 free interview questions',
         categories: ['Interview'],
@@ -209,6 +217,14 @@ export const resources: Resource[] = [
             'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
         categories: ['Template'],
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
+    },
+    {
+        name: 'Materix',
+        description:
+            'Curated directory of AI tools for game developers, organized by task, asset type and engine, with guides and practical workflows.',
+        categories: ['AI', 'Learn', 'Tooling'],
+        url: 'https://materix.org/',
+        keywords: ['game development', 'ai tools directory', 'unity', 'godot', 'unreal'],
     },
     {
         name: 'Matomo',

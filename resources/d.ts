@@ -100,6 +100,14 @@ export const resources: Resource[] = [
         url: 'https://learnui.design/tools/data-color-picker.html',
     },
     {
+        name: 'Datacircle',
+        description:
+            'Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.',
+        categories: ['Programming', 'AI', 'Marketing'],
+        url: 'https://datacircle.dev/',
+        keywords: ['b2b data', 'data enrichment', 'linkedin profile api', 'lead generation', 'mcp server', 'api'],
+    },
+    {
         name: 'DataGrip',
         description: 'A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.',
         categories: ['Editor', 'Programming'],
@@ -144,6 +152,14 @@ export const resources: Resource[] = [
         description: 'Test the speed of your website and get recommendations on how to make it faster.',
         categories: ['Performance', 'Tooling'],
         url: 'https://www.debugbear.com/test/website-speed',
+    },
+    {
+        name: 'Decisions API',
+        description:
+            'Hosted decision models in one playground and API: classify, score, and route text through structured Choice, Score, and Noul workflows.',
+        categories: ['AI', 'API Building', 'Programming'],
+        url: 'https://decisions-api.dev/',
+        keywords: ['decision models', 'text classification', 'decision api', 'model playground', 'llm routing'],
     },
     {
         name: 'Decoded Frontend',
@@ -359,6 +375,14 @@ export const resources: Resource[] = [
         keywords: ['android', 'kotlin', 'node.js', 'sql', 'no-sql', 'design to code'],
     },
     {
+        name: 'dif',
+        description:
+            'Feature flags and A/B tests as Markdown files in your git repo. A CLI validates them and compiles a typed TypeScript client. Open source, no signup.',
+        categories: ['Open Source', 'Testing', 'Tooling'],
+        url: 'https://www.dif.sh',
+        keywords: ['feature flags', 'ab testing', 'experimentation', 'cli', 'typescript'],
+    },
+    {
         name: 'Diploi',
         description:
             'Bootstrap full-stack apps + databases and deploy online in seconds, while skipping all DevOps or server config, with integrated support for remote development to start coding without running anything locally.',
@@ -519,6 +543,14 @@ export const resources: Resource[] = [
         categories: ['Website Builder'],
         url: 'https://www.drupal.org/',
         keywords: ['website builder', 'content management system', 'CMS', 'open source'],
+    },
+    {
+        name: 'DSH Plugins',
+        description:
+            'An independent, human-reviewed directory for discovering DeepSeek Harness plugins, comparing installation paths, and inspecting public source and README notes.',
+        categories: ['AI', 'Open Source', 'Programming'],
+        url: 'https://dshplugins.com/',
+        keywords: ['DeepSeek Harness', 'plugins', 'plugin directory', 'AI agents', 'developer tools'],
     },
     {
         name: 'dygraphs',

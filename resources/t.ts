@@ -49,6 +49,14 @@ export const resources: Resource[] = [
         url: 'https://tailwindcomponents.com/',
     },
     {
+        name: 'Tale',
+        description:
+            'Self-hosted team workspace for coordinating coding agents, project tasks, shared knowledge and reviewed deliverables.',
+        categories: ['AI', 'Programming', 'Tooling'],
+        url: 'https://tale.dev',
+        keywords: ['coding agents', 'agent orchestration', 'project management', 'self-hosted', 'open source'],
+    },
+    {
         name: 'Tatask',
         description:
             'Break down your biggest goals into actionable tasks. Tatask is the zen productivity app from the future.',
@@ -374,6 +382,23 @@ export const resources: Resource[] = [
         categories: ['Tooling', 'Productivity'],
         url: 'https://toolsinatab.com/',
         keywords: ['json', 'yaml', 'base64', 'timestamp', 'sha256'],
+    },
+    {
+        name: 'ToolStack',
+        description:
+            '32 free browser-based developer tools: JSON formatter and validator, Base64, image compressor, color and unit converters, calculators, QR codes. No sign-up.',
+        categories: ['Tooling', 'Productivity'],
+        url: 'https://tools.mindutil.com/',
+        keywords: [
+            'json',
+            'base64',
+            'image compressor',
+            'color converter',
+            'unit converter',
+            'calculator',
+            'qr code',
+            'no signup',
+        ],
     },
     {
         name: 'ToolSuite',
