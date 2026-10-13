@@ -1,5 +1,5 @@
 {
-"count": 1263,
+"count": 1270,
 "data": [
     {
         "name": "1001 Fonts",
@@ -966,6 +966,22 @@
         "url": "https://aptakube.com",
         "keywords": [
             "kubernetes"
+        ]
+    },
+    {
+        "name": "Archcore",
+        "description": "Git-native context engineering and spec-driven development for AI coding agents.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://archcore.ai",
+        "keywords": [
+            "context engineering",
+            "spec-driven development",
+            "mcp",
+            "ai coding agents",
+            "cli"
         ]
     },
     {
@@ -5015,6 +5031,24 @@
         "url": "https://usefathom.com/"
     },
     {
+        "name": "favicondl",
+        "description": "Find and download any website's favicon in its best available size (SVG, PNG, ICO), bulk-download up to 100 sites, or call the free no-key favicon API.",
+        "categories": [
+            "Icon",
+            "Image",
+            "Tooling"
+        ],
+        "url": "https://favicondl.com",
+        "keywords": [
+            "favicon",
+            "favicon downloader",
+            "favicon extractor",
+            "favicon api",
+            "website icon",
+            "mcp"
+        ]
+    },
+    {
         "name": "Feather",
         "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
         "categories": [
@@ -7414,6 +7448,23 @@
         ]
     },
     {
+        "name": "Invokely",
+        "description": "Query cited official statistics by place and period through REST or MCP, with a unit and source included in each result.",
+        "categories": [
+            "AI",
+            "Analytics"
+        ],
+        "url": "https://invokely.ai",
+        "keywords": [
+            "statistics",
+            "data API",
+            "REST",
+            "MCP",
+            "AI agents",
+            "official data"
+        ]
+    },
+    {
         "name": "iOS Dev Jobs",
         "description": "Browse the very best iOS development jobs available, or sign up and get a weekly digest delivered by email every Monday.",
         "categories": [
@@ -7488,6 +7539,21 @@
             "Design"
         ],
         "url": "https://itspaintmac.com"
+    },
+    {
+        "name": "Jaabz",
+        "description": "Tech job board with filters for remote, visa sponsorship, and relocation roles for international candidates.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://jaabz.com/",
+        "keywords": [
+            "remote jobs",
+            "visa sponsorship",
+            "relocation",
+            "tech jobs"
+        ]
     },
     {
         "name": "Jam",
@@ -8477,6 +8543,24 @@
             "Logo"
         ],
         "url": "https://looka.com"
+    },
+    {
+        "name": "looot",
+        "description": "One API key and prepaid balance for about 2,500 data endpoints: work emails, phones, company enrichment, Google SERP, web pages. Also a remote MCP server.",
+        "categories": [
+            "API Building",
+            "AI",
+            "Scraping"
+        ],
+        "url": "https://looot.ai",
+        "keywords": [
+            "mcp server",
+            "data api",
+            "email finder",
+            "company enrichment",
+            "serp api",
+            "lead generation"
+        ]
     },
     {
         "name": "Lorem Picsum",
@@ -9969,6 +10053,24 @@
             "UI"
         ],
         "url": "https://openchakra.app/"
+    },
+    {
+        "name": "OpenKline",
+        "description": "MIT-licensed TypeScript library for Canvas candlestick charts, indicators and drawing tools, with React and Vue wrappers.",
+        "categories": [
+            "Library",
+            "Open Source",
+            "UI"
+        ],
+        "url": "https://openkline.tech/",
+        "keywords": [
+            "typescript",
+            "canvas",
+            "candlestick",
+            "ohlcv",
+            "react",
+            "vue"
+        ]
     },
     {
         "name": "Opensource.Builders",
@@ -12337,6 +12439,24 @@
             "client-side",
             "local-first",
             "privacy"
+        ]
+    },
+    {
+        "name": "Sengi Runners",
+        "description": "Managed Ubuntu x64 runners for GitHub Actions. Fresh VM per job, 2/4/8 vCPU, execution-minute billing, and a cardless monthly free allowance.",
+        "categories": [
+            "Cloud Computing",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://sengi.run/",
+        "keywords": [
+            "github actions",
+            "ci",
+            "cicd",
+            "runners",
+            "linux",
+            "ubuntu"
         ]
     },
     {
