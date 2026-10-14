@@ -1,5 +1,5 @@
 {
-"count": 1250,
+"count": 1254,
 "data": [
     {
         "name": "1001 Fonts",
@@ -2846,6 +2846,19 @@
             "Programming"
         ],
         "url": "https://codeshare.io/"
+    },
+    {
+        "name": "CodeToPDF",
+        "description": "Fast, free, and modern online utilities. Format JSON, convert code to PDF, decode JWTs, generate UUIDs, test regex — and much more.",
+        "categories": [
+            "Programming"
+        ],
+        "url": "https://www.codetopdf.com",
+        "keywords": [
+            "codetopdf",
+            "htmltopdf",
+            "mdtopdf"
+        ]
     },
     {
         "name": "CodeTriage",
@@ -7333,6 +7346,19 @@
         ]
     },
     {
+        "name": "Is It Disposable",
+        "description": "Is It Disposable provides disposable email detection to protect your signups and sender reputation.",
+        "categories": [
+            "Email"
+        ],
+        "url": "https://isitdisposable.com/",
+        "keywords": [
+            "Security",
+            "Developer Tools",
+            "Productivity"
+        ]
+    },
+    {
         "name": "isecjobs.com",
         "description": "Find jobs and talents in InfoSec and Cybersecurity.",
         "categories": [
@@ -9604,6 +9630,26 @@
         "url": "https://www.offen.dev/"
     },
     {
+        "name": "Oh My Android",
+        "description": "Free, open-source macOS control panel for the Android Emulator and phones: dark mode, font scale, RTL, TalkBack, Layout Inspector in dp, plus an MCP server.",
+        "categories": [
+            "Testing",
+            "Tooling",
+            "Accessibility"
+        ],
+        "url": "https://royan.se/work/oh-my-android/",
+        "keywords": [
+            "android",
+            "android emulator",
+            "adb",
+            "macos",
+            "mcp",
+            "layout inspector",
+            "talkback",
+            "rtl"
+        ]
+    },
+    {
         "name": "Omnara",
         "description": "Command Center for AI Coding Agents",
         "categories": [
@@ -10445,6 +10491,25 @@
             "screenshot hosting",
             "image CDN",
             "image transforms"
+        ]
+    },
+    {
+        "name": "PixVibe",
+        "description": "Image toolkit for developers and AI agents: compress, convert (HEIC, WebP, AVIF), resize, crop, upscale and remove backgrounds. Free tools run in the browser.",
+        "categories": [
+            "Image",
+            "Performance",
+            "AI"
+        ],
+        "url": "https://pixvibe.ai",
+        "keywords": [
+            "image compression",
+            "image converter",
+            "webp",
+            "avif",
+            "heic",
+            "background removal",
+            "AI agents"
         ]
     },
     {
