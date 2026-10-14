@@ -1,5 +1,5 @@
 {
-"count": 1270,
+"count": 1250,
 "data": [
     {
         "name": "1001 Fonts",
@@ -894,6 +894,25 @@
         "url": "https://www.jetbrains.com/objc/"
     },
     {
+        "name": "APPLORE",
+        "description": "App icon and store asset tools for app developers: export every iOS, Android and web icon size, generate App Store screenshots, animate a logo into Lottie or SVG, with an archive of 18,000+ real app icons for reference.",
+        "categories": [
+            "Icon",
+            "Design",
+            "Image"
+        ],
+        "url": "https://applore.app",
+        "keywords": [
+            "app icon",
+            "app icon generator",
+            "app store screenshots",
+            "lottie",
+            "ios",
+            "android",
+            "icon sizes"
+        ]
+    },
+    {
         "name": "AppMockUp",
         "description": "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
         "categories": [
@@ -982,26 +1001,6 @@
             "mcp",
             "ai coding agents",
             "cli"
-        ]
-    },
-    {
-        "name": "Arcmira",
-        "description": "YouTube transcript search API with timestamps, speaker appearances, TypeScript and Python SDKs, CLI and MCP access.",
-        "categories": [
-            "AI",
-            "Tooling",
-            "Video"
-        ],
-        "url": "https://arcmira.com",
-        "keywords": [
-            "youtube transcript search",
-            "api",
-            "typescript",
-            "python",
-            "sdk",
-            "cli",
-            "mcp",
-            "speaker identification"
         ]
     },
     {
@@ -1292,22 +1291,6 @@
             "action bar",
             "offer bar",
             "floating action bar"
-        ]
-    },
-    {
-        "name": "Base Converter",
-        "description": "Convert numbers between binary, octal, decimal and hexadecimal instantly, with input validation and prefix support. 100% client-side, no signup required.",
-        "categories": [
-            "Programming",
-            "Tooling"
-        ],
-        "url": "https://nutilz.com/base-converter",
-        "keywords": [
-            "base converter",
-            "binary to decimal",
-            "hex converter",
-            "octal converter",
-            "number base conversion"
         ]
     },
     {
@@ -3075,23 +3058,6 @@
         "url": "https://www.colorzilla.com/"
     },
     {
-        "name": "CommentKeyword",
-        "description": "CommentKeyword turns Instagram comments into qualified leads: auto-replies to keyword comments, sends an instant DM with your offer, and can continue the conversation with an AI agent. Billed per DM, not per contact.",
-        "categories": [
-            "Marketing",
-            "Social Media",
-            "AI"
-        ],
-        "url": "https://commentkeyword.com/",
-        "keywords": [
-            "instagram",
-            "instagram marketing",
-            "comment automation",
-            "dm automation",
-            "lead generation"
-        ]
-    },
-    {
         "name": "Commit Your Code!",
         "description": "Commit Your Code is about motivating and inspiring developers of all levels to reach their goals in tech. We will be sharing stories and interviewing developers that have gone through this and made it to their dream jobs!",
         "categories": [
@@ -3738,6 +3704,24 @@
         ]
     },
     {
+        "name": "CurlShot",
+        "description": "Screenshot API that turns any URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video, rendered in a real browser. Free plan, no card.",
+        "categories": [
+            "Screenshot",
+            "Image",
+            "AI"
+        ],
+        "url": "https://curlshot.com",
+        "keywords": [
+            "screenshot api",
+            "website screenshot",
+            "html to pdf",
+            "html to image",
+            "og image",
+            "mcp server"
+        ]
+    },
+    {
         "name": "Customer.io",
         "description": "With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.",
         "categories": [
@@ -3936,24 +3920,6 @@
         "url": "https://learnui.design/tools/data-color-picker.html"
     },
     {
-        "name": "Datacircle",
-        "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup.",
-        "categories": [
-            "Programming",
-            "AI",
-            "Marketing"
-        ],
-        "url": "https://datacircle.dev/",
-        "keywords": [
-            "b2b data",
-            "data enrichment",
-            "linkedin profile api",
-            "lead generation",
-            "mcp server",
-            "api"
-        ]
-    },
-    {
         "name": "DataGrip",
         "description": "A powerful IDE from JetBrains for SQL on macOS, Windows, and Linux.",
         "categories": [
@@ -4013,23 +3979,6 @@
             "Tooling"
         ],
         "url": "https://www.debugbear.com/test/website-speed"
-    },
-    {
-        "name": "Decisions API",
-        "description": "Hosted decision models in one playground and API: classify, score, and route text through structured Choice, Score, and Noul workflows.",
-        "categories": [
-            "AI",
-            "API Building",
-            "Programming"
-        ],
-        "url": "https://decisions-api.dev/",
-        "keywords": [
-            "decision models",
-            "text classification",
-            "decision api",
-            "model playground",
-            "llm routing"
-        ]
     },
     {
         "name": "Decoded Frontend",
@@ -5108,22 +5057,6 @@
         "url": "https://www.figmacrush.com/"
     },
     {
-        "name": "FileOnTap HEIC to PNG",
-        "description": "Free browser-based HEIC to PNG converter. All conversion runs locally in the browser, files are never uploaded, no account required.",
-        "categories": [
-            "Image",
-            "Tooling",
-            "Productivity"
-        ],
-        "url": "https://fileontap.com/heic-to-png/",
-        "keywords": [
-            "heic to png",
-            "image converter",
-            "browser-based",
-            "privacy"
-        ]
-    },
-    {
         "name": "FinetuneFast",
         "description": "Finetune ML models in days, not weeks",
         "categories": [
@@ -5556,22 +5489,6 @@
             "2d sprites",
             "game assets",
             "sprite sheets"
-        ]
-    },
-    {
-        "name": "Forgex",
-        "description": "Vibe coding platform for backend orchestration layer.",
-        "categories": [
-            "AI",
-            "API Building",
-            "Code Generator"
-        ],
-        "url": "https://forgex.r-kinetics.com/",
-        "keywords": [
-            "developer tool",
-            "productivity tool",
-            "saaS",
-            "vibe coding"
         ]
     },
     {
@@ -6201,27 +6118,6 @@
         "url": "https://getterms.io/"
     },
     {
-        "name": "GIF Master",
-        "description": "GIF tools for compression, speed control, background removal, GIF-to-WebP, GIF-to-PNG, GIF-to-video, PNG-to-GIF, video-to-GIF, and screen recording.",
-        "categories": [
-            "Image",
-            "Video",
-            "Tooling"
-        ],
-        "url": "https://gif-master.com",
-        "keywords": [
-            "gif compressor",
-            "gif speed changer",
-            "remove gif background",
-            "gif to webp",
-            "gif to png",
-            "gif to video",
-            "png to gif",
-            "video to gif",
-            "screen recorder"
-        ]
-    },
-    {
         "name": "Git Cheat Sheets",
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "categories": [
@@ -6296,22 +6192,6 @@
             "terminal",
             "commit",
             "golang"
-        ]
-    },
-    {
-        "name": "GlobalEntity",
-        "description": "One REST API for official company data from 50+ European business registers, returning status, legal form, address, VAT and LEI as normalized JSON.",
-        "categories": [
-            "Database",
-            "Security"
-        ],
-        "url": "https://www.globalentityapi.com",
-        "keywords": [
-            "company data",
-            "kyc",
-            "business registry",
-            "lei",
-            "vat"
         ]
     },
     {
@@ -6922,24 +6802,6 @@
         ]
     },
     {
-        "name": "HorizonX",
-        "description": "Premium UI and code library for vibe coders, designers, and developers, with Figma assets, components, coded templates, and interactive tools.",
-        "categories": [
-            "Library",
-            "UI",
-            "Design"
-        ],
-        "url": "https://horizonx.so",
-        "keywords": [
-            "ui components",
-            "design system",
-            "figma",
-            "react",
-            "tailwind css",
-            "vibe coding"
-        ]
-    },
-    {
         "name": "Hostinger Website Builder",
         "description": "Create a website or an online store easily with Hostinger Website Builder (formerly Zyro). Choose from hundreds of designer-made templates and launch your website in minutes.",
         "categories": [
@@ -7267,22 +7129,6 @@
         "url": "https://inclusive-components.design/"
     },
     {
-        "name": "Indexed",
-        "description": "REST API for private company data: look up companies by name or domain and get funding rounds, investors and tech stacks for CRM and pipeline enrichment.",
-        "categories": [
-            "Database",
-            "Startup"
-        ],
-        "url": "https://indexed.vc",
-        "keywords": [
-            "company data",
-            "funding data",
-            "investors",
-            "enrichment",
-            "openapi"
-        ]
-    },
-    {
         "name": "Indie Hackers",
         "description": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
         "categories": [
@@ -7445,23 +7291,6 @@
             "Resume AI",
             "interview question",
             "interview practice"
-        ]
-    },
-    {
-        "name": "Invokely",
-        "description": "Query cited official statistics by place and period through REST or MCP, with a unit and source included in each result.",
-        "categories": [
-            "AI",
-            "Analytics"
-        ],
-        "url": "https://invokely.ai",
-        "keywords": [
-            "statistics",
-            "data API",
-            "REST",
-            "MCP",
-            "AI agents",
-            "official data"
         ]
     },
     {
@@ -7685,22 +7514,6 @@
         ]
     },
     {
-        "name": "JobsPipe",
-        "description": "Job postings from 30+ ATS and job boards, deduplicated into one JSON schema with salary, seniority and tech stack fields. REST API, CLI and Python/Go SDKs.",
-        "categories": [
-            "Job",
-            "Scraping"
-        ],
-        "url": "https://jobspipe.dev",
-        "keywords": [
-            "jobs api",
-            "job postings",
-            "job data",
-            "ats",
-            "tech stack"
-        ]
-    },
-    {
         "name": "Jobspresso",
         "description": "Jobspresso is the easiest way to find remote jobs and careers at interesting and innovative companies.",
         "categories": [
@@ -7837,6 +7650,23 @@
         "url": "https://www.youtube.com/user/kentdoddsfamily",
         "keywords": [
             "JavaScript Programming"
+        ]
+    },
+    {
+        "name": "Keploy",
+        "description": "Open-source tool that records real API traffic and replays it as tests with auto-generated mocks for databases and external services.",
+        "categories": [
+            "Testing",
+            "API Building",
+            "Open Source"
+        ],
+        "url": "https://keploy.io",
+        "keywords": [
+            "service virtualization",
+            "api mocking",
+            "regression testing",
+            "api testing",
+            "test generation"
         ]
     },
     {
@@ -8429,23 +8259,6 @@
         ]
     },
     {
-        "name": "Live Tennis API",
-        "description": "Tennis data API with live scores (serving and break-point state), player rankings, fixtures, and match history; free keyed tier available.",
-        "categories": [
-            "Analytics",
-            "Tooling"
-        ],
-        "url": "https://livetennisapi.com",
-        "keywords": [
-            "tennis",
-            "live scores",
-            "sports data",
-            "rankings",
-            "fixtures",
-            "api"
-        ]
-    },
-    {
         "name": "Lobsters",
         "description": "Lobsters is a computing-focused community centered around link aggregation and discussion.",
         "categories": [
@@ -8489,22 +8302,6 @@
         ]
     },
     {
-        "name": "Loggd",
-        "description": "Habit tracker and planner that helps you actually stick with it",
-        "categories": [
-            "Productivity",
-            "Tooling",
-            "Startup"
-        ],
-        "url": "https://loggd.life/",
-        "keywords": [
-            "habit tracker",
-            "planner",
-            "task management",
-            "goal tracking"
-        ]
-    },
-    {
         "name": "LogoInspo",
         "description": "The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.",
         "categories": [
@@ -8543,24 +8340,6 @@
             "Logo"
         ],
         "url": "https://looka.com"
-    },
-    {
-        "name": "looot",
-        "description": "One API key and prepaid balance for about 2,500 data endpoints: work emails, phones, company enrichment, Google SERP, web pages. Also a remote MCP server.",
-        "categories": [
-            "API Building",
-            "AI",
-            "Scraping"
-        ],
-        "url": "https://looot.ai",
-        "keywords": [
-            "mcp server",
-            "data api",
-            "email finder",
-            "company enrichment",
-            "serp api",
-            "lead generation"
-        ]
     },
     {
         "name": "Lorem Picsum",
@@ -9266,22 +9045,6 @@
         "url": "https://mockae.com/"
     },
     {
-        "name": "Modellix",
-        "description": "All leading AI models. One API. Zero hassle.",
-        "categories": [
-            "AI",
-            "Programming",
-            "Tooling"
-        ],
-        "url": "https://www.modellix.ai/",
-        "keywords": [
-            "marketing",
-            "developer Tools",
-            "api",
-            "ai image generator"
-        ]
-    },
-    {
         "name": "MongoDB",
         "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
         "categories": [
@@ -9489,6 +9252,23 @@
         ]
     },
     {
+        "name": "Navarch",
+        "description": "Command a fleet of AI coding agents across every project.",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://sagentlab.com/navarch",
+        "keywords": [
+            "coding agents",
+            "ai agents",
+            "agent orchestration",
+            "developer tools",
+            "claude code"
+        ]
+    },
+    {
         "name": "Nearbase",
         "description": "Affordable managed Postgres in Asia",
         "categories": [
@@ -9648,25 +9428,6 @@
         ]
     },
     {
-        "name": "Nexus Shell",
-        "description": "Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access.",
-        "categories": [
-            "Terminal",
-            "Tooling",
-            "Remote"
-        ],
-        "url": "https://nexusshell.app",
-        "keywords": [
-            "ssh",
-            "sftp",
-            "macos",
-            "server monitoring",
-            "docker",
-            "mcp",
-            "remote development"
-        ]
-    },
-    {
         "name": "Niche Tools",
         "description": "Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today",
         "categories": [
@@ -9741,22 +9502,6 @@
         "url": "https://nomadlist.com/"
     },
     {
-        "name": "Noms",
-        "description": "Nutrition data API: 3.7M foods and 298K brands across 230 countries, with barcode lookup, up to 177 nutrients per food and a free tier.",
-        "categories": [
-            "Database"
-        ],
-        "url": "https://noms.sh",
-        "keywords": [
-            "nutrition",
-            "food",
-            "barcode",
-            "calories",
-            "rest api",
-            "openapi"
-        ]
-    },
-    {
         "name": "Nord",
         "description": "A arctic, north-bluish color palette",
         "categories": [
@@ -9805,23 +9550,6 @@
         "url": "https://novoresume.com/",
         "keywords": [
             "professional resume builder"
-        ]
-    },
-    {
-        "name": "Nutilz",
-        "description": "Free browser-based developer tools including regex tester, JSON formatter, converters, and calculators. No sign-up required.",
-        "categories": [
-            "Tooling",
-            "Productivity",
-            "Code Generator"
-        ],
-        "url": "https://nutilz.com",
-        "keywords": [
-            "regex",
-            "json",
-            "developer tools",
-            "converters",
-            "calculators"
         ]
     },
     {
@@ -10293,21 +10021,6 @@
             "conversion rate optimization",
             "landing pages",
             "cro audit"
-        ]
-    },
-    {
-        "name": "ParlayAPI",
-        "description": "Sports odds REST API for private research tools. Each user supplies their own API key. Free tier: 1,000 credits/month. No public data redistribution.",
-        "categories": [
-            "Programming",
-            "Tooling"
-        ],
-        "url": "https://parlay-api.com",
-        "keywords": [
-            "sports odds",
-            "REST API",
-            "Python",
-            "private research"
         ]
     },
     {
@@ -10793,26 +10506,6 @@
             "Programming"
         ],
         "url": "https://www.pluralsight.com/"
-    },
-    {
-        "name": "Poket Dev",
-        "description": "Software development on a subscription: submit as many requests as you need each month for one flat fee. Work happens one request at a time in a private GitHub repo, with a 72-hour turnaround on delivery. Python-first scope covering AI/ML, backends, automation, data engineering, and cloud/DevOps.",
-        "categories": [
-            "Startup",
-            "Freelance"
-        ],
-        "url": "https://www.poketdev.com",
-        "keywords": [
-            "productized service",
-            "subscription development",
-            "python development",
-            "django",
-            "fastapi",
-            "devops",
-            "aws",
-            "etl",
-            "web scraping"
-        ]
     },
     {
         "name": "Polypane",
@@ -11847,21 +11540,6 @@
         "url": "https://resend.com/"
     },
     {
-        "name": "Reserp",
-        "description": "Send a Google Search URL and receive visible result blocks as structured JSON.",
-        "categories": [
-            "Scraping"
-        ],
-        "url": "https://reserp.ai",
-        "keywords": [
-            "google",
-            "search",
-            "serp",
-            "api",
-            "json"
-        ]
-    },
-    {
         "name": "Resmume",
         "description": "Craft the Perfect Resume with AI-Powered Resume Builder.",
         "categories": [
@@ -12195,22 +11873,6 @@
         "url": "https://developer.apple.com/safari/technology-preview/"
     },
     {
-        "name": "SanctionsKit",
-        "description": "Sanctions screening API, SDKs and batch checks for business onboarding workflows. Free synthetic sandbox; paid production.",
-        "categories": [
-            "Programming",
-            "Security"
-        ],
-        "url": "https://www.sanctionskit.com/",
-        "keywords": [
-            "sanctions screening",
-            "OFAC",
-            "compliance",
-            "api",
-            "sdk"
-        ]
-    },
-    {
         "name": "Say About Us",
         "description": "Collect unlimited video and text testimonials",
         "categories": [
@@ -12341,23 +12003,6 @@
             "Programming"
         ],
         "url": "https://scrimba.com/"
-    },
-    {
-        "name": "Sealed Rose",
-        "description": "Free browser-based forensic laboratory for detecting AI deepfakes, synthetic media manipulation, and voice cloning with zero data retention.",
-        "categories": [
-            "AI",
-            "Security",
-            "Tooling"
-        ],
-        "url": "https://sealedrose.com/verify-video",
-        "keywords": [
-            "deepfake",
-            "ai detector",
-            "video verification",
-            "forensics",
-            "synthetic media"
-        ]
     },
     {
         "name": "Search Atlas",
@@ -13178,6 +12823,22 @@
         "url": "https://softwium.com/mockium/"
     },
     {
+        "name": "SolidPing",
+        "description": "Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.",
+        "categories": [
+            "Open Source",
+            "Performance",
+            "Tooling"
+        ],
+        "url": "https://www.solidping.io/",
+        "keywords": [
+            "uptime monitoring",
+            "status page",
+            "synthetic monitoring",
+            "self-hosted"
+        ]
+    },
+    {
         "name": "SoloLearn",
         "description": "Join Now to learn the basics or advance your existing skills.",
         "categories": [
@@ -13464,21 +13125,6 @@
             "Remote"
         ],
         "url": "https://startups.gallery/"
-    },
-    {
-        "name": "Statable",
-        "description": "Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.",
-        "categories": [
-            "Analytics"
-        ],
-        "url": "https://statable.com",
-        "keywords": [
-            "web analytics",
-            "cookieless",
-            "privacy",
-            "eu hosted",
-            "api"
-        ]
     },
     {
         "name": "Stormkit",
@@ -14336,6 +13982,24 @@
             "influencer discovery",
             "influencer analytics",
             "creator intelligence"
+        ]
+    },
+    {
+        "name": "Tool Kumar",
+        "description": "Free JSON viewer, formatter, validator, repair and comparison tools. Tree and table views, local processing and no account required.",
+        "categories": [
+            "Tooling",
+            "Editor"
+        ],
+        "url": "https://tools.vikasmaur.com/",
+        "keywords": [
+            "json",
+            "formatter",
+            "validator",
+            "repair",
+            "diff",
+            "tree view",
+            "client-side"
         ]
     },
     {

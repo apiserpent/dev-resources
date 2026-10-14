@@ -445,6 +445,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/objc/',
     },
     {
+        name: 'APPLORE',
+        description:
+            'App icon and store asset tools for app developers: export every iOS, Android and web icon size, generate App Store screenshots, animate a logo into Lottie or SVG, with an archive of 18,000+ real app icons for reference.',
+        categories: ['Icon', 'Design', 'Image'],
+        url: 'https://applore.app',
+        keywords: ['app icon', 'app icon generator', 'app store screenshots', 'lottie', 'ios', 'android', 'icon sizes'],
+    },
+    {
         name: 'AppMockUp',
         description:
             "Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.",
@@ -495,23 +503,6 @@ export const resources: Resource[] = [
         categories: ['AI', 'Tooling'],
         url: 'https://archcore.ai',
         keywords: ['context engineering', 'spec-driven development', 'mcp', 'ai coding agents', 'cli'],
-    },
-    {
-        name: 'Arcmira',
-        description:
-            'YouTube transcript search API with timestamps, speaker appearances, TypeScript and Python SDKs, CLI and MCP access.',
-        categories: ['AI', 'Tooling', 'Video'],
-        url: 'https://arcmira.com',
-        keywords: [
-            'youtube transcript search',
-            'api',
-            'typescript',
-            'python',
-            'sdk',
-            'cli',
-            'mcp',
-            'speaker identification',
-        ],
     },
     {
         name: 'ArtboardLab',

@@ -52,6 +52,13 @@ export const resources: Resource[] = [
         keywords: ['mobile app testing', 'mobile emulator', 'app testing', 'iOS testing'],
     },
     {
+        name: 'Navarch',
+        description: 'Command a fleet of AI coding agents across every project.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://sagentlab.com/navarch',
+        keywords: ['coding agents', 'ai agents', 'agent orchestration', 'developer tools', 'claude code'],
+    },
+    {
         name: 'Nearbase',
         description: 'Affordable managed Postgres in Asia',
         categories: ['Database', 'Hosting', 'Cloud Computing'],
@@ -135,14 +142,6 @@ export const resources: Resource[] = [
         keywords: ['developer tool', 'boilerplate', 'starter kit', 'next.js boilerplate'],
     },
     {
-        name: 'Nexus Shell',
-        description:
-            'Native macOS SSH workspace with terminal sessions, two-pane SFTP, server monitoring, Docker tools, encrypted logs, and optional local agent access.',
-        categories: ['Terminal', 'Tooling', 'Remote'],
-        url: 'https://nexusshell.app',
-        keywords: ['ssh', 'sftp', 'macos', 'server monitoring', 'docker', 'mcp', 'remote development'],
-    },
-    {
         name: 'Niche Tools',
         description:
             'Ditch the endless market research and unlock instant access to over 1200+ web tools you can build today',
@@ -191,14 +190,6 @@ export const resources: Resource[] = [
         url: 'https://nomadlist.com/',
     },
     {
-        name: 'Noms',
-        description:
-            'Nutrition data API: 3.7M foods and 298K brands across 230 countries, with barcode lookup, up to 177 nutrients per food and a free tier.',
-        categories: ['Database'],
-        url: 'https://noms.sh',
-        keywords: ['nutrition', 'food', 'barcode', 'calories', 'rest api', 'openapi'],
-    },
-    {
         name: 'Nord',
         description: 'A arctic, north-bluish color palette',
         categories: ['Color'],
@@ -240,13 +231,5 @@ export const resources: Resource[] = [
         categories: ['Resume'],
         url: 'https://novoresume.com/',
         keywords: ['professional resume builder'],
-    },
-    {
-        name: 'Nutilz',
-        description:
-            'Free browser-based developer tools including regex tester, JSON formatter, converters, and calculators. No sign-up required.',
-        categories: ['Tooling', 'Productivity', 'Code Generator'],
-        url: 'https://nutilz.com',
-        keywords: ['regex', 'json', 'developer tools', 'converters', 'calculators'],
     },
 ]

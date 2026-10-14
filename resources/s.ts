@@ -47,14 +47,6 @@ export const resources: Resource[] = [
         url: 'https://developer.apple.com/safari/technology-preview/',
     },
     {
-        name: 'SanctionsKit',
-        description:
-            'Sanctions screening API, SDKs and batch checks for business onboarding workflows. Free synthetic sandbox; paid production.',
-        categories: ['Programming', 'Security'],
-        url: 'https://www.sanctionskit.com/',
-        keywords: ['sanctions screening', 'OFAC', 'compliance', 'api', 'sdk'],
-    },
-    {
         name: 'Say About Us',
         description: 'Collect unlimited video and text testimonials',
         categories: ['Marketing', 'Social Media', 'Startup'],
@@ -133,14 +125,6 @@ export const resources: Resource[] = [
             'Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.',
         categories: ['Learn', 'Programming'],
         url: 'https://scrimba.com/',
-    },
-    {
-        name: 'Sealed Rose',
-        description:
-            'Free browser-based forensic laboratory for detecting AI deepfakes, synthetic media manipulation, and voice cloning with zero data retention.',
-        categories: ['AI', 'Security', 'Tooling'],
-        url: 'https://sealedrose.com/verify-video',
-        keywords: ['deepfake', 'ai detector', 'video verification', 'forensics', 'synthetic media'],
     },
     {
         name: 'Search Atlas',
@@ -673,6 +657,14 @@ export const resources: Resource[] = [
         url: 'https://softwium.com/mockium/',
     },
     {
+        name: 'SolidPing',
+        description:
+            'Open-source uptime monitoring: 40+ check types, status pages, incidents and alerts. Self-host it or use the hosted free plan.',
+        categories: ['Open Source', 'Performance', 'Tooling'],
+        url: 'https://www.solidping.io/',
+        keywords: ['uptime monitoring', 'status page', 'synthetic monitoring', 'self-hosted'],
+    },
+    {
         name: 'SoloLearn',
         description: 'Join Now to learn the basics or advance your existing skills.',
         categories: ['Learn', 'Programming'],
@@ -878,14 +870,6 @@ export const resources: Resource[] = [
             'A gallery of outstanding early-stage companies, fresh jobs and funding news curated in one place.',
         categories: ['Learn', 'Job', 'Remote'],
         url: 'https://startups.gallery/',
-    },
-    {
-        name: 'Statable',
-        description:
-            'Cookieless web analytics built and hosted in the European Union. Reports visitors, traffic sources, campaigns, goals and funnels without setting cookies or storing persistent identifiers, so there is no consent gate to configure. The tracking script ranges from 504 to 1,855 bytes compressed depending on which features a site enables, and the data is queryable through a documented REST API with an OpenAPI spec.',
-        categories: ['Analytics'],
-        url: 'https://statable.com',
-        keywords: ['web analytics', 'cookieless', 'privacy', 'eu hosted', 'api'],
     },
     {
         name: 'Stormkit',

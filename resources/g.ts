@@ -87,24 +87,6 @@ export const resources: Resource[] = [
         url: 'https://getterms.io/',
     },
     {
-        name: 'GIF Master',
-        description:
-            'GIF tools for compression, speed control, background removal, GIF-to-WebP, GIF-to-PNG, GIF-to-video, PNG-to-GIF, video-to-GIF, and screen recording.',
-        categories: ['Image', 'Video', 'Tooling'],
-        url: 'https://gif-master.com',
-        keywords: [
-            'gif compressor',
-            'gif speed changer',
-            'remove gif background',
-            'gif to webp',
-            'gif to png',
-            'gif to video',
-            'png to gif',
-            'video to gif',
-            'screen recorder',
-        ],
-    },
-    {
         name: 'Git Cheat Sheets',
         description:
             'Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.',
@@ -146,14 +128,6 @@ export const resources: Resource[] = [
         categories: ['Terminal', 'Tooling'],
         url: 'https://github.com/Omibranch/gitty',
         keywords: ['git', 'cli', 'workflow', 'terminal', 'commit', 'golang'],
-    },
-    {
-        name: 'GlobalEntity',
-        description:
-            'One REST API for official company data from 50+ European business registers, returning status, legal form, address, VAT and LEI as normalized JSON.',
-        categories: ['Database', 'Security'],
-        url: 'https://www.globalentityapi.com',
-        keywords: ['company data', 'kyc', 'business registry', 'lei', 'vat'],
     },
     {
         name: 'GoatCounter',
