@@ -1,5 +1,5 @@
 {
-"count": 1254,
+"count": 1259,
 "data": [
     {
         "name": "1001 Fonts",
@@ -7120,6 +7120,24 @@
         "url": "https://imgupscaler.com"
     },
     {
+        "name": "inboxsink",
+        "description": "Disposable email inboxes for end-to-end tests. A wait endpoint blocks until the email arrives and returns the verification code or confirmation link already extracted.",
+        "categories": [
+            "Testing"
+        ],
+        "url": "https://inboxsink.com",
+        "keywords": [
+            "email testing",
+            "disposable email",
+            "otp",
+            "magic link",
+            "playwright",
+            "cypress",
+            "selenium",
+            "e2e"
+        ]
+    },
+    {
         "name": "IncidentHub",
         "description": "Monitors the third-party Cloud and SaaS services that your application and team depend on. The Free (forever) tier has 20 services and 2 channels (Discord and Slack) for notifications.",
         "categories": [
@@ -11813,6 +11831,23 @@
         ]
     },
     {
+        "name": "RowSafe",
+        "description": "PostgreSQL backups, point-in-time recovery and scheduled restore tests for developers, with an open-source agent and CLI.",
+        "categories": [
+            "Database",
+            "Storage",
+            "Tooling"
+        ],
+        "url": "https://rowsafe.sh",
+        "keywords": [
+            "postgresql",
+            "backup",
+            "recovery",
+            "restore testing",
+            "database"
+        ]
+    },
+    {
         "name": "RubyMine",
         "description": "The Ruby and Rails IDE with first-class support for Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less, and more.",
         "categories": [
@@ -13902,6 +13937,23 @@
         "url": "https://component.gallery"
     },
     {
+        "name": "The Enso Method",
+        "description": "Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://ensomethod.org",
+        "keywords": [
+            "claude-code",
+            "codex",
+            "agent-skills",
+            "requirements",
+            "methodology"
+        ]
+    },
+    {
         "name": "The Hammerstone Podcast",
         "description": "Listen in on Sean's and Aaron's weekly conversation. No intro, no editing, no music. Proudly hosted on transistor.fm!",
         "categories": [
@@ -14351,6 +14403,23 @@
             "Programming"
         ],
         "url": "https://teamtreehouse.com/"
+    },
+    {
+        "name": "Trends Monitor",
+        "description": "Trends Monitor tracks Google Trends, rising related queries, saved keywords, daily monitoring and historical snapshots for SEO and product research.",
+        "categories": [
+            "Analytics",
+            "SEO",
+            "Marketing"
+        ],
+        "url": "https://trendsmonitor.net/",
+        "keywords": [
+            "Google Trends",
+            "keyword research",
+            "rising keywords",
+            "SEO",
+            "search trends"
+        ]
     },
     {
         "name": "Trigger.dev",
@@ -15005,6 +15074,24 @@
             "UX"
         ],
         "url": "https://uxfol.io/"
+    },
+    {
+        "name": "Vacato",
+        "description": "RDAP domain watchlist for developers — scheduled checks and Telegram/email when a taken name looks available. Free 10 domains; alerts only, not a drop-catcher.",
+        "categories": [
+            "Domain",
+            "Tooling"
+        ],
+        "url": "https://vacato.io",
+        "keywords": [
+            "domain",
+            "rdap",
+            "whois",
+            "watchlist",
+            "availability",
+            "telegram",
+            "dns"
+        ]
     },
     {
         "name": "Vaiz",
