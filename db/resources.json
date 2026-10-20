@@ -1,5 +1,5 @@
 {
-"count": 1259,
+"count": 1278,
 "data": [
     {
         "name": "1001 Fonts",
@@ -601,6 +601,27 @@
         "url": "https://ai-text-humanizer.com/"
     },
     {
+        "name": "Aident Loadout",
+        "description": "Hosted MCP server and CLI that connects AI agents like Claude Code, Codex and Cursor to your apps, with 400+ Skills, a credential vault and audit logs.",
+        "categories": [
+            "AI",
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://aident.ai",
+        "keywords": [
+            "mcp",
+            "mcp server",
+            "ai agents",
+            "claude code",
+            "codex",
+            "cursor",
+            "cli",
+            "integrations",
+            "agent skills"
+        ]
+    },
+    {
         "name": "Aigazine",
         "description": "The Go-To Source for AI Benchmarks, News, Research & Industry Insights",
         "categories": [
@@ -851,6 +872,25 @@
         "url": "https://cloud.google.com/apigee"
     },
     {
+        "name": "APISign",
+        "description": "E-signature for AI agents: an MCP server, REST API and CLI that send legally binding contracts. $0.25 per contract, 20 free to start, no monthly fee.",
+        "categories": [
+            "Legal",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://apisign.io",
+        "keywords": [
+            "e-signature",
+            "esign",
+            "contracts",
+            "mcp",
+            "pdf",
+            "webhooks",
+            "docusign alternative"
+        ]
+    },
+    {
         "name": "APIVerve",
         "description": "Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.",
         "categories": [
@@ -943,22 +983,6 @@
             "API Building"
         ],
         "url": "https://appwrite.io/"
-    },
-    {
-        "name": "Apstal",
-        "description": "AI-first web analytics with session replay, heatmaps, and conversational AI queries. Free tier available.",
-        "categories": [
-            "Analytics",
-            "AI"
-        ],
-        "url": "https://apstal.com",
-        "keywords": [
-            "web analytics",
-            "session replay",
-            "heatmaps",
-            "ai analytics",
-            "privacy analytics"
-        ]
     },
     {
         "name": "Aptabase",
@@ -1291,6 +1315,23 @@
             "action bar",
             "offer bar",
             "floating action bar"
+        ]
+    },
+    {
+        "name": "BatchSet",
+        "description": "Bulk image converter in the browser: WebP, AVIF, HEIC, JPG and PNG, compress to an exact KB, resize. Includes a website image auditor. No upload.",
+        "categories": [
+            "Image",
+            "Performance"
+        ],
+        "url": "https://batchset.com",
+        "keywords": [
+            "webp converter",
+            "avif",
+            "heic to jpg",
+            "image compression",
+            "bulk image converter",
+            "image optimization"
         ]
     },
     {
@@ -2250,6 +2291,19 @@
         ]
     },
     {
+        "name": "ChatGpt Resume builder",
+        "description": "> ResumUp is an all-in-one AI career platform designed to help job seekers land more interviews with less effort. The platform enables users to create professio",
+        "categories": [
+            "Resume"
+        ],
+        "url": "https://chatgptresume.com/",
+        "keywords": [
+            "Tailor to any job description",
+            "optimize for ATS",
+            "and write compelling cover letters"
+        ]
+    },
+    {
         "name": "Chatim",
         "description": "Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime",
         "categories": [
@@ -2354,6 +2408,23 @@
             "UI"
         ],
         "url": "https://choc-ui.com/"
+    },
+    {
+        "name": "Chord",
+        "description": "DEX aggregator API: best-route swap quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more.",
+        "categories": [
+            "Web3"
+        ],
+        "url": "https://getchord.xyz",
+        "keywords": [
+            "dex aggregator",
+            "swap api",
+            "defi",
+            "evm",
+            "base",
+            "arbitrum",
+            "web3"
+        ]
     },
     {
         "name": "Chrome",
@@ -2540,6 +2611,26 @@
             "Terminal"
         ],
         "url": "https://cmdchallenge.com/"
+    },
+    {
+        "name": "Coddy",
+        "description": "Learn to code with free interactive courses, in-browser playgrounds and coding challenges in Python, JavaScript, SQL, C++, Java and 20+ more.",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://coddy.tech",
+        "keywords": [
+            "learn to code",
+            "coding courses",
+            "interactive",
+            "python",
+            "javascript",
+            "sql",
+            "online compiler",
+            "playground",
+            "beginner"
+        ]
     },
     {
         "name": "Code to go",
@@ -6131,6 +6222,26 @@
         "url": "https://getterms.io/"
     },
     {
+        "name": "GifSnap API",
+        "description": "GIF search API and native/web SDKs for adding animated media to apps with JavaScript, React, Angular, Swift and Kotlin.",
+        "categories": [
+            "Image",
+            "Library",
+            "Programming"
+        ],
+        "url": "https://gifsnap.com/developers",
+        "keywords": [
+            "gif",
+            "sticker",
+            "api",
+            "react",
+            "javascript",
+            "angular",
+            "swift",
+            "kotlin"
+        ]
+    },
+    {
         "name": "Git Cheat Sheets",
         "description": "Reference sheets covering Git commands, features, SVN migrations, and bash. Available in multiple languages.",
         "categories": [
@@ -7077,6 +7188,30 @@
         "url": "https://www.designbombs.com/iconsweets2/"
     },
     {
+        "name": "IconVectors",
+        "description": "Desktop SVG icon editor for developers with visual editing, icon management, batch processing, code export, and MCP automation.",
+        "categories": [
+            "Icon",
+            "Editor",
+            "Tooling"
+        ],
+        "url": "https://iconvectors.io/",
+        "keywords": [
+            "svg",
+            "svg icons",
+            "icon editor",
+            "vector editor",
+            "icon management",
+            "developer tools",
+            "code export",
+            "react",
+            "vue",
+            "xaml",
+            "vectordrawable",
+            "swiftui"
+        ]
+    },
+    {
         "name": "Icônes",
         "description": "Icon Explorer with Instant searching, powered by Iconify",
         "categories": [
@@ -7236,6 +7371,28 @@
             "API Building"
         ],
         "url": "https://insomnia.rest/"
+    },
+    {
+        "name": "inspo ai",
+        "description": "AI design intelligence for builders to research UI patterns, explore screens, create moodboards, and generate production-ready interface ideas.",
+        "categories": [
+            "Design"
+        ],
+        "url": "https://inspoai.io/",
+        "keywords": [
+            "AI design",
+            "UI inspiration",
+            "UX research",
+            "design intelligence",
+            "UI patterns",
+            "moodboards",
+            "web design",
+            "app design",
+            "product design",
+            "design system",
+            "AI UI",
+            "frontend"
+        ]
     },
     {
         "name": "IntelliJ IDEA",
@@ -7531,6 +7688,20 @@
         "url": "https://jestjs.io/"
     },
     {
+        "name": "JFmt",
+        "description": "Free JSON formatter, validator and viewer that runs in the browser. Repair, diff, JSONPath and conversion to CSV, XML, YAML and TOML. Nothing is uploaded.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://jfmt.dev",
+        "keywords": [
+            "JSON",
+            "formatter",
+            "validator",
+            "converter"
+        ]
+    },
+    {
         "name": "JobBoardSearch 🔎",
         "categories": [
             "Job"
@@ -7555,6 +7726,19 @@
             "remote work",
             "jobs",
             "employment"
+        ]
+    },
+    {
+        "name": "Jobs in Javascript",
+        "description": "A job board for the Javascript industry. Filter by experience level or location. 100% free, no sign-up required.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://jobsinjs.com/",
+        "keywords": [
+            "javascript",
+            "jobs",
+            "job board"
         ]
     },
     {
@@ -8489,6 +8673,30 @@
         ]
     },
     {
+        "name": "Macsmith",
+        "description": "A native Mac GUI for command-line developer tools. Manage Homebrew, local databases, runtimes, Docker, SSH keys and ports from one app.",
+        "categories": [
+            "Tooling",
+            "Terminal",
+            "Productivity"
+        ],
+        "url": "https://macsmith.app",
+        "keywords": [
+            "macos",
+            "gui",
+            "cli",
+            "homebrew",
+            "postgresql",
+            "mysql",
+            "mongodb",
+            "mise",
+            "nvm",
+            "colima",
+            "docker",
+            "ssh keys"
+        ]
+    },
+    {
         "name": "Madza Quizzes",
         "description": "A great resource with 500 free interview questions",
         "categories": [
@@ -9161,6 +9369,24 @@
         "url": "https://morrisjs.github.io/morris.js/"
     },
     {
+        "name": "MotionVault.site",
+        "description": "Cinematic website templates with live previews, editable source, motion assets and build prompts, plus a read-only MCP toolkit for AI coding tools.",
+        "categories": [
+            "Template",
+            "Animation",
+            "Tooling"
+        ],
+        "url": "https://motionvault.site/",
+        "keywords": [
+            "cinematic websites",
+            "website templates",
+            "animation",
+            "motion",
+            "mcp",
+            "source code"
+        ]
+    },
+    {
         "name": "Motomarks",
         "description": "Image CDN for car manufacturer logos. One URL for badge, wordmark, or full logo, so app builders stop shipping a private asset folder.",
         "categories": [
@@ -9578,6 +9804,27 @@
         "url": "https://notepad-plus-plus.org/"
     },
     {
+        "name": "NotFair",
+        "description": "Open-source SEO, GEO, and marketing skills for AI agents like Claude Code and Codex, with a hosted MCP for GA4, Search Console, and ad accounts.",
+        "categories": [
+            "SEO",
+            "Marketing",
+            "AI"
+        ],
+        "url": "https://notfair.co",
+        "keywords": [
+            "agent skills",
+            "claude code",
+            "codex",
+            "mcp",
+            "geo",
+            "google ads",
+            "search console",
+            "ga4",
+            "open source"
+        ]
+    },
+    {
         "name": "Noun Project",
         "description": "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
         "categories": [
@@ -9720,6 +9967,15 @@
         ]
     },
     {
+        "name": "Online Mini Tools",
+        "description": "Free catalog of 2,300+ browser-based utilities for developers and designers, covering JSON and XML formatting, encoders and decoders, validators, CSS and color generators, converters and calculators. Most tools run client-side with no account required.",
+        "categories": [
+            "Tooling",
+            "Productivity"
+        ],
+        "url": "https://onlineminitools.com/"
+    },
+    {
         "name": "OnlineWebFonts",
         "description": "Fonts and icons for your next project.",
         "categories": [
@@ -9845,6 +10101,24 @@
             "UI"
         ],
         "url": "https://openchakra.app/"
+    },
+    {
+        "name": "Openhook",
+        "description": "Open-source callback inbox for testing HTTP, email and DNS integrations, with API, MCP and browser inspection; hosted or self-hosted.",
+        "categories": [
+            "API Building",
+            "Testing",
+            "Open Source"
+        ],
+        "url": "https://openhook.dev",
+        "keywords": [
+            "webhooks",
+            "callback testing",
+            "mcp",
+            "http",
+            "email",
+            "dns"
+        ]
     },
     {
         "name": "OpenKline",
@@ -12354,6 +12628,24 @@
         ]
     },
     {
+        "name": "SFXMint",
+        "description": "CC0 AI-generated and synthesized sound effects for apps and games, with a free library, API, MCP server, CLI, and optional paid generation.",
+        "categories": [
+            "Audio",
+            "UI",
+            "Tooling"
+        ],
+        "url": "https://sfxmint.com/",
+        "keywords": [
+            "sound effects",
+            "web audio",
+            "game audio",
+            "api",
+            "mcp",
+            "cli"
+        ]
+    },
+    {
         "name": "Shadcn Templates",
         "categories": [
             "Template",
@@ -14527,6 +14819,25 @@
         ]
     },
     {
+        "name": "TwitterAPI.io",
+        "description": "X (Twitter) data API for developers: search tweets, profiles, followers and timelines, real-time streams and webhooks, with MCP and AI SDK tools.",
+        "categories": [
+            "Social Media",
+            "Scraping",
+            "AI"
+        ],
+        "url": "https://twitterapi.io",
+        "keywords": [
+            "twitter",
+            "x",
+            "twitter api",
+            "tweets",
+            "social media data",
+            "mcp",
+            "webhooks"
+        ]
+    },
+    {
         "name": "Type Think AI",
         "description": "TypeThinkAI is the LLM Frontend to access hundreds of AI models. You can access Multiple AI Models all from one app.",
         "categories": [
@@ -15488,6 +15799,23 @@
         ]
     },
     {
+        "name": "VPS Host Review",
+        "description": "Independent VPS hosting reviews from customers, with YABS benchmark comparisons and a provider network report.",
+        "categories": [
+            "Hosting",
+            "Cloud Computing",
+            "Performance"
+        ],
+        "url": "https://vpshostreview.com/",
+        "keywords": [
+            "vps",
+            "hosting",
+            "reviews",
+            "benchmark",
+            "yabs"
+        ]
+    },
+    {
         "name": "Vue Cheatsheet",
         "description": "An interactive cheatsheet of Vue, Vue Router and, Pinia.",
         "categories": [
@@ -16140,6 +16468,26 @@
             "web",
             "developer tools",
             "tools"
+        ]
+    },
+    {
+        "name": "Yap MCP",
+        "description": "Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key.",
+        "categories": [
+            "AI",
+            "Audio",
+            "Open Source"
+        ],
+        "url": "https://github.com/founden-bot/yap-mcp",
+        "keywords": [
+            "mcp",
+            "speech to text",
+            "transcription",
+            "claude code",
+            "cursor",
+            "on-device",
+            "cli",
+            "local-first"
         ]
     },
     {

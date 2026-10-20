@@ -10,6 +10,27 @@ export const resources: Resource[] = [
         keywords: ['markdown', 'markdown viewer', 'mermaid', 'macos', 'quick look'],
     },
     {
+        name: 'Macsmith',
+        description:
+            'A native Mac GUI for command-line developer tools. Manage Homebrew, local databases, runtimes, Docker, SSH keys and ports from one app.',
+        categories: ['Tooling', 'Terminal', 'Productivity'],
+        url: 'https://macsmith.app',
+        keywords: [
+            'macos',
+            'gui',
+            'cli',
+            'homebrew',
+            'postgresql',
+            'mysql',
+            'mongodb',
+            'mise',
+            'nvm',
+            'colima',
+            'docker',
+            'ssh keys',
+        ],
+    },
+    {
         name: 'Madza Quizzes',
         description: 'A great resource with 500 free interview questions',
         categories: ['Interview'],
@@ -452,6 +473,14 @@ export const resources: Resource[] = [
         description: 'Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It',
         categories: ['Library', 'Programming'],
         url: 'https://morrisjs.github.io/morris.js/',
+    },
+    {
+        name: 'MotionVault.site',
+        description:
+            'Cinematic website templates with live previews, editable source, motion assets and build prompts, plus a read-only MCP toolkit for AI coding tools.',
+        categories: ['Template', 'Animation', 'Tooling'],
+        url: 'https://motionvault.site/',
+        keywords: ['cinematic websites', 'website templates', 'animation', 'motion', 'mcp', 'source code'],
     },
     {
         name: 'Motomarks',

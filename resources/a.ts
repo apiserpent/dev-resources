@@ -251,6 +251,24 @@ export const resources: Resource[] = [
         url: 'https://ai-text-humanizer.com/',
     },
     {
+        name: 'Aident Loadout',
+        description:
+            'Hosted MCP server and CLI that connects AI agents like Claude Code, Codex and Cursor to your apps, with 400+ Skills, a credential vault and audit logs.',
+        categories: ['AI', 'Tooling', 'Productivity'],
+        url: 'https://aident.ai',
+        keywords: [
+            'mcp',
+            'mcp server',
+            'ai agents',
+            'claude code',
+            'codex',
+            'cursor',
+            'cli',
+            'integrations',
+            'agent skills',
+        ],
+    },
+    {
         name: 'Aigazine',
         description: 'The Go-To Source for AI Benchmarks, News, Research & Industry Insights',
         categories: ['AI', 'Newsletter', 'Startup'],
@@ -412,6 +430,14 @@ export const resources: Resource[] = [
         url: 'https://cloud.google.com/apigee',
     },
     {
+        name: 'APISign',
+        description:
+            'E-signature for AI agents: an MCP server, REST API and CLI that send legally binding contracts. $0.25 per contract, 20 free to start, no monthly fee.',
+        categories: ['Legal', 'AI', 'Tooling'],
+        url: 'https://apisign.io',
+        keywords: ['e-signature', 'esign', 'contracts', 'mcp', 'pdf', 'webhooks', 'docusign alternative'],
+    },
+    {
         name: 'APIVerve',
         description:
             'Unleash the potential of your applications and accelerate development with a single API Key and access to 100s of APIs. Start for free.',
@@ -472,14 +498,6 @@ export const resources: Resource[] = [
             'Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.',
         categories: ['API Building'],
         url: 'https://appwrite.io/',
-    },
-    {
-        name: 'Apstal',
-        description:
-            'AI-first web analytics with session replay, heatmaps, and conversational AI queries. Free tier available.',
-        categories: ['Analytics', 'AI'],
-        url: 'https://apstal.com',
-        keywords: ['web analytics', 'session replay', 'heatmaps', 'ai analytics', 'privacy analytics'],
     },
     {
         name: 'Aptabase',

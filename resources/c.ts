@@ -187,6 +187,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'prompts'],
     },
     {
+        name: 'ChatGpt Resume builder',
+        description:
+            '> ResumUp is an all-in-one AI career platform designed to help job seekers land more interviews with less effort. The platform enables users to create professio',
+        categories: ['Resume'],
+        url: 'https://chatgptresume.com/',
+        keywords: ['Tailor to any job description', 'optimize for ATS', 'and write compelling cover letters'],
+    },
+    {
         name: 'Chatim',
         description:
             'Chatim is a live chat with a chatbot automation platform that lets you connect with customers anywhere, anytime',
@@ -258,6 +266,14 @@ export const resources: Resource[] = [
             'Choc UI is a set of accessible and reusable components that are commonly used in web applications.',
         categories: ['Library', 'Programming', 'UI'],
         url: 'https://choc-ui.com/',
+    },
+    {
+        name: 'Chord',
+        description:
+            'DEX aggregator API: best-route swap quotes split across DEXs and unsigned swap transactions on Base, Arbitrum, BNB Chain, Avalanche, Monad and more.',
+        categories: ['Web3'],
+        url: 'https://getchord.xyz',
+        keywords: ['dex aggregator', 'swap api', 'defi', 'evm', 'base', 'arbitrum', 'web3'],
     },
     {
         name: 'Chrome',
@@ -389,6 +405,24 @@ export const resources: Resource[] = [
         description: 'Learn the command line.',
         categories: ['Terminal'],
         url: 'https://cmdchallenge.com/',
+    },
+    {
+        name: 'Coddy',
+        description:
+            'Learn to code with free interactive courses, in-browser playgrounds and coding challenges in Python, JavaScript, SQL, C++, Java and 20+ more.',
+        categories: ['Learn', 'Programming'],
+        url: 'https://coddy.tech',
+        keywords: [
+            'learn to code',
+            'coding courses',
+            'interactive',
+            'python',
+            'javascript',
+            'sql',
+            'online compiler',
+            'playground',
+            'beginner',
+        ],
     },
     {
         name: 'Code to go',

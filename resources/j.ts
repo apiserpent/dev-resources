@@ -78,6 +78,14 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'JFmt',
+        description:
+            'Free JSON formatter, validator and viewer that runs in the browser. Repair, diff, JSONPath and conversion to CSV, XML, YAML and TOML. Nothing is uploaded.',
+        categories: ['Tooling'],
+        url: 'https://jfmt.dev',
+        keywords: ['JSON', 'formatter', 'validator', 'converter'],
+    },
+    {
         name: 'JobBoardSearch 🔎',
         categories: ['Job'],
         description:
@@ -92,6 +100,14 @@ export const resources: Resource[] = [
         categories: ['Job', 'Remote'],
         url: 'https://jobicy.com',
         keywords: ['remote jobs', 'remote work', 'jobs', 'employment'],
+    },
+    {
+        name: 'Jobs in Javascript',
+        description:
+            'A job board for the Javascript industry. Filter by experience level or location. 100% free, no sign-up required.',
+        categories: ['Job'],
+        url: 'https://jobsinjs.com/',
+        keywords: ['javascript', 'jobs', 'job board'],
     },
     {
         name: 'Jobspresso',
