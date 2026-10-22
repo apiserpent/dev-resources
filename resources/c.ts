@@ -510,6 +510,14 @@ export const resources: Resource[] = [
         url: 'https://codedthemes.com/',
     },
     {
+        name: 'CodeIntuition',
+        description:
+            'Pattern-based data structures and algorithms courses for coding interviews: 450+ problems, 75+ patterns and a timed Interview Mode.',
+        categories: ['Learn', 'Interview'],
+        url: 'https://www.codeintuition.io',
+        keywords: ['dsa', 'data structures', 'algorithms', 'coding interview', 'leetcode', 'python', 'java', 'c++'],
+    },
+    {
         name: 'CodeKit',
         description:
             'CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.',
@@ -1345,5 +1353,24 @@ export const resources: Resource[] = [
             'Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript.',
         categories: ['Library', 'Programming'],
         url: 'https://js.cytoscape.org/',
+    },
+    {
+        name: 'Código ao Ponto',
+        description:
+            'Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.',
+        categories: ['Testing', 'Tooling', 'Programming'],
+        url: 'https://codigoaoponto.com/en',
+        keywords: [
+            'test data',
+            'cpf generator',
+            'cnpj generator',
+            'brazilian documents',
+            'jwt decoder',
+            'hash generator',
+            'base64',
+            'uuid generator',
+            'json formatter',
+            'unix timestamp',
+        ],
     },
 ]

@@ -1,5 +1,5 @@
 {
-"count": 1278,
+"count": 1284,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1028,24 +1028,6 @@
         ]
     },
     {
-        "name": "ArtboardLab",
-        "description": "Free browser-based tools that convert Adobe Illustrator .ai files to SVG, PNG or PDF and compress images. Files are processed locally, never uploaded.",
-        "categories": [
-            "Design",
-            "Image",
-            "Tooling"
-        ],
-        "url": "https://artboardlab.com",
-        "keywords": [
-            "illustrator",
-            "ai to svg",
-            "svg",
-            "image compression",
-            "webassembly",
-            "converter"
-        ]
-    },
-    {
         "name": "Artify",
         "description": "Artify is an online and easy-to-use design editor that features thousands of customizable illustrations and template packs.",
         "categories": [
@@ -1562,6 +1544,23 @@
             "bilingual talent",
             "jobs",
             "job"
+        ]
+    },
+    {
+        "name": "Binary Backtrace",
+        "description": "Browser workbenches for binary analysis: PE disassembly with Win32 emulation, a hex editor with structure templates, a disc image reader.",
+        "categories": [
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://binarybacktrace.com",
+        "keywords": [
+            "reverse engineering",
+            "binary analysis",
+            "hex editor",
+            "disassembler",
+            "pe",
+            "disc image"
         ]
     },
     {
@@ -2741,6 +2740,25 @@
         "url": "https://codedthemes.com/"
     },
     {
+        "name": "CodeIntuition",
+        "description": "Pattern-based data structures and algorithms courses for coding interviews: 450+ problems, 75+ patterns and a timed Interview Mode.",
+        "categories": [
+            "Learn",
+            "Interview"
+        ],
+        "url": "https://www.codeintuition.io",
+        "keywords": [
+            "dsa",
+            "data structures",
+            "algorithms",
+            "coding interview",
+            "leetcode",
+            "python",
+            "java",
+            "c++"
+        ]
+    },
+    {
         "name": "CodeKit",
         "description": "CodeKit is a Mac app that makes it easy to use modern web development tools like npm, Babel, Sass, JavaScript bundling, image optimization, and ESLint.",
         "categories": [
@@ -3866,6 +3884,28 @@
             "Programming"
         ],
         "url": "https://js.cytoscape.org/"
+    },
+    {
+        "name": "Código ao Ponto",
+        "description": "Free browser-based developer tools with no signup: Brazilian test data generators and validators (CPF, CNPJ, RG, CNH), JWT, hash, Base64, UUID and JSON tools.",
+        "categories": [
+            "Testing",
+            "Tooling",
+            "Programming"
+        ],
+        "url": "https://codigoaoponto.com/en",
+        "keywords": [
+            "test data",
+            "cpf generator",
+            "cnpj generator",
+            "brazilian documents",
+            "jwt decoder",
+            "hash generator",
+            "base64",
+            "uuid generator",
+            "json formatter",
+            "unix timestamp"
+        ]
     },
     {
         "name": "D3.js",
@@ -5340,24 +5380,6 @@
         ]
     },
     {
-        "name": "FluentEDI",
-        "description": "Deterministic tools for AI agents over HTTP and MCP, with no API key or signup. Parse, generate and validate X12 EDI (850, 856, 810, 997), compute GS1 and IBAN check digits, do timezone and delivery-window arithmetic, resolve cron schedules, repair malformed JSON with the line and column where it broke, verify Ed25519 signatures, and scan text for leaked credentials.",
-        "categories": [
-            "AI",
-            "Tooling",
-            "Programming"
-        ],
-        "url": "https://fluentedi.com",
-        "keywords": [
-            "edi",
-            "x12",
-            "ai agents",
-            "mcp",
-            "api",
-            "developer tools"
-        ]
-    },
-    {
         "name": "Fluid UI",
         "description": "Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.",
         "categories": [
@@ -6692,6 +6714,28 @@
             "Illustration"
         ],
         "url": "https://app.haikei.app"
+    },
+    {
+        "name": "Hail",
+        "description": "Build with phone numbers in 120 countries. Handle registration, US A2P 10DLC, calls, texts, and email through Hail API or MCP.",
+        "categories": [
+            "AI",
+            "Email",
+            "Tooling"
+        ],
+        "url": "https://hail.so",
+        "keywords": [
+            "phone numbers",
+            "registration",
+            "voice",
+            "sms",
+            "email",
+            "mcp",
+            "api",
+            "cli",
+            "python",
+            "sdk"
+        ]
     },
     {
         "name": "Hanzilla Jobs",
@@ -9916,18 +9960,18 @@
     },
     {
         "name": "Omnara",
-        "description": "Command Center for AI Coding Agents",
+        "description": "The open-source API for production-ready AI agents",
         "categories": [
             "AI",
-            "Programming",
-            "Tooling"
+            "Open Source",
+            "Serverless"
         ],
-        "url": "https://www.omnara.com/",
+        "url": "https://omnara.com/",
         "keywords": [
-            "ai coding agents",
-            "claude code",
-            "mobile app",
-            "voice control"
+            "developer tool",
+            "ai agents",
+            "ai infrastructure",
+            "api"
         ]
     },
     {
@@ -11752,6 +11796,23 @@
         ]
     },
     {
+        "name": "Relomote",
+        "description": "Free remote, hybrid and relocation jobs from company career pages, filtered by the countries each job hires from. Has an MCP server for AI assistants.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://relomote.com",
+        "keywords": [
+            "remote jobs",
+            "relocation jobs",
+            "visa sponsorship",
+            "developer jobs",
+            "job search",
+            "mcp"
+        ]
+    },
+    {
         "name": "Remix Icon",
         "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
         "categories": [
@@ -12830,6 +12891,26 @@
             "design",
             "social",
             "marketing"
+        ]
+    },
+    {
+        "name": "ShubHQ",
+        "description": "ShubHQ is an AI growth operator that turns SEO, content, backlinks, rankings, AI visibility and social into one self-running monthly workflow.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://shubhq.com",
+        "keywords": [
+            "AI SEO",
+            "growth automation",
+            "AI growth operator",
+            "SEO automation",
+            "content marketing",
+            "backlink analysis",
+            "rank tracking",
+            "AI visibility",
+            "SaaS tools",
+            "ecommerce tools"
         ]
     },
     {
@@ -15246,6 +15327,14 @@
         "url": "https://unsplash.com/"
     },
     {
+        "name": "Untitled UI",
+        "description": "Untitled UI is the world's largest Figma UI kit and React component library. Kickstart any project with everything you need to design and develop—fast.",
+        "categories": [
+            "UI"
+        ],
+        "url": "https://www.untitledui.com"
+    },
+    {
         "name": "Untools",
         "description": "Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.",
         "categories": [
@@ -15468,6 +15557,24 @@
             "AI"
         ],
         "url": "https://vectoralix.com"
+    },
+    {
+        "name": "Vectoree",
+        "description": "Give your coding agent a backend: models, auth, Postgres and storage behind one key. Skill + CLI + OpenAI-compatible gateway. Pay-as-you-go.",
+        "categories": [
+            "AI",
+            "Database",
+            "Authentication"
+        ],
+        "url": "https://vectoree.ai",
+        "keywords": [
+            "ai agents",
+            "llm gateway",
+            "openai-compatible",
+            "postgres",
+            "storage",
+            "cli"
+        ]
     },
     {
         "name": "VectorElements",
