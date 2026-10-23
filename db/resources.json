@@ -1,5 +1,5 @@
 {
-"count": 1284,
+"count": 1287,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4627,6 +4627,14 @@
             "white label domains",
             "saas infrastructure"
         ]
+    },
+    {
+        "name": "Doodle Icons",
+        "description": "400+ handcrafted icons free for your next project",
+        "categories": [
+            "Icon"
+        ],
+        "url": "https://khushmeen.com/icons.html"
     },
     {
         "name": "Dotnet Gig",
@@ -12104,6 +12112,23 @@
         "url": "https://github.com/antfu/retypewriter"
     },
     {
+        "name": "Reverse Engineering Anything: Installation Guide",
+        "description": "Independent REA installation walkthrough: prerequisites, MCP client setup, provider selection, first static inspection, and readiness checks.",
+        "categories": [
+            "Learn",
+            "Documentation",
+            "Programming"
+        ],
+        "url": "https://reverseengineeringanything.com/guides/installation/",
+        "keywords": [
+            "reverse engineering",
+            "rea",
+            "learning guide",
+            "cli",
+            "coding clients"
+        ]
+    },
+    {
         "name": "Rider",
         "description": "Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux.",
         "categories": [
@@ -16388,6 +16413,22 @@
             "Website Builder"
         ],
         "url": "https://www.wix.com/"
+    },
+    {
+        "name": "WordCraftApp",
+        "description": "A free, open-source word processor for Windows, macOS, Linux, FreeBSD, and browsers with offline editing and DOCX support.",
+        "categories": [
+            "Editor",
+            "Productivity",
+            "Writing"
+        ],
+        "url": "https://wordcraftapp.com/",
+        "keywords": [
+            "word processor",
+            "document editor",
+            "open source",
+            "offline writing"
+        ]
     },
     {
         "name": "WordPress",
