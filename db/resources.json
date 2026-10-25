@@ -1,5 +1,5 @@
 {
-"count": 1287,
+"count": 1292,
 "data": [
     {
         "name": "1001 Fonts",
@@ -676,6 +676,21 @@
             "AI",
             "tools",
             "directory"
+        ]
+    },
+    {
+        "name": "AKCLNT Free APIs",
+        "description": "Directory of 1,600+ free APIs, re-tested weekly, with status history, health scores and an open JSON catalog.",
+        "categories": [
+            "API Building"
+        ],
+        "url": "https://freeapis.akclnt.com/",
+        "keywords": [
+            "api",
+            "public apis",
+            "free apis",
+            "api directory",
+            "api list"
         ]
     },
     {
@@ -4137,6 +4152,27 @@
             "GraphQL",
             "Web Development",
             "tutorials"
+        ]
+    },
+    {
+        "name": "deed.page",
+        "description": "Static hosting with a REST API and remote MCP server: one PUT publishes HTML or a folder to a permanent HTTPS subdomain, no account needed.",
+        "categories": [
+            "Hosting",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://deed.page",
+        "keywords": [
+            "static hosting",
+            "deploy",
+            "mcp",
+            "ai agents",
+            "html",
+            "api",
+            "claude code",
+            "cursor",
+            "codex"
         ]
     },
     {
@@ -10645,6 +10681,22 @@
         "url": "https://www.photoroom.com"
     },
     {
+        "name": "PHP Upgrade Risk Audit",
+        "description": "Free WordPress plugin that checks plugins and themes for potential PHP upgrade compatibility risks without uploading source files.",
+        "categories": [
+            "CMS",
+            "Testing",
+            "Tooling"
+        ],
+        "url": "https://modelgain.com/products/php-upgrade-risk-audit/",
+        "keywords": [
+            "WordPress",
+            "PHP upgrade",
+            "PHP compatibility",
+            "static analysis"
+        ]
+    },
+    {
         "name": "PHPhub",
         "description": "PHPhub is an online PHP toolbox featuring a code checker, formatter, code fixer, regex tester, and sandbox.",
         "categories": [
@@ -11386,6 +11438,26 @@
             "ai research",
             "ai learning",
             "education"
+        ]
+    },
+    {
+        "name": "Radian UI",
+        "description": "Open-source React components and Figma design system for Designers and Developers building modern web applications.",
+        "categories": [
+            "UI"
+        ],
+        "url": "https://radianui.com/",
+        "keywords": [
+            "React",
+            "Tailwindcss",
+            "design-system",
+            "UI Components",
+            "Enterprise",
+            "SaaS",
+            "Components",
+            "Nextjs",
+            "Radix",
+            "component-library"
         ]
     },
     {
@@ -12729,6 +12801,23 @@
             "api",
             "mcp",
             "cli"
+        ]
+    },
+    {
+        "name": "Shadcn Dashboard",
+        "description": "ShadcnDashboard.dev combines reusable dashboard components with AI-ready prompts that help developers build faster without sacrificing code quality.",
+        "categories": [
+            "Code Snippet"
+        ],
+        "url": "https://shadcndashboard.dev",
+        "keywords": [
+            "shadcn",
+            "shadcnui",
+            "react",
+            "nextjs",
+            "tailwindcss",
+            "shadcndashboard",
+            "admindashboard"
         ]
     },
     {
