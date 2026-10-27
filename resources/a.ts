@@ -2,14 +2,6 @@ import { Resource } from 'types'
 
 export const resources: Resource[] = [
     {
-        name: 'A Box of Tools',
-        description:
-            'Client-side file tools for developers: format JSON, diff text, base64, hashes, favicons, image to data URI, compress images. No upload.',
-        categories: ['Image', 'Tooling', 'Open Source'],
-        url: 'https://abox.tools',
-        keywords: ['json formatter', 'base64', 'favicon', 'image compression', 'client-side', 'no upload'],
-    },
-    {
         name: 'A1',
         description: 'A collection of the best websites found on the web',
         categories: ['Design', 'Inspiration', 'UI'],
@@ -383,14 +375,6 @@ export const resources: Resource[] = [
         keywords: ['voice ai', 'ai agent', 'chatbot', 'voice assistant', 'website widget'],
     },
     {
-        name: 'AnyAPI',
-        description:
-            'Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD with no subscription.',
-        categories: ['Scraping', 'Social Media', 'Tooling'],
-        url: 'https://getanyapi.com',
-        keywords: ['scraping', 'data api', 'serp', 'social media data', 'api marketplace', 'mcp'],
-    },
-    {
         name: 'AnyGradient',
         description:
             'NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports',
@@ -477,6 +461,22 @@ export const resources: Resource[] = [
             'An intelligent IDE for iOS/macOS development focused on code quality, efficient code navigation, smart code completion, on-the-fly code analysis with quick-fixes and superior code refactorings.',
         categories: ['Editor', 'Programming'],
         url: 'https://www.jetbrains.com/objc/',
+    },
+    {
+        name: 'AppGoat',
+        description:
+            'App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor.',
+        categories: ['AI', 'Analytics', 'Marketing'],
+        url: 'https://appgoat.ai',
+        keywords: [
+            'aso',
+            'app store optimization',
+            'app store api',
+            'google play api',
+            'app reviews',
+            'keyword rankings',
+            'mcp',
+        ],
     },
     {
         name: 'APPLORE',

@@ -52,6 +52,14 @@ export const resources: Resource[] = [
         keywords: ['instagram', 'api', 'feed', 'rss', 'json', 'graphql'],
     },
     {
+        name: 'FeedLog',
+        description:
+            'Open-source feedback board, roadmap, and changelog you self-host on Cloudflare, Vercel, or Docker.',
+        categories: ['Tooling'],
+        url: 'https://feedlog.ai',
+        keywords: ['feedback', 'roadmap', 'changelog', 'open source', 'AI'],
+    },
+    {
         name: 'Figma',
         description:
             'Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.',
@@ -382,6 +390,14 @@ export const resources: Resource[] = [
             'Fontspark is the best place for you. We are providing all the latest and professional free fonts for download that you can use on your projects.',
         categories: ['Font'],
         url: 'https://fontspark.com/',
+    },
+    {
+        name: 'FontVibe',
+        description:
+            'AI text effect and lettering designs for logos, banners and thumbnails, with an MCP server so coding agents can generate these graphics.',
+        categories: ['Font', 'AI', 'Design'],
+        url: 'https://fontvibe.ai/',
+        keywords: ['text effects', 'lettering', 'ai font generator', 'mcp'],
     },
     {
         name: 'ForgeSprite',

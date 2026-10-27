@@ -1,5 +1,5 @@
 {
-"count": 1292,
+"count": 1294,
 "data": [
     {
         "name": "1001 Fonts",
@@ -98,24 +98,6 @@
             "crowdsource",
             "graphic design",
             "design"
-        ]
-    },
-    {
-        "name": "A Box of Tools",
-        "description": "Client-side file tools for developers: format JSON, diff text, base64, hashes, favicons, image to data URI, compress images. No upload.",
-        "categories": [
-            "Image",
-            "Tooling",
-            "Open Source"
-        ],
-        "url": "https://abox.tools",
-        "keywords": [
-            "json formatter",
-            "base64",
-            "favicon",
-            "image compression",
-            "client-side",
-            "no upload"
         ]
     },
     {
@@ -795,24 +777,6 @@
         ]
     },
     {
-        "name": "AnyAPI",
-        "description": "Hundreds of scraping and data APIs behind one key and one normalized JSON schema, priced per request in USD with no subscription.",
-        "categories": [
-            "Scraping",
-            "Social Media",
-            "Tooling"
-        ],
-        "url": "https://getanyapi.com",
-        "keywords": [
-            "scraping",
-            "data api",
-            "serp",
-            "social media data",
-            "api marketplace",
-            "mcp"
-        ]
-    },
-    {
         "name": "AnyGradient",
         "description": "NextGen gradient generator with OKLCH interpolation, Display-P3 color support, customizable noise, and production-ready code exports",
         "categories": [
@@ -947,6 +911,25 @@
             "Programming"
         ],
         "url": "https://www.jetbrains.com/objc/"
+    },
+    {
+        "name": "AppGoat",
+        "description": "App Store + Google Play data API and remote MCP server: apps, reviews, keywords, rankings, top charts and competitors for Claude, ChatGPT and Cursor.",
+        "categories": [
+            "AI",
+            "Analytics",
+            "Marketing"
+        ],
+        "url": "https://appgoat.ai",
+        "keywords": [
+            "aso",
+            "app store optimization",
+            "app store api",
+            "google play api",
+            "app reviews",
+            "keyword rankings",
+            "mcp"
+        ]
     },
     {
         "name": "APPLORE",
@@ -5211,6 +5194,21 @@
         ]
     },
     {
+        "name": "FeedLog",
+        "description": "Open-source feedback board, roadmap, and changelog you self-host on Cloudflare, Vercel, or Docker.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://feedlog.ai",
+        "keywords": [
+            "feedback",
+            "roadmap",
+            "changelog",
+            "open source",
+            "AI"
+        ]
+    },
+    {
         "name": "Figma",
         "description": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.",
         "categories": [
@@ -5644,6 +5642,22 @@
             "Font"
         ],
         "url": "https://fontspark.com/"
+    },
+    {
+        "name": "FontVibe",
+        "description": "AI text effect and lettering designs for logos, banners and thumbnails, with an MCP server so coding agents can generate these graphics.",
+        "categories": [
+            "Font",
+            "AI",
+            "Design"
+        ],
+        "url": "https://fontvibe.ai/",
+        "keywords": [
+            "text effects",
+            "lettering",
+            "ai font generator",
+            "mcp"
+        ]
     },
     {
         "name": "ForgeSprite",
@@ -6382,6 +6396,22 @@
             "terminal",
             "commit",
             "golang"
+        ]
+    },
+    {
+        "name": "Gleam Audio",
+        "description": "On-device AI cleanup, enhance, editor for voice and audio",
+        "categories": [
+            "Audio",
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://gleamaudio.com/",
+        "keywords": [
+            "noise removal",
+            "audio editor",
+            "speech enhancement",
+            "podcast editing"
         ]
     },
     {
@@ -7902,6 +7932,28 @@
         ]
     },
     {
+        "name": "JustClock — Automatic IDE Time Tracker",
+        "description": "Automatic Project Time Tracking Plugin for JetBrains IDEs, Android Studio, VS Code, Devin, Cursor and Visual Studio.",
+        "categories": [
+            "Performance"
+        ],
+        "url": "https://justclock.dev",
+        "keywords": [
+            "time tracking",
+            "automatic time tracker",
+            "developer tools",
+            "jetbrains plugin",
+            "vscode extension",
+            "cursor ide",
+            "devin",
+            "visual studio",
+            "billable hours",
+            "timesheet automation",
+            "productivity tools",
+            "cross-ide"
+        ]
+    },
+    {
         "name": "JustRemote",
         "description": "Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.",
         "categories": [
@@ -7924,22 +7976,6 @@
             "netlinking",
             "online reputation",
             "off page seo"
-        ]
-    },
-    {
-        "name": "Keeping",
-        "description": "Turns Google Workspace Into Your Team’s Help Desk",
-        "categories": [
-            "Email",
-            "Productivity",
-            "Tooling"
-        ],
-        "url": "https://www.keeping.com/",
-        "keywords": [
-            "help desk",
-            "shared inbox for gmail",
-            "team email management",
-            "collaborative Email platform"
         ]
     },
     {
@@ -9548,23 +9584,6 @@
         ]
     },
     {
-        "name": "Naratake",
-        "description": "Drag-and-drop website builder for local businesses. 111 components, 15 design styles, publishes a real Next.js app with full source-code export.",
-        "categories": [
-            "Website Builder",
-            "CMS",
-            "Template"
-        ],
-        "url": "https://naratake.com",
-        "keywords": [
-            "website builder",
-            "no-code",
-            "next.js",
-            "small business",
-            "source code export"
-        ]
-    },
-    {
         "name": "Narrow AI",
         "description": "Automated Prompt Engineering and Optimization platform that can autonomously write, monitor, and optimize prompts for any model",
         "categories": [
@@ -10167,21 +10186,6 @@
         "url": "https://openvim.com/"
     },
     {
-        "name": "open-banking.io",
-        "description": "Unified REST API for European bank accounts. PSD2 open-banking data — connect to thousands of EU banks without your own banking certificates.",
-        "categories": [
-            "API Building"
-        ],
-        "url": "https://open-banking.io",
-        "keywords": [
-            "open banking",
-            "psd2",
-            "bank api",
-            "fintech",
-            "payments"
-        ]
-    },
-    {
         "name": "OpenChakra",
         "description": "React JSX visual editor for Chakra UI.",
         "categories": [
@@ -10728,6 +10732,24 @@
             "raster to vector",
             "png to svg",
             "DXF export"
+        ]
+    },
+    {
+        "name": "Pic2Vector",
+        "description": "Free in-browser PNG/JPG/WebP to SVG converter using vtracer compiled to WebAssembly. Images never leave your device; no signup, no watermark.",
+        "categories": [
+            "Image",
+            "Design",
+            "Tooling"
+        ],
+        "url": "https://pic2vector.com",
+        "keywords": [
+            "image to svg",
+            "png to svg",
+            "raster to vector",
+            "webassembly",
+            "vtracer",
+            "browser-based"
         ]
     },
     {
@@ -14661,23 +14683,6 @@
         ]
     },
     {
-        "name": "ToolSuite",
-        "description": "ToolSuite provides free in-browser developer utilities including Base64 encoder, Unix timestamp converter, JSON formatter, and image optimization tools.",
-        "categories": [
-            "Tooling",
-            "Productivity"
-        ],
-        "url": "https://toolsuite.fit",
-        "keywords": [
-            "developer tools",
-            "base64 encoder",
-            "unix timestamp",
-            "json formatter",
-            "image compressor",
-            "browser-based"
-        ]
-    },
-    {
         "name": "TOOOLS.design",
         "description": "A growing archive of 1,500+ design resources, frequently updated for the community.",
         "categories": [
@@ -15252,6 +15257,25 @@
             "blocks",
             "components",
             "sections"
+        ]
+    },
+    {
+        "name": "UI Verify",
+        "description": "Visual testing for coding agents: screenshots your Storybook, Playwright or Vitest tests and shows the agent every UI change it makes.",
+        "categories": [
+            "Testing",
+            "UI",
+            "AI"
+        ],
+        "url": "https://uiverify.ai",
+        "keywords": [
+            "visual regression testing",
+            "screenshot testing",
+            "storybook",
+            "playwright",
+            "vitest",
+            "mcp",
+            "claude code"
         ]
     },
     {
@@ -16185,6 +16209,23 @@
             "Extension"
         ],
         "url": "https://www.wappalyzer.com/"
+    },
+    {
+        "name": "WarpNav",
+        "description": "Chinese-language directory of AI coding assistants, GitHub open-source projects, developer software, UI libraries and icon sets, with short usage notes.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://warpnav.com/",
+        "keywords": [
+            "chinese",
+            "tools directory",
+            "ai tools",
+            "github projects",
+            "developer tools"
+        ]
     },
     {
         "name": "Warrant",
