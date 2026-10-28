@@ -1,5 +1,5 @@
 {
-"count": 1294,
+"count": 1298,
 "data": [
     {
         "name": "1001 Fonts",
@@ -8654,6 +8654,23 @@
         ]
     },
     {
+        "name": "logoapi.sh",
+        "description": "Free company logo API. SVG logo by domain, no API key or signup. A free alternative to the Clearbit Logo API.",
+        "categories": [
+            "Logo",
+            "Image",
+            "CDN"
+        ],
+        "url": "https://logoapi.sh",
+        "keywords": [
+            "logo",
+            "svg",
+            "clearbit alternative",
+            "brand",
+            "domain"
+        ]
+    },
+    {
         "name": "LogoInspo",
         "description": "The ultimate logo design inspiration library with 1,200+ hand-picked real and fictional logos searchable by style, industry, and color.",
         "categories": [
@@ -11416,6 +11433,24 @@
         "url": "https://qoddi.com"
     },
     {
+        "name": "qodesign",
+        "description": "Animated React components and dashboards (Framer Motion). Free and MIT on GitHub: Toast Stack, Pricing Switch, Upload Dropzone, Day/Night Toggle, Orbit, Ledger",
+        "categories": [
+            "Animation",
+            "UI",
+            "Library"
+        ],
+        "url": "https://qodesign.dev",
+        "keywords": [
+            "react",
+            "animated components",
+            "shadcn",
+            "framer motion",
+            "tailwind",
+            "dashboard"
+        ]
+    },
+    {
         "name": "QoQo AI",
         "description": "QoQo.ai helps Product Designers and UX Researchers overcome limited resources for research by providing quick and efficient access to research insights.",
         "categories": [
@@ -12539,6 +12574,22 @@
             "screenshot api",
             "screenshot automation",
             "screenshot service"
+        ]
+    },
+    {
+        "name": "ScreenSize",
+        "description": "Check your screen size, viewport, resolution and device pixel ratio in real time, with device screen specs and Tailwind/Bootstrap breakpoint references.",
+        "categories": [
+            "Browser",
+            "Design"
+        ],
+        "url": "https://screensize.net",
+        "keywords": [
+            "screen size",
+            "viewport",
+            "resolution",
+            "responsive design",
+            "breakpoints"
         ]
     },
     {
@@ -15448,15 +15499,6 @@
         "url": "https://unlearn.dev/"
     },
     {
-        "name": "Unscreen",
-        "description": "Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.",
-        "categories": [
-            "Editor",
-            "Video"
-        ],
-        "url": "https://www.unscreen.com/"
-    },
-    {
         "name": "Unsplash",
         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
         "categories": [
@@ -15834,6 +15876,17 @@
             "content marketing",
             "content automation",
             "content creation"
+        ]
+    },
+    {
+        "name": "VibeReady",
+        "description": "AI-native SaaS starter kit optimized for vibe coding",
+        "categories": [
+            "Template"
+        ],
+        "url": "https://vibeready.sh/",
+        "keywords": [
+            "boilerplate"
         ]
     },
     {
@@ -16347,6 +16400,22 @@
             "css",
             "javascript",
             "development"
+        ]
+    },
+    {
+        "name": "WebExtract",
+        "description": "API and hosted MCP server that turn a web page into clean Markdown or structured JSON (product, price, tables, metadata). 20 free calls/day per IP.",
+        "categories": [
+            "Scraping",
+            "AI"
+        ],
+        "url": "https://webextract.dev",
+        "keywords": [
+            "web scraping api",
+            "html to markdown",
+            "structured data extraction",
+            "mcp server",
+            "x402"
         ]
     },
     {
