@@ -1,5 +1,5 @@
 {
-"count": 1302,
+"count": 1310,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1023,6 +1023,23 @@
             "mcp",
             "ai coding agents",
             "cli"
+        ]
+    },
+    {
+        "name": "Aria Icons",
+        "description": "Search 1.4M open-source SVG icons and add them to your project via CLI or an MCP server for AI coding agents.",
+        "categories": [
+            "Icon",
+            "Design",
+            "Tooling"
+        ],
+        "url": "https://icons.leularia.com",
+        "keywords": [
+            "icons",
+            "svg",
+            "mcp",
+            "cli",
+            "open source"
         ]
     },
     {
@@ -2446,6 +2463,25 @@
             "Browser"
         ],
         "url": "https://www.google.com/chrome/dev/"
+    },
+    {
+        "name": "Chrome Extension Downloader",
+        "description": "Download available Chrome extension CRX/ZIP packages, inspect source files and manifest permissions, and query extension data through REST or MCP.",
+        "categories": [
+            "Tooling",
+            "Extension"
+        ],
+        "url": "https://extensiondownloader.com",
+        "keywords": [
+            "chrome",
+            "crx",
+            "zip",
+            "source code",
+            "manifest",
+            "permissions",
+            "rest api",
+            "mcp"
+        ]
     },
     {
         "name": "Chrome Reader Mode",
@@ -7626,6 +7662,25 @@
         ]
     },
     {
+        "name": "IPKit",
+        "description": "Free IP lookup with location, ASN/ISP and VPN/proxy/Tor signals, plus the caller\\'s own IP, as JSON. No API key for basic use.",
+        "categories": [
+            "Tooling",
+            "Security",
+            "API Building"
+        ],
+        "url": "https://ipkit.dev",
+        "keywords": [
+            "ip lookup",
+            "ip geolocation",
+            "asn",
+            "vpn detection",
+            "proxy detection",
+            "tor",
+            "json api"
+        ]
+    },
+    {
         "name": "IPWho IP Geolocation API",
         "categories": [
             "Tooling"
@@ -8114,6 +8169,24 @@
             "ml",
             "productivity",
             "devops"
+        ]
+    },
+    {
+        "name": "Klaruvo",
+        "description": "Local AI image editor for Windows and macOS: remove watermarks, cut out objects, erase backgrounds and upscale photos fully offline. No upload, one-time purchase.",
+        "categories": [
+            "Image",
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://www.powersoftware.app/en-US/product/detail/klaruvo",
+        "keywords": [
+            "ai image editor",
+            "remove watermark",
+            "background remover",
+            "image upscaler",
+            "offline ai",
+            "batch image"
         ]
     },
     {
@@ -9519,6 +9592,14 @@
         "url": "https://morrisjs.github.io/morris.js/"
     },
     {
+        "name": "MotionSites",
+        "description": "Beautiful Website Prompts for Lovable, Bolt, Cursor, and Claude. Build Stunning 3d Websites With AI.",
+        "categories": [
+            "Inspiration"
+        ],
+        "url": "https://motionsites.ai"
+    },
+    {
         "name": "MotionVault.site",
         "description": "Cinematic website templates with live previews, editable source, motion assets and build prompts, plus a read-only MCP toolkit for AI coding tools.",
         "categories": [
@@ -9908,6 +9989,22 @@
             "webflow",
             "framer",
             "bubble"
+        ]
+    },
+    {
+        "name": "noattributionicons",
+        "description": "Free library of 3,700+ flat color icons in 216 themed packs. SVG and PNG downloads, free for commercial use, no attribution or sign-up.",
+        "categories": [
+            "Icon",
+            "Design"
+        ],
+        "url": "https://noattributionicons.com",
+        "keywords": [
+            "icons",
+            "svg",
+            "png",
+            "free icons",
+            "no attribution"
         ]
     },
     {
@@ -13675,6 +13772,23 @@
         "url": "https://splitbee.io"
     },
     {
+        "name": "Spoof Me",
+        "description": "Chrome and Firefox extension that switches User-Agent, language, timezone and screen signals to test how a site behaves for other devices and locales.",
+        "categories": [
+            "Extension",
+            "Testing",
+            "Browser"
+        ],
+        "url": "https://spoof-me.com",
+        "keywords": [
+            "user agent",
+            "localization testing",
+            "timezone",
+            "device emulation",
+            "browser extension"
+        ]
+    },
+    {
         "name": "Spyder",
         "description": "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.",
         "categories": [
@@ -15920,6 +16034,21 @@
             "content marketing",
             "content automation",
             "content creation"
+        ]
+    },
+    {
+        "name": "Vibe Code Pipeline",
+        "description": "Vibe Code Pipeline is an interactive encyclopedia for AI agents, prompts, and vibe coding pipelines. Watch how agents loop, learn the patterns behind them, and build your own with confidence. Explore the catalog of 1006 agents and 1032 prompt templates, all designed to help you understand and create AI agents effectively.",
+        "categories": [
+            "Learn"
+        ],
+        "url": "https://vibecodepipeline.com/",
+        "keywords": [
+            "Ai agents",
+            "Prompts",
+            "education",
+            "SAAS",
+            "API"
         ]
     },
     {
