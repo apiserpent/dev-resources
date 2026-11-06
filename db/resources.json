@@ -1,5 +1,5 @@
 {
-"count": 1310,
+"count": 1313,
 "data": [
     {
         "name": "1001 Fonts",
@@ -1088,6 +1088,22 @@
         "url": "https://authenticjobs.com/"
     },
     {
+        "name": "AUTOMATER.ai",
+        "description": "Tray app that tracks every AI coding agent you run: searchable past sessions, alerts when one is waiting on you, and usage across 9 providers.",
+        "categories": [
+            "AI",
+            "Productivity"
+        ],
+        "url": "https://automater.ai",
+        "keywords": [
+            "ai coding",
+            "coding agents",
+            "session history",
+            "usage tracking",
+            "desktop app"
+        ]
+    },
+    {
         "name": "Automation Tools Directory",
         "description": "Handpicked Automation Tools to Boost Your Productivity",
         "categories": [
@@ -1722,6 +1738,24 @@
             "frameworks",
             "development",
             "low code"
+        ]
+    },
+    {
+        "name": "Boilerplates Directory",
+        "description": "Compare SaaS starter kits and boilerplates by stack, pricing model and included features.",
+        "categories": [
+            "Productivity",
+            "Template",
+            "Startup"
+        ],
+        "url": "https://boilerplates.directory",
+        "keywords": [
+            "boilerplates",
+            "starter kits",
+            "saas",
+            "next.js",
+            "react",
+            "templates"
         ]
     },
     {
@@ -2663,6 +2697,23 @@
             "online compiler",
             "playground",
             "beginner"
+        ]
+    },
+    {
+        "name": "Code By AI",
+        "description": "Unified API gateway for AI coding agents: one API key and balance for Claude, GPT/Codex and Gemini in Claude Code, Codex CLI and Gemini CLI. Pay per token.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://www.codebyai.net",
+        "keywords": [
+            "api gateway",
+            "llm api",
+            "claude code",
+            "codex",
+            "gemini cli",
+            "ai coding"
         ]
     },
     {
@@ -9013,26 +9064,6 @@
         "url": "https://www.mailgun.com/"
     },
     {
-        "name": "MailKite SaaS Starter",
-        "description": "MIT-licensed Next.js SaaS starter: self-contained auth (OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first UI.",
-        "categories": [
-            "Template",
-            "Open Source",
-            "Startup"
-        ],
-        "url": "https://github.com/mailkite/saas-startup",
-        "keywords": [
-            "nextjs",
-            "saas",
-            "boilerplate",
-            "starter kit",
-            "stripe",
-            "drizzle",
-            "authentication",
-            "typescript"
-        ]
-    },
-    {
         "name": "Majestic",
         "description": "⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.",
         "categories": [
@@ -9688,6 +9719,23 @@
             "dev tools",
             "AI",
             "CLI"
+        ]
+    },
+    {
+        "name": "Nano Banana Live",
+        "description": "Independent developer guide to Google Nano Banana (Gemini image API): Python quickstart, API error fixes, benchmarks and open-weight local alternatives.",
+        "categories": [
+            "AI",
+            "Learn",
+            "Documentation"
+        ],
+        "url": "https://www.nano-banana.live",
+        "keywords": [
+            "nano banana",
+            "gemini image api",
+            "image generation",
+            "image editing",
+            "python"
         ]
     },
     {
@@ -13055,6 +13103,28 @@
         "url": "https://shadcnblocks.com"
     },
     {
+        "name": "ShadcnStore",
+        "description": "Shadcn UI blocks and templates for React, Base UI and Tailwind CSS. Free blocks in every section, shadcn CLI registry install and a Figma kit.",
+        "categories": [
+            "UI",
+            "Template",
+            "Library"
+        ],
+        "url": "https://shadcnstore.com",
+        "keywords": [
+            "shadcn",
+            "shadcn ui",
+            "shadcn blocks",
+            "base ui",
+            "react",
+            "tailwindcss",
+            "nextjs",
+            "templates",
+            "shadcn cli",
+            "figma"
+        ]
+    },
+    {
         "name": "Shape",
         "description": "26000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.",
         "categories": [
@@ -14857,22 +14927,6 @@
         ]
     },
     {
-        "name": "Tools in a Tab",
-        "description": "Free browser tools for JSON, YAML, Base64, Unix timestamps and SHA-256. Local input processing, no account required; English and Spanish.",
-        "categories": [
-            "Tooling",
-            "Productivity"
-        ],
-        "url": "https://toolsinatab.com/",
-        "keywords": [
-            "json",
-            "yaml",
-            "base64",
-            "timestamp",
-            "sha256"
-        ]
-    },
-    {
         "name": "ToolStack",
         "description": "32 free browser-based developer tools: JSON formatter and validator, Base64, image compressor, color and unit converters, calculators, QR codes. No sign-up.",
         "categories": [
@@ -15395,22 +15449,6 @@
             "SEO"
         ],
         "url": "https://neilpatel.com/ubersuggest"
-    },
-    {
-        "name": "uChecker",
-        "description": "Email list verification (Good/Bad/Unknown) plus free SPF/DKIM/DMARC DNS checkers. No signup on the DNS tools.",
-        "categories": [
-            "Email",
-            "Domain",
-            "Tooling"
-        ],
-        "url": "https://uchecker.net",
-        "keywords": [
-            "email verification",
-            "dkim",
-            "spf",
-            "dmarc"
-        ]
     },
     {
         "name": "Udemy",
@@ -16267,6 +16305,20 @@
             "api documentation",
             "api testing",
             "api mocks"
+        ]
+    },
+    {
+        "name": "Volume→Mockups",
+        "description": "Library of free and premium device mockups for web and app presentation. Static 8K mockups and animated 4K & 60fps mockups.",
+        "categories": [
+            "Design"
+        ],
+        "url": "https://volumemockups.com",
+        "keywords": [
+            "mockup",
+            "mockups",
+            "animated mockups",
+            "video mockups"
         ]
     },
     {
