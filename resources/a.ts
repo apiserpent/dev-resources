@@ -133,6 +133,22 @@ export const resources: Resource[] = [
         keywords: ['ai', 'testing', 'qa', 'web', 'mobile', 'regression testing', 'natural language tests'],
     },
     {
+        name: 'AgentCraft',
+        description:
+            'Free library of 5,101 Claude Code skills and 353 coding-agent system prompts, plus 2,444 AI image and video prompts shown with their real outputs.',
+        categories: ['AI', 'Tooling', 'Learn'],
+        url: 'https://agentcraft.dev',
+        keywords: [
+            'claude code',
+            'agent skills',
+            'system prompts',
+            'coding agents',
+            'prompt library',
+            'gpt image',
+            'seedance',
+        ],
+    },
+    {
         name: 'AgileHero',
         description:
             'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
@@ -336,6 +352,14 @@ export const resources: Resource[] = [
         url: 'https://animatedicons.co/',
     },
     {
+        name: 'AnimatedWebs',
+        description:
+            'Animated website templates with live demos and AI build prompts for Claude Code, Cursor, v0 and Lovable, plus an MCP server for coding agents.',
+        categories: ['Template', 'Animation', 'Tooling'],
+        url: 'https://animatedwebs.com/',
+        keywords: ['animated websites', 'website templates', 'webgl', 'three.js', 'mcp', 'ai prompts'],
+    },
+    {
         name: 'Animista',
         description:
             'Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.',
@@ -506,6 +530,14 @@ export const resources: Resource[] = [
             'Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.',
         categories: ['API Building'],
         url: 'https://appwrite.io/',
+    },
+    {
+        name: 'Appy',
+        description:
+            'Mobile deep linking and attribution SDKs, smart links, REST API and MCP tools for app developers. Hosted SDK access requires Enterprise.',
+        categories: ['Library', 'Analytics', 'Tooling'],
+        url: 'https://appy.to',
+        keywords: ['mobile', 'deep linking', 'attribution', 'sdk', 'rest api', 'mcp'],
     },
     {
         name: 'Aptabase',

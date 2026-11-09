@@ -95,6 +95,14 @@ export const resources: Resource[] = [
         url: 'https://nextjs.org/',
     },
     {
+        name: 'NextJSON',
+        description:
+            'Free online nested JSON parser, viewer and formatter with a JSON diff, schema generator, minifier and JSON to TOON converter that runs in the browser.',
+        categories: ['Tooling'],
+        url: 'https://nextjson.com',
+        keywords: ['json', 'json parser', 'json formatter', 'json diff', 'json schema'],
+    },
+    {
         name: 'Nextjsshop',
         description:
             'Premium Next.js UI components and templates for SaaS, landing pages, and product websites, designed to accelerate modern storefront and marketing sites.',
@@ -198,6 +206,13 @@ export const resources: Resource[] = [
         categories: ['Icon', 'Design'],
         url: 'https://noattributionicons.com',
         keywords: ['icons', 'svg', 'png', 'free icons', 'no attribution'],
+    },
+    {
+        name: 'NoCert',
+        description: 'Discovers public and internal TLS certificates, tracks expiry dates and sends alerts.',
+        categories: ['Security', 'Tooling'],
+        url: 'https://nocert.io',
+        keywords: ['tls', 'ssl', 'certificates', 'monitoring', 'expiry alerts'],
     },
     {
         name: 'Nomad List',

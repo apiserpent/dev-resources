@@ -123,6 +123,14 @@ export const resources: Resource[] = [
         url: 'https://icones.netlify.app/',
     },
     {
+        name: 'Illos',
+        description:
+            'Animated SVG illustrations for product sites in four themes, light and dark, 65 free. Skills and an MCP server let coding agents add them.',
+        categories: ['Illustration'],
+        url: 'https://illos.dev',
+        keywords: ['svg', 'animated illustrations', 'react', 'claude code', 'cursor', 'mcp'],
+    },
+    {
         name: 'Illustrations-figma',
         description:
             'More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.',
@@ -136,6 +144,30 @@ export const resources: Resource[] = [
         categories: ['Image', 'Terminal', 'Tooling'],
         url: 'https://imagetoascii.art/',
         keywords: ['ascii art', 'image to ascii', 'readme', 'ansi', 'markdown', 'local processing'],
+    },
+    {
+        name: 'Imagera Code',
+        description:
+            'AI coding agent for the terminal: reads and edits your project, runs commands and tests, and works with Claude, GPT, Gemini and hundreds of other models on one paid plan.',
+        categories: ['AI', 'Terminal', 'Code Generator'],
+        url: 'https://imagera.ai/code',
+        keywords: ['ai coding agent', 'cli', 'terminal', 'claude', 'gpt', 'gemini', 'mcp'],
+    },
+    {
+        name: 'imagetoolbox',
+        description:
+            'Converts images to WebP or AVIF and compresses JPG or WebP to fit a size you pick, in the browser. Also makes favicons. Nothing is uploaded.',
+        categories: ['Image', 'Performance'],
+        url: 'https://imagetoolbox.org',
+        keywords: [
+            'image converter',
+            'heic to jpg',
+            'webp',
+            'avif',
+            'image compressor',
+            'favicon generator',
+            'image to base64',
+        ],
     },
     {
         name: 'Img.Upscaler',

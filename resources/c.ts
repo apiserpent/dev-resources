@@ -318,6 +318,21 @@ export const resources: Resource[] = [
         url: 'https://circumicons.com/',
     },
     {
+        name: 'Ciyo',
+        description:
+            'AI design workspace with a conversational design agent and an infinite canvas for creating and editing images and videos.',
+        categories: ['AI', 'Design', 'Image'],
+        url: 'https://ciyo.ai',
+        keywords: [
+            'ai design',
+            'design agent',
+            'infinite canvas',
+            'image generation',
+            'video generation',
+            'creative tools',
+        ],
+    },
+    {
         name: 'CleanSnap',
         description:
             'CleanSnap is a free AI Images maker. Create a beautiful image from a screenshot in seconds. Without any watermark.',
@@ -1064,6 +1079,24 @@ export const resources: Resource[] = [
         keywords: ['privacy', 'cookie', 'policy'],
     },
     {
+        name: 'CoolColor Space',
+        description:
+            'Free browser color tools: nearest Tailwind v4 or v3.4 class for a HEX, 46 converters with OKLCH, a WCAG 2 contrast checker and a color blindness simulator.',
+        categories: ['Color', 'Accessibility', 'Design'],
+        url: 'https://coolcolor.space',
+        keywords: [
+            'hex to tailwind',
+            'tailwind colors',
+            'oklch',
+            'color converter',
+            'contrast checker',
+            'wcag',
+            'color blindness simulator',
+            'css gradient',
+            'color palette',
+        ],
+    },
+    {
         name: 'Coolors',
         description: 'Generate or browse beautiful color combinations for your designs.',
         categories: ['Color'],
@@ -1142,6 +1175,27 @@ export const resources: Resource[] = [
             'Time is our most valuable asset, that’s why we want to help you save it by creating simple, customizable, easy to learn UI components and Admin Templates which significantly cut development time. CoreUI lets you save thousands of priceless hours because it offers everything you need to create modern, beautiful, and responsive applications.',
         categories: ['Template'],
         url: 'https://coreui.io/',
+    },
+    {
+        name: 'Corsair',
+        description:
+            'Corsair is an open source integration layer connecting AI agents to 200+ APIs through one syntax, handling OAuth, tokens, and webhooks',
+        categories: ['Open Source'],
+        url: 'https://corsair.dev/',
+        keywords: [
+            'open source',
+            'MCP',
+            'Model Context Protocol',
+            'AI agents',
+            'API integration',
+            'OAuth',
+            'developer tools',
+            'TypeScript',
+            'webhooks',
+            'integration platform',
+            'SaaS',
+            'automation',
+        ],
     },
     {
         name: 'Cortex',
