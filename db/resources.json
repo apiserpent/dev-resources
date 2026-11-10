@@ -1,5 +1,5 @@
 {
-"count": 1330,
+"count": 1331,
 "data": [
     {
         "name": "1001 Fonts",
@@ -4880,6 +4880,22 @@
         "url": "https://khushmeen.com/icons.html"
     },
     {
+        "name": "Dotdat.AI",
+        "description": "All-in-one AI marketing platform. Rank, publish, and get cited.",
+        "categories": [
+            "Marketing",
+            "AI",
+            "SEO"
+        ],
+        "url": "https://dotdat.ai/",
+        "keywords": [
+            "ai marketing",
+            "seo",
+            "ai seo",
+            "content marketing"
+        ]
+    },
+    {
         "name": "Dotnet Gig",
         "description": "Find .NET developer jobs",
         "categories": [
@@ -9229,6 +9245,21 @@
         ]
     },
     {
+        "name": "Magic Layers",
+        "description": "Separates a flat PNG or JPEG into layers: text, subject, decorations and background come back as named transparent PNG layers you can download and edit.",
+        "categories": [
+            "Image",
+            "AI"
+        ],
+        "url": "https://magiclayers.net/",
+        "keywords": [
+            "image to layers",
+            "separate image layers",
+            "layer decomposition",
+            "design"
+        ]
+    },
+    {
         "name": "Magic Potion",
         "description": "Visual AI Prompt Editor",
         "categories": [
@@ -11211,23 +11242,6 @@
         ]
     },
     {
-        "name": "PicPrepper",
-        "description": "Browser-based image preparation for web projects: compress, resize, and convert JPG, PNG, and WebP locally without uploading.",
-        "categories": [
-            "Image",
-            "Performance",
-            "Tooling"
-        ],
-        "url": "https://picprepper.com",
-        "keywords": [
-            "image compression",
-            "image resize",
-            "webp",
-            "frontend",
-            "browser-based"
-        ]
-    },
-    {
         "name": "Pictify",
         "description": "Pictify.io provides API to convert HTML into image",
         "categories": [
@@ -11594,23 +11608,6 @@
             "UI"
         ],
         "url": "https://www.primefaces.org/"
-    },
-    {
-        "name": "PrintSocket",
-        "description": "Send PDFs, ZPL labels and ESC/POS receipts to printers you control, from any language, over a REST API.",
-        "categories": [
-            "API Building"
-        ],
-        "url": "https://www.printsocket.com",
-        "keywords": [
-            "printing",
-            "cloud printing",
-            "escpos",
-            "zpl",
-            "receipt printer",
-            "label printer",
-            "rest api"
-        ]
     },
     {
         "name": "Prisma",
@@ -15342,6 +15339,24 @@
             "process documentation software",
             "training documentation tool",
             "workflow documentation software"
+        ]
+    },
+    {
+        "name": "Transcript Dock",
+        "description": "Video transcript API for YouTube, TikTok and Instagram links and uploaded media, with timed segments, SRT, VTT and JSON exports and an MCP server.",
+        "categories": [
+            "AI",
+            "Video",
+            "Tooling"
+        ],
+        "url": "https://www.transcriptdock.com/",
+        "keywords": [
+            "transcript api",
+            "youtube transcript",
+            "tiktok transcript",
+            "speech to text",
+            "subtitles",
+            "mcp"
         ]
     },
     {
