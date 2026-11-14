@@ -88,6 +88,14 @@ export const resources: Resource[] = [
         keywords: ['ads', 'ads aggregator', 'analyzing competitors', 'creatives'],
     },
     {
+        name: 'AdminKit',
+        description:
+            'Free, MIT-licensed Bootstrap 5 admin dashboard template in plain JavaScript, no jQuery. HTML, React and Next.js versions, light and dark mode.',
+        categories: ['Template', 'UI', 'Open Source'],
+        url: 'https://adminkit.io/',
+        keywords: ['bootstrap', 'admin template', 'dashboard', 'react', 'nextjs', 'html'],
+    },
+    {
         name: 'AdminMart',
         description: 'The Best Free and Premium Admin Templates by AdminMart.',
         categories: ['Template'],
@@ -275,6 +283,14 @@ export const resources: Resource[] = [
             'integrations',
             'agent skills',
         ],
+    },
+    {
+        name: 'Aider',
+        description:
+            'Open-source AI pair programmer for the terminal. Free with your own API keys or local models, with git-friendly commits.',
+        categories: ['AI', 'Terminal'],
+        url: 'https://aider.chat',
+        keywords: ['ai', 'pair programming', 'terminal', 'open source'],
     },
     {
         name: 'Aigazine',
@@ -611,6 +627,14 @@ export const resources: Resource[] = [
         categories: ['Productivity', 'Tooling', 'Marketing'],
         url: 'https://www.automationtools.directory/',
         keywords: ['marketing', 'tools', 'workflow automation', 'business'],
+    },
+    {
+        name: 'AVIF Crate',
+        description:
+            'Convert AVIF assets to JPG locally in the browser, with quality preview and ZIP export for batches.',
+        categories: ['Image'],
+        url: 'https://avifcrate.com/',
+        keywords: ['avif', 'jpg', 'image converter', 'batch conversion'],
     },
     {
         name: 'Awesome a11y',

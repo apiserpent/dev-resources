@@ -61,6 +61,14 @@ export const resources: Resource[] = [
         keywords: ['gcore', 'speed test', 'internet speed', 'bandwidth'],
     },
     {
+        name: 'Gemini CLI',
+        description:
+            'Open-source AI agent for the terminal. Free with a personal Google account: 60 requests per minute and 1,000 requests per day on Gemini models.',
+        categories: ['AI', 'Terminal'],
+        url: 'https://github.com/google-gemini/gemini-cli',
+        keywords: ['ai', 'cli', 'terminal', 'coding agent'],
+    },
+    {
         name: 'GenDesigns',
         description: 'AI Mobile App Design Generator',
         categories: ['Design', 'AI', 'UI'],
@@ -114,6 +122,14 @@ export const resources: Resource[] = [
             'GitBook is a knowledge management tool for engineering teams. It simplifies knowledge sharing, with docs-as-code support and AI-powered search & insights.',
         categories: ['Documentation'],
         url: 'https://gitbook.com',
+    },
+    {
+        name: 'GitHub Copilot',
+        description:
+            'AI coding assistant with a free plan for individual developers: 2,000 code completions and 50 chat messages per month, plus limited agent mode.',
+        categories: ['AI', 'Editor'],
+        url: 'https://github.com/features/copilot',
+        keywords: ['ai', 'code completion', 'coding assistant', 'free tier'],
     },
     {
         name: 'GitHub Pages',
@@ -171,6 +187,14 @@ export const resources: Resource[] = [
         description: 'GoLand is an IDE by JetBrains aimed at providing an ergonomic environment for Go development.',
         categories: ['Editor', 'Programming'],
         url: 'https://www.jetbrains.com/go/',
+    },
+    {
+        name: 'Google AI Studio',
+        description:
+            'Browser playground and API for Gemini models with a free tier. Per-project rate limits, no credit card required to start building.',
+        categories: ['AI'],
+        url: 'https://aistudio.google.com',
+        keywords: ['ai', 'gemini', 'api', 'playground'],
     },
     {
         name: 'Google Chrome Developers',
@@ -236,6 +260,14 @@ export const resources: Resource[] = [
             'how to make a resume',
             'sample resumes',
         ],
+    },
+    {
+        name: 'GPTSVG Studio',
+        description:
+            'Generate editable SVG logos and JSX UI icons from prompts, or vectorize PNGs and optimize SVG paths in the browser.',
+        categories: ['AI', 'Icon', 'Logo'],
+        url: 'https://gptsvg.com',
+        keywords: ['svg', 'vector', 'svg-optimizer', 'jsx', 'icons'],
     },
     {
         name: 'Gradient',
@@ -311,6 +343,14 @@ export const resources: Resource[] = [
         categories: ['Library', 'Programming'],
         url: 'https://v2.grommet.io/',
         keywords: ['React', 'UI Kit', 'Grommet', 'Grommet Design', 'UI/UX Framework'],
+    },
+    {
+        name: 'Groq',
+        description:
+            'Ultra-fast LLM inference on LPU hardware. Free tier: about 30 requests per minute and 1,000 requests per day on supported open models, no card.',
+        categories: ['AI'],
+        url: 'https://groq.com',
+        keywords: ['ai', 'inference', 'llm', 'api'],
     },
     {
         name: 'Growth List',

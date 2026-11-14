@@ -160,6 +160,14 @@ export const resources: Resource[] = [
         keywords: ['directory', 'tools', 'development'],
     },
     {
+        name: 'BestJSON',
+        description:
+            'Free browser-based tools to format, validate, repair, compare, query, and convert JSON locally without uploading input.',
+        categories: ['Tooling'],
+        url: 'https://bestjson.com/',
+        keywords: ['json', 'formatter', 'validator', 'repair', 'diff', 'converter'],
+    },
+    {
         name: 'BetaList',
         description:
             'BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.',
@@ -502,6 +510,14 @@ export const resources: Resource[] = [
             'Try for free now! Cross browser test your website immediately in all web browsers - Internet Explorer, Edge, Chrome, Safari, Firefox, and Opera.',
         categories: ['Browser', 'Testing'],
         url: 'https://www.browserling.com/',
+    },
+    {
+        name: 'BrowserSolver',
+        description:
+            'Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots.',
+        categories: ['Scraping', 'Browser'],
+        url: 'https://www.browsersolver.com/',
+        keywords: ['web unlocker', 'anti-bot', 'cloudflare', 'headless browser', 'web scraping api'],
     },
     {
         name: 'BrowserStack',

@@ -1,5 +1,5 @@
 {
-"count": 1331,
+"count": 1354,
 "data": [
     {
         "name": "1001 Fonts",
@@ -263,6 +263,24 @@
             "ads aggregator",
             "analyzing competitors",
             "creatives"
+        ]
+    },
+    {
+        "name": "AdminKit",
+        "description": "Free, MIT-licensed Bootstrap 5 admin dashboard template in plain JavaScript, no jQuery. HTML, React and Next.js versions, light and dark mode.",
+        "categories": [
+            "Template",
+            "UI",
+            "Open Source"
+        ],
+        "url": "https://adminkit.io/",
+        "keywords": [
+            "bootstrap",
+            "admin template",
+            "dashboard",
+            "react",
+            "nextjs",
+            "html"
         ]
     },
     {
@@ -620,6 +638,21 @@
             "cli",
             "integrations",
             "agent skills"
+        ]
+    },
+    {
+        "name": "Aider",
+        "description": "Open-source AI pair programmer for the terminal. Free with your own API keys or local models, with git-friendly commits.",
+        "categories": [
+            "AI",
+            "Terminal"
+        ],
+        "url": "https://aider.chat",
+        "keywords": [
+            "ai",
+            "pair programming",
+            "terminal",
+            "open source"
         ]
     },
     {
@@ -1175,6 +1208,20 @@
         ]
     },
     {
+        "name": "AVIF Crate",
+        "description": "Convert AVIF assets to JPG locally in the browser, with quality preview and ZIP export for batches.",
+        "categories": [
+            "Image"
+        ],
+        "url": "https://avifcrate.com/",
+        "keywords": [
+            "avif",
+            "jpg",
+            "image converter",
+            "batch conversion"
+        ]
+    },
+    {
         "name": "Awesome a11y",
         "description": "A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.",
         "categories": [
@@ -1538,6 +1585,22 @@
             "directory",
             "tools",
             "development"
+        ]
+    },
+    {
+        "name": "BestJSON",
+        "description": "Free browser-based tools to format, validate, repair, compare, query, and convert JSON locally without uploading input.",
+        "categories": [
+            "Tooling"
+        ],
+        "url": "https://bestjson.com/",
+        "keywords": [
+            "json",
+            "formatter",
+            "validator",
+            "repair",
+            "diff",
+            "converter"
         ]
     },
     {
@@ -2044,6 +2107,22 @@
         "url": "https://www.browserling.com/"
     },
     {
+        "name": "BrowserSolver",
+        "description": "Web unlocker API that fetches pages behind Cloudflare and DataDome, with JS rendering, crawling and screenshots.",
+        "categories": [
+            "Scraping",
+            "Browser"
+        ],
+        "url": "https://www.browsersolver.com/",
+        "keywords": [
+            "web unlocker",
+            "anti-bot",
+            "cloudflare",
+            "headless browser",
+            "web scraping api"
+        ]
+    },
+    {
         "name": "BrowserStack",
         "description": "Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites that work for everyone, every time. Get Free Trial.",
         "categories": [
@@ -2344,6 +2423,22 @@
             "AI Chatbot",
             "Customer Support",
             "Chatbot"
+        ]
+    },
+    {
+        "name": "chainjobs",
+        "description": "Free Web3 and freelance job board where clients and freelancers chat directly; payment in crypto or bank transfer, 0% platform commission.",
+        "categories": [
+            "Freelance",
+            "Job",
+            "Web3"
+        ],
+        "url": "https://chainjobs.app/",
+        "keywords": [
+            "web3 jobs",
+            "freelance",
+            "crypto jobs",
+            "remote jobs"
         ]
     },
     {
@@ -2716,6 +2811,21 @@
             "facebook cover",
             "clip",
             "mac"
+        ]
+    },
+    {
+        "name": "Cline",
+        "description": "Open-source AI coding agent for VS Code, JetBrains and the CLI. Free and unlimited with bring-your-own API keys or local models.",
+        "categories": [
+            "AI",
+            "Extension"
+        ],
+        "url": "https://cline.bot",
+        "keywords": [
+            "ai",
+            "coding agent",
+            "vs code",
+            "open source"
         ]
     },
     {
@@ -6516,6 +6626,21 @@
         ]
     },
     {
+        "name": "Gemini CLI",
+        "description": "Open-source AI agent for the terminal. Free with a personal Google account: 60 requests per minute and 1,000 requests per day on Gemini models.",
+        "categories": [
+            "AI",
+            "Terminal"
+        ],
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "keywords": [
+            "ai",
+            "cli",
+            "terminal",
+            "coding agent"
+        ]
+    },
+    {
         "name": "GenDesigns",
         "description": "AI Mobile App Design Generator",
         "categories": [
@@ -6609,6 +6734,21 @@
             "Documentation"
         ],
         "url": "https://gitbook.com"
+    },
+    {
+        "name": "GitHub Copilot",
+        "description": "AI coding assistant with a free plan for individual developers: 2,000 code completions and 50 chat messages per month, plus limited agent mode.",
+        "categories": [
+            "AI",
+            "Editor"
+        ],
+        "url": "https://github.com/features/copilot",
+        "keywords": [
+            "ai",
+            "code completion",
+            "coding assistant",
+            "free tier"
+        ]
     },
     {
         "name": "GitHub Pages",
@@ -6711,6 +6851,20 @@
         "url": "https://www.jetbrains.com/go/"
     },
     {
+        "name": "Google AI Studio",
+        "description": "Browser playground and API for Gemini models with a free tier. Per-project rate limits, no credit card required to start building.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://aistudio.google.com",
+        "keywords": [
+            "ai",
+            "gemini",
+            "api",
+            "playground"
+        ]
+    },
+    {
         "name": "Google Chrome Developers",
         "description": "Making the web more awesome.",
         "categories": [
@@ -6797,6 +6951,23 @@
             "how to write a resume",
             "how to make a resume",
             "sample resumes"
+        ]
+    },
+    {
+        "name": "GPTSVG Studio",
+        "description": "Generate editable SVG logos and JSX UI icons from prompts, or vectorize PNGs and optimize SVG paths in the browser.",
+        "categories": [
+            "AI",
+            "Icon",
+            "Logo"
+        ],
+        "url": "https://gptsvg.com",
+        "keywords": [
+            "svg",
+            "vector",
+            "svg-optimizer",
+            "jsx",
+            "icons"
         ]
     },
     {
@@ -6933,6 +7104,20 @@
             "Grommet",
             "Grommet Design",
             "UI/UX Framework"
+        ]
+    },
+    {
+        "name": "Groq",
+        "description": "Ultra-fast LLM inference on LPU hardware. Free tier: about 30 requests per minute and 1,000 requests per day on supported open models, no card.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://groq.com",
+        "keywords": [
+            "ai",
+            "inference",
+            "llm",
+            "api"
         ]
     },
     {
@@ -8299,6 +8484,23 @@
         "url": "https://jvlangai.com"
     },
     {
+        "name": "Kaeso",
+        "description": "MIT-licensed, self-hosted AI gateway in Rust, with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs.",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Tooling"
+        ],
+        "url": "https://kaeso.app",
+        "keywords": [
+            "ai gateway",
+            "llm",
+            "self-hosted",
+            "rust",
+            "openai"
+        ]
+    },
+    {
         "name": "KarmaLinks",
         "description": "KarmaLinks is an AI powered backlink exchange platform. Users are able receive backlinks from others and must give backlinks in exchange.",
         "categories": [
@@ -8609,6 +8811,19 @@
             "ai directory",
             "developer productivity",
             "generative ai"
+        ]
+    },
+    {
+        "name": "Latchkey",
+        "description": "Run one command on a fresh ephemeral Linux machine that is destroyed after. Create a job, stream logs, poll status. For coding agents and CI systems.",
+        "categories": [
+            "Cloud Computing"
+        ],
+        "url": "https://latchkey.dev",
+        "keywords": [
+            "GitHub Runner",
+            "DevOps",
+            "CI/CD"
         ]
     },
     {
@@ -10368,6 +10583,23 @@
         "url": "https://nomadlist.com/"
     },
     {
+        "name": "NoncePay",
+        "description": "Non-custodial crypto payment API: accept USDT, USDC, BTC, ETH, SOL and more with a deposit address per payment, forwarded to your wallet, with signed callbacks. No account, no API key.",
+        "categories": [
+            "Web3",
+            "Tooling"
+        ],
+        "url": "https://noncepay.app",
+        "keywords": [
+            "crypto payments",
+            "payment gateway",
+            "usdt",
+            "bitcoin",
+            "webhooks",
+            "non-custodial"
+        ]
+    },
+    {
         "name": "Nord",
         "description": "A arctic, north-bluish color palette",
         "categories": [
@@ -10720,6 +10952,20 @@
         ]
     },
     {
+        "name": "OpenRouter",
+        "description": "Unified API for hundreds of LLMs with a rotating catalog of free models. Free tier: 20 requests per minute, 50 requests per day without credits.",
+        "categories": [
+            "AI"
+        ],
+        "url": "https://openrouter.ai",
+        "keywords": [
+            "ai",
+            "llm",
+            "api",
+            "models"
+        ]
+    },
+    {
         "name": "Opensource.Builders",
         "description": "Find open-source alternatives to popular software.",
         "categories": [
@@ -10831,6 +11077,25 @@
             "osint",
             "open source",
             "repo search"
+        ]
+    },
+    {
+        "name": "Out Plane",
+        "description": "A cloud for AI coding agents and the apps they build: free Hangars for agents, app hosting in Germany, managed PostgreSQL and S3 compatible buckets.",
+        "categories": [
+            "Hosting",
+            "Cloud Computing",
+            "Database"
+        ],
+        "url": "https://outplane.com",
+        "keywords": [
+            "paas",
+            "app hosting",
+            "managed postgresql",
+            "coding agents",
+            "sandbox",
+            "docker",
+            "germany"
         ]
     },
     {
@@ -11918,6 +12183,24 @@
         "url": "https://qoqo.ai/"
     },
     {
+        "name": "Quick Image Kit",
+        "description": "Browser-side image toolkit for web assets: compress to an exact KB target, convert JPG/PNG/WebP, resize, crop and generate multi-size favicons. Files never leave the tab.",
+        "categories": [
+            "Image",
+            "Performance",
+            "Tooling"
+        ],
+        "url": "https://quickimagekit.com/",
+        "keywords": [
+            "image compression",
+            "image converter",
+            "webp",
+            "favicon",
+            "resize",
+            "client-side"
+        ]
+    },
+    {
         "name": "Quicklisting",
         "description": "Auto-submit to 50+ directories",
         "categories": [
@@ -12590,6 +12873,23 @@
         ]
     },
     {
+        "name": "Resume Claim Guard",
+        "description": "Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview.",
+        "categories": [
+            "Resume",
+            "AI",
+            "Open Source"
+        ],
+        "url": "https://github.com/korey2028-prog/resume-claim-guard",
+        "keywords": [
+            "resume",
+            "agent skill",
+            "claude",
+            "codex",
+            "open source"
+        ]
+    },
+    {
         "name": "Resume Genius",
         "description": "The only online resume builder that’ll land you interviews. Create a professional resume in minutes, download, and print. Join 10 million happy job seekers.",
         "categories": [
@@ -12750,6 +13050,22 @@
             "Job"
         ],
         "url": "https://rocketcrew.space/"
+    },
+    {
+        "name": "RoleWeek",
+        "description": "Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own career pages. Free, no account. Has a read-only MCP connector.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://roleweek.com",
+        "keywords": [
+            "developer jobs",
+            "software engineer jobs",
+            "job search",
+            "us",
+            "canada",
+            "mcp"
+        ]
     },
     {
         "name": "Rosie",
@@ -12981,6 +13297,23 @@
             "scoping",
             "ai",
             "product management"
+        ]
+    },
+    {
+        "name": "Scrape.ly",
+        "description": "Cloud platform of ready-made web scrapers with a REST API, Python and JavaScript SDKs, a CLI and an MCP server for AI agents.",
+        "categories": [
+            "Scraping",
+            "AI"
+        ],
+        "url": "https://scrape.ly",
+        "keywords": [
+            "scraping",
+            "web scraping",
+            "api",
+            "mcp",
+            "ai agents",
+            "data extraction"
         ]
     },
     {
@@ -16042,6 +16375,14 @@
         "url": "https://up-for-grabs.net/#/"
     },
     {
+        "name": "UpSearch",
+        "description": "SEO software, web design and managed SEO services for measurable organic growth.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://upsearch.io"
+    },
+    {
         "name": "Upstash",
         "description": "Serverless database with Redis API and durable storage. Low latency data. Durable storage. Ease of use.",
         "categories": [
@@ -17429,6 +17770,23 @@
             "terminal",
             "workflows",
             "developer tools"
+        ]
+    },
+    {
+        "name": "ZCode",
+        "description": "Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime.",
+        "categories": [
+            "AI",
+            "Editor",
+            "Open Source"
+        ],
+        "url": "https://github.com/zai-org/ZCode",
+        "keywords": [
+            "ai",
+            "coding agent",
+            "electron",
+            "glm",
+            "open source"
         ]
     },
     {

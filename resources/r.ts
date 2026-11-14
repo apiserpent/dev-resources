@@ -408,6 +408,14 @@ export const resources: Resource[] = [
         keywords: ['resume', 'builder', 'creator', 'templates'],
     },
     {
+        name: 'Resume Claim Guard',
+        description:
+            'Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview.',
+        categories: ['Resume', 'AI', 'Open Source'],
+        url: 'https://github.com/korey2028-prog/resume-claim-guard',
+        keywords: ['resume', 'agent skill', 'claude', 'codex', 'open source'],
+    },
+    {
         name: 'Resume Genius',
         description:
             'The only online resume builder that’ll land you interviews. Create a professional resume in minutes, download, and print. Join 10 million happy job seekers.',
@@ -508,6 +516,14 @@ export const resources: Resource[] = [
         description: 'The biggest list of Space jobs from New space companies.',
         categories: ['Job'],
         url: 'https://rocketcrew.space/',
+    },
+    {
+        name: 'RoleWeek',
+        description:
+            "Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own career pages. Free, no account. Has a read-only MCP connector.",
+        categories: ['Job'],
+        url: 'https://roleweek.com',
+        keywords: ['developer jobs', 'software engineer jobs', 'job search', 'us', 'canada', 'mcp'],
     },
     {
         name: 'Rosie',
