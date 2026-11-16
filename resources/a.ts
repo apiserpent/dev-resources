@@ -157,14 +157,6 @@ export const resources: Resource[] = [
         ],
     },
     {
-        name: 'AgileHero',
-        description:
-            'Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.',
-        categories: ['Productivity', 'AI', 'Tooling'],
-        url: 'https://agilehero.io',
-        keywords: ['project management', 'agile', 'kanban', 'scrum', 'tasks tracking', 'mcp', 'ai agents'],
-    },
-    {
         name: 'Ahrefs',
         description:
             "You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.",
@@ -534,6 +526,14 @@ export const resources: Resource[] = [
         url: 'https://app-mockup.com/',
     },
     {
+        name: 'AppScreen',
+        description:
+            'Browser editor for App Store and Google Play screenshots, with iPhone and Android device frames. Free to use, no sign-up needed.',
+        categories: ['Design', 'Screenshot', 'Marketing'],
+        url: 'https://appscreen.pro',
+        keywords: ['app store screenshots', 'google play screenshots', 'ios', 'android', 'device frames', 'aso'],
+    },
+    {
         name: 'AppStore Tracker',
         description: 'An open AppStore Explorer',
         categories: ['Analytics', 'Marketing'],
@@ -662,6 +662,14 @@ export const resources: Resource[] = [
             'A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub.',
         categories: ['Hacktoberfest'],
         url: 'https://github.com/mungell/awesome-for-beginners',
+    },
+    {
+        name: 'Awesome UI/UX Tools',
+        description:
+            'Community-maintained directory of UI/UX tools, design systems, accessibility resources, and developer handoff workflows.',
+        categories: ['Accessibility', 'Design', 'UI'],
+        url: 'https://github.com/aasavchauhan/awesome-design-tools',
+        keywords: ['ui/ux', 'design tools', 'design systems', 'accessibility', 'developer handoff'],
     },
     {
         name: 'AWS',

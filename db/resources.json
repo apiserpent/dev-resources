@@ -1,5 +1,5 @@
 {
-"count": 1354,
+"count": 1355,
 "data": [
     {
         "name": "1001 Fonts",
@@ -396,25 +396,6 @@
             "prompt library",
             "gpt image",
             "seedance"
-        ]
-    },
-    {
-        "name": "AgileHero",
-        "description": "Agile project management for software teams: boards, epics, roadmaps, retrospectives, whiteboards and wiki pages, plus a remote MCP server for coding agents.",
-        "categories": [
-            "Productivity",
-            "AI",
-            "Tooling"
-        ],
-        "url": "https://agilehero.io",
-        "keywords": [
-            "project management",
-            "agile",
-            "kanban",
-            "scrum",
-            "tasks tracking",
-            "mcp",
-            "ai agents"
         ]
     },
     {
@@ -1030,6 +1011,24 @@
         "url": "https://app-mockup.com/"
     },
     {
+        "name": "AppScreen",
+        "description": "Browser editor for App Store and Google Play screenshots, with iPhone and Android device frames. Free to use, no sign-up needed.",
+        "categories": [
+            "Design",
+            "Screenshot",
+            "Marketing"
+        ],
+        "url": "https://appscreen.pro",
+        "keywords": [
+            "app store screenshots",
+            "google play screenshots",
+            "ios",
+            "android",
+            "device frames",
+            "aso"
+        ]
+    },
+    {
         "name": "AppStore Tracker",
         "description": "An open AppStore Explorer",
         "categories": [
@@ -1265,6 +1264,23 @@
             "Hacktoberfest"
         ],
         "url": "https://github.com/mungell/awesome-for-beginners"
+    },
+    {
+        "name": "Awesome UI/UX Tools",
+        "description": "Community-maintained directory of UI/UX tools, design systems, accessibility resources, and developer handoff workflows.",
+        "categories": [
+            "Accessibility",
+            "Design",
+            "UI"
+        ],
+        "url": "https://github.com/aasavchauhan/awesome-design-tools",
+        "keywords": [
+            "ui/ux",
+            "design tools",
+            "design systems",
+            "accessibility",
+            "developer handoff"
+        ]
     },
     {
         "name": "AWS",
@@ -4523,24 +4539,6 @@
         ]
     },
     {
-        "name": "DeepZero",
-        "description": "MIT-licensed Python engine for building resumable security-analysis pipelines with custom processors, Ghidra, Semgrep, and optional LLM assessment.",
-        "categories": [
-            "Security",
-            "Open Source",
-            "Tooling"
-        ],
-        "url": "https://blog.ahmadz.ai/DeepZero/en/",
-        "keywords": [
-            "python",
-            "pipeline",
-            "reverse engineering",
-            "windows drivers",
-            "ghidra",
-            "semgrep"
-        ]
-    },
-    {
         "name": "Design Resources",
         "description": "A curated list of the best design resources handpicked from around the web.",
         "categories": [
@@ -4663,27 +4661,6 @@
             "Ruby",
             "Security",
             "iOS"
-        ]
-    },
-    {
-        "name": "Dev Tools",
-        "description": "600+ free developer tools in the browser: JSON, Base64, regex, JWT, cron, subnet, SQL, PDF and image utilities. Most run client-side, no sign-up.",
-        "categories": [
-            "Tooling",
-            "Productivity",
-            "Programming"
-        ],
-        "url": "https://tools.bubble.ro/",
-        "keywords": [
-            "json formatter",
-            "base64",
-            "regex tester",
-            "jwt decoder",
-            "cron",
-            "subnet calculator",
-            "developer tools",
-            "online tools",
-            "privacy"
         ]
     },
     {
@@ -6664,6 +6641,23 @@
             "Social Media"
         ],
         "url": "https://gettheaudience.com/"
+    },
+    {
+        "name": "getdataengineeringjobs.com",
+        "description": "Job board with only data engineering roles, collected from across the web and updated several times a day.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://getdataengineeringjobs.com/",
+        "keywords": [
+            "data engineering",
+            "data engineer",
+            "jobs",
+            "remote jobs",
+            "etl",
+            "analytics engineering",
+            "hiring"
+        ]
     },
     {
         "name": "Getillustrations",
@@ -10723,6 +10717,24 @@
         "url": "https://www.offen.dev/"
     },
     {
+        "name": "OffSeq Threat Radar",
+        "description": "Scan SBOMs and lockfiles for known vulnerabilities, ranked by CISA KEV, EPSS and exploit data, with SARIF output, a GitHub Action, REST API and MCP server.",
+        "categories": [
+            "Security",
+            "Tooling"
+        ],
+        "url": "https://radar.offseq.com",
+        "keywords": [
+            "cve",
+            "sbom",
+            "sarif",
+            "vulnerability",
+            "github action",
+            "mcp",
+            "devsecops"
+        ]
+    },
+    {
         "name": "Oh My Android",
         "description": "Free, open-source macOS control panel for the Android Emulator and phones: dark mode, font scale, RTL, TalkBack, Layout Inspector in dp, plus an MCP server.",
         "categories": [
@@ -11237,21 +11249,6 @@
             "inference cost",
             "evals",
             "tutorials"
-        ]
-    },
-    {
-        "name": "Patronus Protect",
-        "description": "Hosted API to detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines. Free tier available.",
-        "categories": [
-            "AI",
-            "Security"
-        ],
-        "url": "https://api.patronus.studio",
-        "keywords": [
-            "prompt injection",
-            "agent security",
-            "RAG",
-            "API"
         ]
     },
     {
@@ -13734,6 +13731,23 @@
             "templates",
             "shadcn cli",
             "figma"
+        ]
+    },
+    {
+        "name": "Shader Learn",
+        "description": "Learn GLSL with English and Chinese lessons, editable examples, a function reference, and a browser-based shader playground.",
+        "categories": [
+            "Learn",
+            "Editor",
+            "Programming"
+        ],
+        "url": "https://shader-learn.com/",
+        "keywords": [
+            "glsl",
+            "shaders",
+            "webgl",
+            "graphics programming",
+            "creative coding"
         ]
     },
     {
