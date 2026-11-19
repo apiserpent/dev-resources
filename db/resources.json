@@ -1,5 +1,5 @@
 {
-"count": 1357,
+"count": 1362,
 "data": [
     {
         "name": "1001 Fonts",
@@ -6348,6 +6348,22 @@
         "url": "https://freeter.io/"
     },
     {
+        "name": "FreshRemoteRoles",
+        "description": "Fully remote jobs straight from companies' career pages, updated daily, with filters for engineering, DevOps, data, QA and security roles. Free, no account.",
+        "categories": [
+            "Job",
+            "Remote"
+        ],
+        "url": "https://freshremoteroles.com",
+        "keywords": [
+            "remote jobs",
+            "developer jobs",
+            "software engineer jobs",
+            "worldwide",
+            "job search"
+        ]
+    },
+    {
         "name": "FridayGPT",
         "description": "Fast and Native ChatGPT mac app. Access ChatGPT instantly on top of any app or website.",
         "categories": [
@@ -8586,6 +8602,22 @@
         "url": "https://www.keybr.com/"
     },
     {
+        "name": "Keybrum",
+        "description": "Automated penetration test for live web apps built with Lovable, Bolt, Cursor, Replit or v0: Supabase, Firebase, APIs, exposed files and leaked keys.",
+        "categories": [
+            "Security",
+            "Testing"
+        ],
+        "url": "https://keybrum.com",
+        "keywords": [
+            "pentest",
+            "security testing",
+            "supabase rls",
+            "firebase rules",
+            "vibe coding"
+        ]
+    },
+    {
         "name": "Keysearch",
         "description": "An easy-to-use web-based keyword research tool with in-depth competition analysis, keyword difficulty checker, keyword suggestions and more.",
         "categories": [
@@ -9185,6 +9217,24 @@
             "SaaS",
             "AI-driven solutions",
             "cloud platforms"
+        ]
+    },
+    {
+        "name": "Little Cups of Claude",
+        "description": "Short, focused tips for Claude Code, the Claude API, the Agent SDK and MCP, one per weekday.",
+        "categories": [
+            "Blog",
+            "Learn",
+            "AI"
+        ],
+        "url": "https://littlecupsofclaude.com",
+        "keywords": [
+            "claude",
+            "claude code",
+            "anthropic",
+            "agent sdk",
+            "mcp",
+            "ai coding"
         ]
     },
     {
@@ -12194,6 +12244,26 @@
         "url": "https://qoqo.ai/"
     },
     {
+        "name": "QRdx",
+        "description": "Open-source QR code platform: a free browser generator, a React library, a CLI, a keyless image API and a remote MCP server.",
+        "categories": [
+            "Image",
+            "Library",
+            "Tooling"
+        ],
+        "url": "https://qrdx.dev",
+        "keywords": [
+            "qr code",
+            "qr code generator",
+            "react",
+            "cli",
+            "image api",
+            "mcp",
+            "barcode",
+            "open source"
+        ]
+    },
+    {
         "name": "Quick Image Kit",
         "description": "Browser-side image toolkit for web assets: compress to an exact KB target, convert JPG/PNG/WebP, resize, crop and generate multi-size favicons. Files never leave the tab.",
         "categories": [
@@ -14444,6 +14514,23 @@
             "Advertising Integration (Google Ads)",
             "Interactive Visualizations",
             "No Signup Required for CSV Analysis"
+        ]
+    },
+    {
+        "name": "Spare Mailbox",
+        "description": "Disposable inboxes with OTP extraction, a REST API and hosted MCP server for testing signup flows in your own applications.",
+        "categories": [
+            "Email",
+            "Testing",
+            "AI"
+        ],
+        "url": "https://sparemailbox.com",
+        "keywords": [
+            "email",
+            "testing",
+            "otp",
+            "mcp",
+            "api"
         ]
     },
     {
