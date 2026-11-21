@@ -118,6 +118,14 @@ export const resources: Resource[] = [
         keywords: ['ftp', 'sftp', 'webdav', 's3', 'file transfer', 'cloud storage', 'encryption', 'tauri', 'rust'],
     },
     {
+        name: 'Aethel',
+        description:
+            'Free AI interview practice for developers, no account. Then a free AI interview of about 15 minutes: every score quotes your own words.',
+        categories: ['Interview'],
+        url: 'https://aethel.pro',
+        keywords: ['interview practice', 'mock interview', 'ai interview', 'technical interview', 'spanish'],
+    },
+    {
         name: 'Agent Island',
         description:
             'Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok and Cursor, with local session status, alerts and provider usage views.',
@@ -155,6 +163,14 @@ export const resources: Resource[] = [
             'gpt image',
             'seedance',
         ],
+    },
+    {
+        name: 'Agentik',
+        description:
+            'Hosted MCP gateway and REST API giving AI coding agents one connection to 3,500+ pay-per-call tools from 165 providers, price shown before each call.',
+        categories: ['AI', 'Tooling'],
+        url: 'https://www.agentik.cc',
+        keywords: ['mcp', 'mcp gateway', 'claude code', 'codex', 'cursor', 'ai agents', 'tool calling', 'api'],
     },
     {
         name: 'Ahrefs',

@@ -106,6 +106,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'Only Frontend Jobs',
+        description:
+            'Handpicked frontend developer roles from LinkedIn, career pages, and referrals. Verified listings only — remote, high-comp, and email-direct tags. No spam.',
+        categories: ['Job'],
+        url: 'https://onlyfrontendjobs.com',
+        keywords: ['frontend', 'jobs', 'remote', 'hiring'],
+    },
+    {
         name: 'Onsen UI',
         description:
             'Make beautiful hybrid mobile apps using HTML5, CSS and JavaScript. Works with or without any framework including Angular, Meteor, React and Vue. iOS and Android.',
@@ -224,6 +232,26 @@ export const resources: Resource[] = [
             'Takes a labeled GitHub Issue through implementation, an independent review that can block the merge, and a tagged release, with no human in the loop.',
         categories: ['AI', 'Programming', 'Tooling'],
         url: 'https://orbi.build/',
+    },
+    {
+        name: 'Orbit by Noveum',
+        description:
+            'Free, open-source task management for teams and AI agents: issues, projects, sprints, docs and files, with realtime collaboration, self-hosting and OAuth MCP.',
+        categories: ['Productivity'],
+        url: 'https://orbit.noveum.ai',
+        keywords: [
+            'open source',
+            'task management',
+            'project management',
+            'issues',
+            'sprints',
+            'kanban',
+            'collaboration',
+            'self hosted',
+            'MCP',
+            'OAuth',
+            'docs',
+        ],
     },
     {
         name: 'OrcaSheets',

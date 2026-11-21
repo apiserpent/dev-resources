@@ -1,5 +1,5 @@
 {
-"count": 1362,
+"count": 1372,
 "data": [
     {
         "name": "1001 Fonts",
@@ -326,6 +326,21 @@
         ]
     },
     {
+        "name": "Aethel",
+        "description": "Free AI interview practice for developers, no account. Then a free AI interview of about 15 minutes: every score quotes your own words.",
+        "categories": [
+            "Interview"
+        ],
+        "url": "https://aethel.pro",
+        "keywords": [
+            "interview practice",
+            "mock interview",
+            "ai interview",
+            "technical interview",
+            "spanish"
+        ]
+    },
+    {
         "name": "Agent Island",
         "description": "Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok and Cursor, with local session status, alerts and provider usage views.",
         "categories": [
@@ -396,6 +411,25 @@
             "prompt library",
             "gpt image",
             "seedance"
+        ]
+    },
+    {
+        "name": "Agentik",
+        "description": "Hosted MCP gateway and REST API giving AI coding agents one connection to 3,500+ pay-per-call tools from 165 providers, price shown before each call.",
+        "categories": [
+            "AI",
+            "Tooling"
+        ],
+        "url": "https://www.agentik.cc",
+        "keywords": [
+            "mcp",
+            "mcp gateway",
+            "claude code",
+            "codex",
+            "cursor",
+            "ai agents",
+            "tool calling",
+            "api"
         ]
     },
     {
@@ -4185,6 +4219,24 @@
             "artificial intelligence",
             "code review",
             "ai code reviewer"
+        ]
+    },
+    {
+        "name": "CueCheck",
+        "description": "Free browser-based SRT and WebVTT subtitle QC checker for developers and accessibility teams. Audits reading speed (CPS/WPM), line length, duration, frame gaps, and overlaps against Netflix, BBC, and DCMP specs with zero file uploads.",
+        "categories": [
+            "Accessibility",
+            "Video",
+            "Tooling"
+        ],
+        "url": "https://cuecheck.app",
+        "keywords": [
+            "subtitles",
+            "srt",
+            "webvtt",
+            "accessibility",
+            "captions",
+            "video qc"
         ]
     },
     {
@@ -8811,6 +8863,23 @@
         "url": "https://gumroad.com/a/124908659"
     },
     {
+        "name": "Lantern Works",
+        "description": "GPU cloud rental prices compared across tracked providers, with source links and check dates. Free JSON API and a free, read-only MCP server for agents.",
+        "categories": [
+            "AI",
+            "Cloud Computing"
+        ],
+        "url": "https://thelanternworks.com",
+        "keywords": [
+            "gpu",
+            "gpu cloud",
+            "gpu pricing",
+            "mcp",
+            "ai agents",
+            "h100"
+        ]
+    },
+    {
         "name": "Lapa Ninja",
         "description": "The best landing page design inspiration from around the web. Lapa Ninja is created to help designers find inspiration, learn and improve design skills. The contents are selected from the best designs, and daily updated.",
         "categories": [
@@ -10903,6 +10972,20 @@
         ]
     },
     {
+        "name": "Only Frontend Jobs",
+        "description": "Handpicked frontend developer roles from LinkedIn, career pages, and referrals. Verified listings only — remote, high-comp, and email-direct tags. No spam.",
+        "categories": [
+            "Job"
+        ],
+        "url": "https://onlyfrontendjobs.com",
+        "keywords": [
+            "frontend",
+            "jobs",
+            "remote",
+            "hiring"
+        ]
+    },
+    {
         "name": "Onsen UI",
         "description": "Make beautiful hybrid mobile apps using HTML5, CSS and JavaScript. Works with or without any framework including Angular, Meteor, React and Vue. iOS and Android.",
         "categories": [
@@ -11091,6 +11174,27 @@
             "Tooling"
         ],
         "url": "https://orbi.build/"
+    },
+    {
+        "name": "Orbit by Noveum",
+        "description": "Free, open-source task management for teams and AI agents: issues, projects, sprints, docs and files, with realtime collaboration, self-hosting and OAuth MCP.",
+        "categories": [
+            "Productivity"
+        ],
+        "url": "https://orbit.noveum.ai",
+        "keywords": [
+            "open source",
+            "task management",
+            "project management",
+            "issues",
+            "sprints",
+            "kanban",
+            "collaboration",
+            "self hosted",
+            "MCP",
+            "OAuth",
+            "docs"
+        ]
     },
     {
         "name": "OrcaSheets",
@@ -13646,6 +13750,20 @@
         ]
     },
     {
+        "name": "seo-console-mcp",
+        "description": "An MIT MCP server and CLI with 43 tools for Search Console, the App Store, Google Play and WordPress.org. A missing row is reported as unknown, never as zero.",
+        "categories": [
+            "SEO"
+        ],
+        "url": "https://seo-console.verdelic.com/",
+        "keywords": [
+            "SEO",
+            "MCP",
+            "CLI",
+            "Open Source"
+        ]
+    },
+    {
         "name": "Seotisfy",
         "description": "Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.",
         "categories": [
@@ -14114,6 +14232,21 @@
             "UI"
         ],
         "url": "https://www.siteinspire.com/"
+    },
+    {
+        "name": "Sitepeel",
+        "description": "Website cloner to copy pages or elements, export HTML/CSS, and extract design details and assets.",
+        "categories": [
+            "Extension"
+        ],
+        "url": "https://sitepeel.dev/",
+        "keywords": [
+            "developer tools",
+            "design tools",
+            "browser extension",
+            "web design",
+            "website cloner"
+        ]
     },
     {
         "name": "SiteSee",
@@ -15045,6 +15178,20 @@
             "Programming"
         ],
         "url": "https://syntax.fm"
+    },
+    {
+        "name": "System Designer",
+        "description": "Free open-source browser game for practising system design. Simulate a day of traffic and read the debrief. No account or email needed to play.",
+        "categories": [
+            "Interview",
+            "Learn"
+        ],
+        "url": "https://systemdesigner.io/",
+        "keywords": [
+            "system design",
+            "architecture",
+            "interview preparation"
+        ]
     },
     {
         "name": "Table Format Converter",
@@ -17816,6 +17963,21 @@
             "Testing"
         ],
         "url": "https://www.getxray.app/"
+    },
+    {
+        "name": "XShots",
+        "description": "Native Mac app for designing, localizing, and batch-exporting app store screenshot sets. Three-day full trial, then paid access.",
+        "categories": [
+            "Screenshot",
+            "Design"
+        ],
+        "url": "https://selfark.com/xshots",
+        "keywords": [
+            "app store screenshots",
+            "google play",
+            "localization",
+            "batch export"
+        ]
     },
     {
         "name": "YAML Preflight",

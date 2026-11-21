@@ -241,6 +241,14 @@ export const resources: Resource[] = [
         ],
     },
     {
+        name: 'seo-console-mcp',
+        description:
+            'An MIT MCP server and CLI with 43 tools for Search Console, the App Store, Google Play and WordPress.org. A missing row is reported as unknown, never as zero.',
+        categories: ['SEO'],
+        url: 'https://seo-console.verdelic.com/',
+        keywords: ['SEO', 'MCP', 'CLI', 'Open Source'],
+    },
+    {
         name: 'Seotisfy',
         description:
             'Stop wasting time with clunky, siloed SEO work. Get every campaign on the same page with a tool that helps you work better, faster, and based on results.',
@@ -533,6 +541,14 @@ export const resources: Resource[] = [
             'A CSS gallery and showcase of the best web design inspiration, featuring over 2,500 websites searchable by type, subject, and style.',
         categories: ['Design', 'Inspiration', 'UI'],
         url: 'https://www.siteinspire.com/',
+    },
+    {
+        name: 'Sitepeel',
+        description:
+            'Website cloner to copy pages or elements, export HTML/CSS, and extract design details and assets.',
+        categories: ['Extension'],
+        url: 'https://sitepeel.dev/',
+        keywords: ['developer tools', 'design tools', 'browser extension', 'web design', 'website cloner'],
     },
     {
         name: 'SiteSee',
@@ -1183,5 +1199,13 @@ export const resources: Resource[] = [
             'Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.',
         categories: ['Podcast', 'Programming'],
         url: 'https://syntax.fm',
+    },
+    {
+        name: 'System Designer',
+        description:
+            'Free open-source browser game for practising system design. Simulate a day of traffic and read the debrief. No account or email needed to play.',
+        categories: ['Interview', 'Learn'],
+        url: 'https://systemdesigner.io/',
+        keywords: ['system design', 'architecture', 'interview preparation'],
     },
 ]
