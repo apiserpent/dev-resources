@@ -1,5 +1,5 @@
 {
-"count": 1372,
+"count": 1380,
 "data": [
     {
         "name": "1001 Fonts",
@@ -925,6 +925,23 @@
             "claude",
             "coding agents",
             "flat rate"
+        ]
+    },
+    {
+        "name": "Apidly Cloud",
+        "description": "Managed GPU servers and serverless GPU endpoints for AI workloads, billed by the second, with a REST API, CLI and SDKs.",
+        "categories": [
+            "Cloud Computing",
+            "Hosting",
+            "Serverless"
+        ],
+        "url": "https://apidly.com/",
+        "keywords": [
+            "gpu",
+            "gpu cloud",
+            "ai",
+            "machine learning",
+            "serverless"
         ]
     },
     {
@@ -2902,6 +2919,23 @@
         "url": "https://www.jetbrains.com/clion/"
     },
     {
+        "name": "Cloudbrowser",
+        "description": "Persistent cloud Chrome for browser automation and AI agents. Connect over CDP, preserve the browser profile, and watch the desktop in Live View.",
+        "categories": [
+            "Browser",
+            "Cloud Computing",
+            "Tooling"
+        ],
+        "url": "https://cloudbrowser.tv",
+        "keywords": [
+            "browser automation",
+            "cdp",
+            "chrome",
+            "playwright",
+            "ai agents"
+        ]
+    },
+    {
         "name": "CloudCannon",
         "description": "The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.",
         "categories": [
@@ -4264,6 +4298,23 @@
             "Marketing"
         ],
         "url": "https://customer.io/"
+    },
+    {
+        "name": "CVfy",
+        "description": "Turn a PDF or DOCX resume into a hosted developer portfolio with VS Code, terminal and bento themes and a GitHub contribution graph. Free.",
+        "categories": [
+            "Resume",
+            "Personal Website",
+            "Website Builder"
+        ],
+        "url": "https://cvfy.dev/",
+        "keywords": [
+            "portfolio",
+            "resume",
+            "personal website",
+            "github",
+            "developer"
+        ]
     },
     {
         "name": "Cynagon",
@@ -8723,6 +8774,23 @@
         ]
     },
     {
+        "name": "Kite",
+        "description": "Design tool your AI agents and your team share. Agents connect through a hosted MCP server and draw editable layers; export frames as HTML, React or Tailwind.",
+        "categories": [
+            "Design",
+            "AI",
+            "Prototyping"
+        ],
+        "url": "https://kite.new",
+        "keywords": [
+            "design",
+            "mcp",
+            "figma alternative",
+            "ui design",
+            "ai agents"
+        ]
+    },
+    {
         "name": "KitOps",
         "description": "Simple, secure, and reproducible packaging for AI/ML projects",
         "categories": [
@@ -10697,6 +10765,23 @@
             "certificates",
             "monitoring",
             "expiry alerts"
+        ]
+    },
+    {
+        "name": "NoctHost",
+        "description": "Hourly-billed VPS, GPU and bare metal on Hetzner, Vultr, DigitalOcean, Linode and OVHcloud from one prepaid balance, with an API.",
+        "categories": [
+            "Cloud Computing",
+            "Hosting"
+        ],
+        "url": "https://nocthost.com",
+        "keywords": [
+            "vps",
+            "cloud servers",
+            "gpu",
+            "hourly billing",
+            "api",
+            "terraform"
         ]
     },
     {
@@ -13183,6 +13268,24 @@
         "url": "https://github.com/antfu/retypewriter"
     },
     {
+        "name": "ReUI",
+        "description": "Free Shadcn UI components and pro blocks for React and Tailwind CSS, plus hand-crafted icons, templates and a hosted MCP server for coding agents.",
+        "categories": [
+            "UI",
+            "Library",
+            "Template"
+        ],
+        "url": "https://reui.io",
+        "keywords": [
+            "shadcn",
+            "react",
+            "tailwind css",
+            "components",
+            "blocks",
+            "mcp"
+        ]
+    },
+    {
         "name": "Reverse Engineering Anything: Installation Guide",
         "description": "Independent REA installation walkthrough: prerequisites, MCP client setup, provider selection, first static inspection, and readiness checks.",
         "categories": [
@@ -14338,6 +14441,22 @@
             "codex",
             "cursor",
             "team library"
+        ]
+    },
+    {
+        "name": "SkillXP",
+        "description": "Practice SQL, Python, Rust, and TypeScript in the browser with hands-on coding exercises and immediate feedback. Beginner lessons are free.",
+        "categories": [
+            "Learn",
+            "Programming"
+        ],
+        "url": "https://skill-xp.com",
+        "keywords": [
+            "sql",
+            "python",
+            "rust",
+            "typescript",
+            "data engineering"
         ]
     },
     {
@@ -18125,6 +18244,27 @@
             "Resume"
         ],
         "url": "https://zety.com/"
+    },
+    {
+        "name": "ZoneBI",
+        "description": "Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC and Spamhaus blocklists, with status pages. Free plan for 3 domains.",
+        "categories": [
+            "Domain",
+            "Security",
+            "Email"
+        ],
+        "url": "https://zonebi.com",
+        "keywords": [
+            "monitoring",
+            "uptime",
+            "ssl",
+            "dns",
+            "domain expiry",
+            "dmarc",
+            "spf",
+            "dkim",
+            "status page"
+        ]
     },
     {
         "name": "Zuzia.app",

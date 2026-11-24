@@ -425,6 +425,14 @@ export const resources: Resource[] = [
         url: 'https://www.jetbrains.com/clion/',
     },
     {
+        name: 'Cloudbrowser',
+        description:
+            'Persistent cloud Chrome for browser automation and AI agents. Connect over CDP, preserve the browser profile, and watch the desktop in Live View.',
+        categories: ['Browser', 'Cloud Computing', 'Tooling'],
+        url: 'https://cloudbrowser.tv',
+        keywords: ['browser automation', 'cdp', 'chrome', 'playwright', 'ai agents'],
+    },
+    {
         name: 'CloudCannon',
         description:
             'The Git-based CMS that lets your team edit Jamstack sites. Sync your files from GitHub, Bitbucket, or GitLab to CloudCannon and edit content visually with your team.',
@@ -1434,6 +1442,14 @@ export const resources: Resource[] = [
             'With Customer.io, send targeted emails, push notifications, and SMS to lower churn, create stronger relationships, and drive subscriptions.',
         categories: ['Marketing'],
         url: 'https://customer.io/',
+    },
+    {
+        name: 'CVfy',
+        description:
+            'Turn a PDF or DOCX resume into a hosted developer portfolio with VS Code, terminal and bento themes and a GitHub contribution graph. Free.',
+        categories: ['Resume', 'Personal Website', 'Website Builder'],
+        url: 'https://cvfy.dev/',
+        keywords: ['portfolio', 'resume', 'personal website', 'github', 'developer'],
     },
     {
         name: 'Cynagon',
