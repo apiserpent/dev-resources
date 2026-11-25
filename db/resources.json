@@ -1,5 +1,5 @@
 {
-"count": 1380,
+"count": 1382,
 "data": [
     {
         "name": "1001 Fonts",
@@ -703,6 +703,24 @@
             "remote",
             "jobs",
             "developer"
+        ]
+    },
+    {
+        "name": "AIRewards",
+        "description": "AI-native ad network for developers. Earn from one sponsored line inside ChatGPT, Claude, Gemini, Grok and coding tools like Claude Code and Cursor.",
+        "categories": [
+            "AI",
+            "Extension",
+            "Marketing"
+        ],
+        "url": "https://www.airewards.tech",
+        "keywords": [
+            "ai",
+            "ads",
+            "monetization",
+            "claude code",
+            "chatgpt",
+            "developer tools"
         ]
     },
     {
@@ -6274,6 +6292,29 @@
         ]
     },
     {
+        "name": "Free LLM API Hub",
+        "description": "Compare free LLM and AI-model API tiers: no-card, no-phone and commercial-use filters, each entry dated and sourced to the provider docs.",
+        "categories": [
+            "AI",
+            "Open Source"
+        ],
+        "url": "https://freellmapihub.com/",
+        "keywords": [
+            "free",
+            "llm",
+            "ai",
+            "api",
+            "free tier",
+            "openai compatible",
+            "gemini",
+            "groq",
+            "openrouter",
+            "embeddings",
+            "speech to text",
+            "ocr"
+        ]
+    },
+    {
         "name": "freeCodeCamp",
         "description": "Learn to code at home. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
         "categories": [
@@ -9396,6 +9437,26 @@
             "private",
             "productivity tool",
             "ollama alternative"
+        ]
+    },
+    {
+        "name": "LocalDevTools",
+        "description": "Free client-side developer utilities running in browser RAM: JSON/SQL formatters, Myers diff, regex AST tester, JWT decoder, CSS studio, and SEO tools.",
+        "categories": [
+            "Tooling",
+            "Browser",
+            "SEO"
+        ],
+        "url": "https://localdevtools.dev/",
+        "keywords": [
+            "developer tools",
+            "json",
+            "regex",
+            "diff",
+            "jwt",
+            "sql",
+            "seo",
+            "client-side"
         ]
     },
     {
@@ -18145,25 +18206,6 @@
             "on-device",
             "cli",
             "local-first"
-        ]
-    },
-    {
-        "name": "YunCMS",
-        "description": "Open-source, self-hosted MySQL CMS with a React admin studio, REST API, role-based permissions, file storage and built-in MCP tools.",
-        "categories": [
-            "CMS",
-            "API Building",
-            "Open Source"
-        ],
-        "url": "https://yunsoft.com/case-study/yuncms-programmable-cms-backend",
-        "keywords": [
-            "mysql",
-            "headless cms",
-            "node.js",
-            "react",
-            "rest api",
-            "mcp",
-            "self-hosted"
         ]
     },
     {
