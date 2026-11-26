@@ -106,6 +106,14 @@ export const resources: Resource[] = [
         url: 'https://www.eggradients.com/',
     },
     {
+        name: 'Egmatic',
+        description:
+            'No-code editor for 2D games: visual node logic, drag-and-drop scenes, real-time preview, exports to six platforms. Free during early access.',
+        categories: ['Editor'],
+        url: 'https://egmatic.com',
+        keywords: ['no-code', 'game editor', '2d games', 'game engine', 'indie dev', 'visual programming'],
+    },
+    {
         name: 'Eleventy High Performance Blog',
         description:
             "I'm excited to announce the beta-release of eleventy-high-performance-blog–a high-performance blog template for 11ty based on this very...",
@@ -124,6 +132,13 @@ export const resources: Resource[] = [
             'Emacs or EMACS is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, customizable, self-documenting, real-time display editor".',
         categories: ['Editor', 'Terminal'],
         url: 'https://www.gnu.org/software/emacs/',
+    },
+    {
+        name: 'EmailFig',
+        description: 'Campaigns, automations, signup forms and segments, on every plan including the free one.',
+        categories: ['Email'],
+        url: 'https://emailfig.com',
+        keywords: ['email marketing', 'newsletters', 'automation', 'amazon ses'],
     },
     {
         name: 'EMBERWORK',
